@@ -21,14 +21,14 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 [Boletín 4](problemas/boletínED4.pdf)  | [Boletín 5](problemas/boletínED5.pdf)  | [Boletín 6](problemas/boletínED6.pdf)  | [Boletín 7](problemas/boletínED7.pdf) | [Boletín 8](problemas/boletínED8.pdf)
 --|---|---|--|--|
-[Problema 4.1.](problemas/Ej41.ice)  | [Problema 5.1.](problemas/Ej51.ice)  | [Problema 6.1.](problemas/Ej61.ice)   | Problema 7.1. | Problema 8.1.
-[Problema 4.2.](problemas/Ej42.ice)  | [Problema 5.2.](problemas/Ej52.ice)  | [Problema 6.2.](problemas/Ej62.ice)  |  Problema 7.2.| Problema 8.2.
+[Problema 4.1.](problemas/Ej41.ice)  | [Problema 5.1.](problemas/Ej51.ice)  | [Problema 6.1.](problemas/Ej61.ice)   | [Problema 7.1.](problemas/Ej71.ice) | [Problema 8.1.](problemas/Ej81.ice)
+[Problema 4.2.](problemas/Ej42.ice)  | [Problema 5.2.](problemas/Ej52.ice)  | [Problema 6.2.](problemas/Ej62.ice)  |  [Problema 7.2.](problemas/Ej72.ice)| Problema 8.2.
 [Problema 4.2. (en bloque)](problemas/Ej42Bloque.ice)  |   |   |   |
-[Problema 4.3.](problemas/Ej43.ice)  | [Problema 5.3.](problemas/Ej53.ice)  |[Problema 6.3.](problemas/Ej63.ice)   |  Problema 7.3.|
+[Problema 4.3.](problemas/Ej43.ice)  | [Problema 5.3.](problemas/Ej53.ice)  |[Problema 6.3.](problemas/Ej63.ice)   |  [Problema 7.3.](problemas/Ej73.ice)|
 [Problema 4.3. (con puertas de 3 entradas)](problemas/Ej43B.ice)|   |   |   |
-[Problema 4.4.](problemas/Ej44.ice)  | [Problema 5.4.](problemas/Ej54.ice)  |[Problema 6.4.](problemas/Ej64.ice)   | Problema 7.4. |
+[Problema 4.4.](problemas/Ej44.ice)  | [Problema 5.4.](problemas/Ej54.ice)  |[Problema 6.4.](problemas/Ej64.ice)   | [Problema 7.4.](problemas/Ej74.ice) |
 [Problema 4.4. (en bloque)](problemas/Ej44Bloque.ice)  |  |  |  |
-[Problema 4.5.](problemas/Ej45.ice)  |   |  [Problema 6.5.](problemas/Ej65.ice) | Problema 7.5. |
+[Problema 4.5.](problemas/Ej45.ice)  |   |  [Problema 6.5.](problemas/Ej65.ice) | [Problema 7.5.](problemas/Ej75.ice) |
 [Problema 4.5. (con puertas de 3 entradas)](problemas/Ej5B.ice)  |   |  |  |
-[Problema 4.6.](problemas/Ej46.ice)  |   |   | Problema 7.6. |
+[Problema 4.6.](problemas/Ej46.ice)  |   |   | [Problema 7.6.](problemas/Ej76.ice) |
 [Problema 4.7.](problemas/Ej47.ice)  |   |   |  |
