@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 1 del Boletín 5 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -289,10 +289,10 @@
     },
     "state": {
       "pan": {
-        "x": 426.5,
-        "y": 256
+        "x": 196.9194,
+        "y": 231.6855
       },
-      "zoom": 1
+      "zoom": 0.8528
     }
   },
   "dependencies": {

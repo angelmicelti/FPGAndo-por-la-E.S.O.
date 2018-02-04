@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 4 del Boletín 5 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -55,7 +55,7 @@
           "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "MOTOR",
+            "name": "LIMPIA",
             "pins": [
               {
                 "index": "0",
@@ -505,7 +505,7 @@
     "state": {
       "pan": {
         "x": 402.5,
-        "y": 248
+        "y": 256
       },
       "zoom": 1
     }

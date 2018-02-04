@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 4 del Boletín 4 de Electrónica Digital",
     "version": "",
-    "description": "",
-    "author": "",
+    "description": "Resuelto con un bloque \"misterioso\"",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -15,7 +15,7 @@
           "id": "7cbe252d-5993-4155-a826-698fe83fc405",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "Padre",
             "pins": [
               {
                 "index": "0",
@@ -27,15 +27,15 @@
             "clock": false
           },
           "position": {
-            "x": 176,
-            "y": -40
+            "x": 128,
+            "y": -160
           }
         },
         {
           "id": "af2aa67c-22c8-48ca-a4d6-dee740e757f1",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "Tele",
             "pins": [
               {
                 "index": "0",
@@ -46,15 +46,15 @@
             "virtual": false
           },
           "position": {
-            "x": 536,
-            "y": -8
+            "x": 488,
+            "y": -128
           }
         },
         {
           "id": "a75ba391-3dd4-493a-b986-ad6c41c3ceac",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "Madre",
             "pins": [
               {
                 "index": "0",
@@ -66,15 +66,15 @@
             "clock": false
           },
           "position": {
-            "x": 176,
-            "y": 40
+            "x": 128,
+            "y": -80
           }
         },
         {
           "id": "ab1e269a-4cc8-4fd6-a25e-86d3f805060e",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "Tele",
             "pins": [
               {
                 "index": "0",
@@ -85,15 +85,15 @@
             "virtual": false
           },
           "position": {
-            "x": 536,
-            "y": 88
+            "x": 488,
+            "y": -32
           }
         },
         {
           "id": "40cad227-a4ce-4e15-a2d3-8fd6647f58f5",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "Hijo",
             "pins": [
               {
                 "index": "0",
@@ -105,16 +105,16 @@
             "clock": false
           },
           "position": {
-            "x": 176,
-            "y": 120
+            "x": 128,
+            "y": 0
           }
         },
         {
           "id": "6715965a-84f6-4dbf-98ef-67d2a5f10f39",
           "type": "69f9191d068644fcf90b8e61c893919e87f6d7bc",
           "position": {
-            "x": 360,
-            "y": 24
+            "x": 312,
+            "y": -96
           },
           "size": {
             "width": 96,
@@ -125,7 +125,7 @@
           "id": "5046eec3-ed29-45c5-a7b0-c406c03972b4",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 4.4. En una familia de tres miembros (papá, mamá e hijo), apasionados por la electrónica digital,\r\ndeciden construir un circuito que decida cuándo se ve la televisión. El circuito debe cumplir las siguientes condiciones:\r\na)\tLa decisión la toman los padres: si papá y mamá están de acuerdo, se hace lo que digan ellos.\r\nb)\tSi papá y mamá no se ponen de acuerdo, decidirá el hijo.",
+            "info": "EJERCICIO 4.4. En una familia de tres miembros (papá, mamá e hijo), apasionados por la electrónica digital,\r\ndeciden construir un circuito que decida cuándo se ve la televisión. El circuito debe cumplir las siguientes condiciones:\r\na) La decisión la toman los padres: si papá y mamá están de acuerdo, se hace lo que digan ellos.\r\nb) Si papá y mamá no se ponen de acuerdo, decidirá el hijo.",
             "readonly": true
           },
           "position": {
@@ -193,10 +193,10 @@
     },
     "state": {
       "pan": {
-        "x": 334.5,
-        "y": 296
+        "x": 152.3594,
+        "y": 382.4219
       },
-      "zoom": 1
+      "zoom": 0.8262
     }
   },
   "dependencies": {

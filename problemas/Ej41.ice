@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 1 del boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán",
     "image": ""
   },
   "design": {
@@ -207,10 +207,10 @@
     },
     "state": {
       "pan": {
-        "x": 45.76,
-        "y": 101.56
+        "x": 10.3158,
+        "y": 170.3421
       },
-      "zoom": 0.855
+      "zoom": 0.9276
     }
   },
   "dependencies": {

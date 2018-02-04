@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "package": {
-    "name": "Ejercicio 4 del Boletín 4 de Electrónica Digital",
+    "name": "Ejercicio 5 del Boletín 6 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -15,7 +15,7 @@
           "id": "5ae74fb3-6113-4c94-8a56-48680104d806",
           "type": "basic.input",
           "data": {
-            "name": "Padre",
+            "name": "A_horiz",
             "pins": [
               {
                 "index": "0",
@@ -32,10 +32,29 @@
           }
         },
         {
+          "id": "c410b25a-140f-4bb5-877f-64066933f399",
+          "type": "basic.output",
+          "data": {
+            "name": "N",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "95"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 608,
+            "y": 144
+          }
+        },
+        {
           "id": "7183741e-76a9-4e20-af38-56f17534e1da",
           "type": "basic.input",
           "data": {
-            "name": "Madre",
+            "name": "B_horiz",
             "pins": [
               {
                 "index": "0",
@@ -52,29 +71,10 @@
           }
         },
         {
-          "id": "c410b25a-140f-4bb5-877f-64066933f399",
-          "type": "basic.output",
-          "data": {
-            "name": "Tele",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED0",
-                "value": "95"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 696,
-            "y": 264
-          }
-        },
-        {
           "id": "1317c93f-a002-493c-b899-309a92a0019b",
           "type": "basic.input",
           "data": {
-            "name": "Hijo",
+            "name": "C_vert",
             "pins": [
               {
                 "index": "0",
@@ -91,54 +91,11 @@
           }
         },
         {
-          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
-          "type": "basic.output",
-          "data": {
-            "name": "Tele",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED1",
-                "value": "96"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 696,
-            "y": 360
-          }
-        },
-        {
           "id": "d9162604-62fd-437a-b778-759cc9e06b83",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
             "x": 224,
             "y": 72
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "dc20e611-5e3d-4066-978e-49738759b9a6",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 216
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "f4460020-be0f-4cc5-9994-6de8022d257d",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 400
           },
           "size": {
             "width": 96,
@@ -158,95 +115,19 @@
           }
         },
         {
-          "id": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
-          "position": {
-            "x": 552,
-            "y": 264
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "ec7bbedf-a8bd-4e2c-b239-e245092a424f",
+          "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
           "type": "basic.info",
           "data": {
-            "info": "Encendemos dos ledes\npara mejorar\nla visualización",
+            "info": "EJERCICIO 6.5.\tEn una máquina de la fábrica de piezas metálicas TODOMETAL S.L., se dispone de tres detectores\nde barrera fotoeléctrica. Dos de ellos miden la longitud de la pieza, de modo que si la pieza interrumpe\nlos haces láser que inciden sobre las células fotoeléctricas simultáneamente, la pieza es rechazada\n(por ser demasiado larga). Un tercer detector mide la altura de la pieza.\nSi se activa, la pieza también es rechazada (por ser demasiado alta).\nUn cilindro neumático N se activa cuando hay que rechazar cada pieza. ",
             "readonly": true
           },
           "position": {
-            "x": 664,
-            "y": 432
+            "x": 24,
+            "y": -96
           },
           "size": {
-            "width": 192,
-            "height": 96
-          }
-        },
-        {
-          "id": "63620568-737e-44b2-9e9d-ef8685278683",
-          "type": "basic.info",
-          "data": {
-            "info": "A·B",
-            "readonly": true
-          },
-          "position": {
-            "x": 248,
-            "y": 32
-          },
-          "size": {
-            "width": 64,
-            "height": 48
-          }
-        },
-        {
-          "id": "e934f0b1-02c7-48ff-9fd7-5e1b71688b7b",
-          "type": "basic.info",
-          "data": {
-            "info": "A·C",
-            "readonly": true
-          },
-          "position": {
-            "x": 248,
-            "y": 184
-          },
-          "size": {
-            "width": 64,
-            "height": 48
-          }
-        },
-        {
-          "id": "e1655e81-7451-454c-abc1-ed615b5e75d6",
-          "type": "basic.info",
-          "data": {
-            "info": "B·C",
-            "readonly": true
-          },
-          "position": {
-            "x": 248,
-            "y": 368
-          },
-          "size": {
-            "width": 64,
-            "height": 32
-          }
-        },
-        {
-          "id": "e52e763f-730a-4f66-8be6-537e0a878486",
-          "type": "basic.info",
-          "data": {
-            "info": "EJERCICIO 4.4. En una familia de tres miembros (papá, mamá e hijo), apasionados por la electrónica digital,\r\ndeciden construir un circuito que decida cuándo se ve la televisión. El circuito debe cumplir las siguientes condiciones:\r\na) La decisión la toman los padres: si papá y mamá están de acuerdo, se hace lo que digan ellos.\r\nb) Si papá y mamá no se ponen de acuerdo, decidirá el hijo.",
-            "readonly": true
-          },
-          "position": {
-            "x": -88,
-            "y": -72
-          },
-          "size": {
-            "width": 1056,
-            "height": 112
+            "width": 944,
+            "height": 144
           }
         }
       ],
@@ -273,64 +154,6 @@
         },
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
-          },
-          "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 168,
-              "y": 104
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
-            "port": "out"
-          },
-          "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
-            "port": "out"
-          },
-          "target": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 160,
-              "y": 376
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
-            "port": "out"
-          },
-          "target": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 176,
-              "y": 384
-            }
-          ]
-        },
-        {
-          "source": {
             "block": "d9162604-62fd-437a-b778-759cc9e06b83",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
@@ -341,8 +164,8 @@
         },
         {
           "source": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "1317c93f-a002-493c-b899-309a92a0019b",
+            "port": "out"
           },
           "target": {
             "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
@@ -351,41 +174,11 @@
         },
         {
           "source": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
             "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
             "block": "c410b25a-140f-4bb5-877f-64066933f399",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
             "port": "in"
           }
         }
@@ -393,10 +186,10 @@
     },
     "state": {
       "pan": {
-        "x": 110.5,
-        "y": 113.8409
+        "x": 242.5,
+        "y": 236
       },
-      "zoom": 0.8011
+      "zoom": 1
     }
   },
   "dependencies": {

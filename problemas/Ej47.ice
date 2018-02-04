@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 7 del Boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -15,7 +15,7 @@
           "id": "5ae74fb3-6113-4c94-8a56-48680104d806",
           "type": "basic.input",
           "data": {
-            "name": "A",
+            "name": "A_sup",
             "pins": [
               {
                 "index": "0",
@@ -35,7 +35,7 @@
           "id": "7183741e-76a9-4e20-af38-56f17534e1da",
           "type": "basic.input",
           "data": {
-            "name": "B",
+            "name": "B_sup",
             "pins": [
               {
                 "index": "0",
@@ -52,29 +52,10 @@
           }
         },
         {
-          "id": "c410b25a-140f-4bb5-877f-64066933f399",
-          "type": "basic.output",
-          "data": {
-            "name": "W",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED0",
-                "value": "95"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 568,
-            "y": 208
-          }
-        },
-        {
           "id": "1317c93f-a002-493c-b899-309a92a0019b",
           "type": "basic.input",
           "data": {
-            "name": "C",
+            "name": "C_inf",
             "pins": [
               {
                 "index": "0",
@@ -91,29 +72,29 @@
           }
         },
         {
-          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
+          "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "Maquina",
             "pins": [
               {
                 "index": "0",
-                "name": "LED1",
-                "value": "96"
+                "name": "LED0",
+                "value": "95"
               }
             ],
             "virtual": false
           },
           "position": {
             "x": 568,
-            "y": 304
+            "y": 256
           }
         },
         {
           "id": "30733d59-bea3-4706-8c83-7aa90800814a",
           "type": "basic.input",
           "data": {
-            "name": "D",
+            "name": "D_inf",
             "pins": [
               {
                 "index": "0",
@@ -163,22 +144,6 @@
           "size": {
             "width": 96,
             "height": 64
-          }
-        },
-        {
-          "id": "ec7bbedf-a8bd-4e2c-b239-e245092a424f",
-          "type": "basic.info",
-          "data": {
-            "info": "Encendemos dos ledes\npara mejorar\nla visualización",
-            "readonly": true
-          },
-          "position": {
-            "x": 536,
-            "y": 376
-          },
-          "size": {
-            "width": 192,
-            "height": 96
           }
         },
         {
@@ -291,16 +256,6 @@
         },
         {
           "source": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
             "port": "out"
           },
@@ -403,10 +358,10 @@
     },
     "state": {
       "pan": {
-        "x": 378.5,
-        "y": 160
+        "x": 200.8675,
+        "y": 132.7108
       },
-      "zoom": 1
+      "zoom": 0.7726
     }
   },
   "dependencies": {

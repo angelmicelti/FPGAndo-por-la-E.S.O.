@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 3 del boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -67,7 +67,7 @@
           },
           "position": {
             "x": 792,
-            "y": 304
+            "y": 256
           }
         },
         {
@@ -86,7 +86,7 @@
           },
           "position": {
             "x": 792,
-            "y": 400
+            "y": 352
           }
         },
         {
@@ -178,7 +178,7 @@
           },
           "position": {
             "x": 760,
-            "y": 472
+            "y": 424
           },
           "size": {
             "width": 192,
@@ -549,10 +549,10 @@
     },
     "state": {
       "pan": {
-        "x": 395.9284,
-        "y": 142.2859
+        "x": 175.8315,
+        "y": 157.0978
       },
-      "zoom": 0.8095
+      "zoom": 0.697
     }
   },
   "dependencies": {

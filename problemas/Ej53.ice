@@ -174,7 +174,7 @@
           "type": "basic.info",
           "data": {
             "info": "EJERCICIO 5.3.\tDiseña un circuito de control de un motor y una lámpara mediante tres pulsadores, A, B y C,\r\nque cumplan las siguientes condiciones:\r\n* Si se pulsan los tres pulsadores el motor se activa.\r\n* Si se pulsan dos pulsadores cualesquiera, el motor se activa, pero se enciende una lámpara de peligro.\r\n* Si sólo se pulsa un pulsador, el motor no se activa, pero sí se enciende la lámpara indicadora de peligro.\r\n* Si no se pulsa ningún pulsador, el motor y la lámpara están desconectados.\r\n",
-            "readonly": false
+            "readonly": true
           },
           "position": {
             "x": 16,
@@ -591,10 +591,10 @@
     },
     "state": {
       "pan": {
-        "x": 169.3571,
-        "y": 150.6667
+        "x": 27.9143,
+        "y": 127.3
       },
-      "zoom": 0.9881
+      "zoom": 0.7554
     }
   },
   "dependencies": {

@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 5 del Boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -27,8 +27,8 @@
             "clock": false
           },
           "position": {
-            "x": -72,
-            "y": -24
+            "x": -80,
+            "y": -72
           }
         },
         {
@@ -47,15 +47,15 @@
             "clock": false
           },
           "position": {
-            "x": -72,
-            "y": 216
+            "x": -80,
+            "y": 168
           }
         },
         {
           "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "J1",
             "pins": [
               {
                 "index": "0",
@@ -66,15 +66,15 @@
             "virtual": false
           },
           "position": {
-            "x": 688,
-            "y": 224
+            "x": 680,
+            "y": 176
           }
         },
         {
           "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "J1",
             "pins": [
               {
                 "index": "0",
@@ -85,8 +85,8 @@
             "virtual": false
           },
           "position": {
-            "x": 688,
-            "y": 320
+            "x": 680,
+            "y": 272
           }
         },
         {
@@ -105,16 +105,16 @@
             "clock": false
           },
           "position": {
-            "x": -72,
-            "y": 424
+            "x": -80,
+            "y": 376
           }
         },
         {
           "id": "d9162604-62fd-437a-b778-759cc9e06b83",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 384,
-            "y": 160
+            "x": 376,
+            "y": 112
           },
           "size": {
             "width": 96,
@@ -125,8 +125,8 @@
           "id": "dc20e611-5e3d-4066-978e-49738759b9a6",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 248,
-            "y": 80
+            "x": 240,
+            "y": 32
           },
           "size": {
             "width": 96,
@@ -137,8 +137,8 @@
           "id": "f4460020-be0f-4cc5-9994-6de8022d257d",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 240,
-            "y": 304
+            "x": 232,
+            "y": 256
           },
           "size": {
             "width": 96,
@@ -149,8 +149,8 @@
           "id": "eea63177-35b8-41d7-898d-b05fabe56dc7",
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": 512,
-            "y": 264
+            "x": 504,
+            "y": 216
           },
           "size": {
             "width": 96,
@@ -165,8 +165,8 @@
             "readonly": true
           },
           "position": {
-            "x": 648,
-            "y": 400
+            "x": 640,
+            "y": 352
           },
           "size": {
             "width": 192,
@@ -181,8 +181,8 @@
             "readonly": true
           },
           "position": {
-            "x": 400,
-            "y": 344
+            "x": 392,
+            "y": 296
           },
           "size": {
             "width": 96,
@@ -197,8 +197,8 @@
             "readonly": true
           },
           "position": {
-            "x": 400,
-            "y": 128
+            "x": 392,
+            "y": 80
           },
           "size": {
             "width": 96,
@@ -209,8 +209,8 @@
           "id": "63cd28ca-c36b-48ce-a076-ee44f031a15a",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 32,
-            "y": 64
+            "x": 24,
+            "y": 16
           },
           "size": {
             "width": 96,
@@ -221,8 +221,8 @@
           "id": "2b09599b-bf1b-4c5d-8a57-3e107422b637",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 40,
-            "y": 304
+            "x": 32,
+            "y": 256
           },
           "size": {
             "width": 96,
@@ -233,8 +233,8 @@
           "id": "d7a6f0b9-ffa1-4da9-828d-8c1a89d9b608",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 40,
-            "y": 504
+            "x": 32,
+            "y": 456
           },
           "size": {
             "width": 96,
@@ -261,12 +261,28 @@
           "id": "1dd84967-bdda-437c-b069-37fc1dc8f7e2",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 384,
-            "y": 376
+            "x": 376,
+            "y": 328
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "7d7542a4-015b-4d4c-8123-17f0d48cd2ae",
+          "type": "basic.info",
+          "data": {
+            "info": "RESOLVEMOS PARA\nUN JUGADOR CUALQUIERA.\nPOR EJEMPLO, EL A",
+            "readonly": true
+          },
+          "position": {
+            "x": 576,
+            "y": -24
+          },
+          "size": {
+            "width": 224,
+            "height": 96
           }
         }
       ],
@@ -342,8 +358,8 @@
           },
           "vertices": [
             {
-              "x": 72,
-              "y": 200
+              "x": 64,
+              "y": 152
             }
           ]
         },
@@ -368,8 +384,8 @@
           },
           "vertices": [
             {
-              "x": 184,
-              "y": 360
+              "x": 176,
+              "y": 312
             }
           ]
         },
@@ -437,10 +453,10 @@
     },
     "state": {
       "pan": {
-        "x": 366.8043,
-        "y": 191.5652
+        "x": 182.6395,
+        "y": 165.2674
       },
-      "zoom": 0.9022
+      "zoom": 0.7456
     }
   },
   "dependencies": {

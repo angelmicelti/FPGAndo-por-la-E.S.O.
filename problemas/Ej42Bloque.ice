@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 2 del boletín 4 de Electrónica Digital",
     "version": "",
-    "description": "",
-    "author": "",
+    "description": "Se ha resuelto utilizando un bloque \"misterioso\"",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -15,7 +15,7 @@
           "id": "7cbe252d-5993-4155-a826-698fe83fc405",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "A",
             "pins": [
               {
                 "index": "0",
@@ -54,7 +54,7 @@
           "id": "a75ba391-3dd4-493a-b986-ad6c41c3ceac",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "B",
             "pins": [
               {
                 "index": "0",
@@ -93,7 +93,7 @@
           "id": "40cad227-a4ce-4e15-a2d3-8fd6647f58f5",
           "type": "basic.input",
           "data": {
-            "name": "in",
+            "name": "C",
             "pins": [
               {
                 "index": "0",
@@ -193,10 +193,10 @@
     },
     "state": {
       "pan": {
-        "x": 334.5,
-        "y": 296
+        "x": 76.3913,
+        "y": 300.2174
       },
-      "zoom": 1
+      "zoom": 0.9293
     }
   },
   "dependencies": {

@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 5 del Boletín 4 de Electrónica Digital",
     "version": "",
-    "description": "",
-    "author": "",
+    "description": "Resuelto con puertas lógicas de 3 entradas",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -361,10 +361,10 @@
     },
     "state": {
       "pan": {
-        "x": 451.7727,
-        "y": 206
+        "x": 274.9659,
+        "y": 168.25
       },
-      "zoom": 0.9432
+      "zoom": 0.7287
     }
   },
   "dependencies": {

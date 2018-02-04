@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "",
+    "name": "Ejercicio 2 del Boletín 5 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "",
+    "author": "Ángel Millán León",
     "image": ""
   },
   "design": {
@@ -131,7 +131,7 @@
           "type": "basic.info",
           "data": {
             "info": "EJERCICIO 5.2.\tEn una fábrica hay tres depósitos de agua, con sensores de nivel A, B y C. \nEn los depósitos A y B hay una bomba hidráulica en cada uno (que llamaremos S y T, respectivamente).\nS envía el agua al depósito B, y T al C.\nUna bomba se pone en marcha cuando su correspondiente depósito está lleno,\ny el depósito de destino no lo esté.",
-            "readonly": false
+            "readonly": true
           },
           "position": {
             "x": 40,
@@ -284,10 +284,10 @@
     },
     "state": {
       "pan": {
-        "x": 250.5,
-        "y": 144
+        "x": 74.9615,
+        "y": 138.6538
       },
-      "zoom": 1
+      "zoom": 0.8221
     }
   },
   "dependencies": {
