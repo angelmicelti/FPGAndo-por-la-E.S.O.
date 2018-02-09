@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "package": {
-    "name": "Ejercicio 2 del boletín 4 de Electrónica Digital",
+    "name": "Ejercicio 1 del Boletín 5 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -27,8 +27,27 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 56
+            "x": -168,
+            "y": -24
+          }
+        },
+        {
+          "id": "c410b25a-140f-4bb5-877f-64066933f399",
+          "type": "basic.output",
+          "data": {
+            "name": "W",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "95"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 384,
+            "y": 64
           }
         },
         {
@@ -47,27 +66,27 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 176
+            "x": -168,
+            "y": 80
           }
         },
         {
-          "id": "c410b25a-140f-4bb5-877f-64066933f399",
+          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
           "type": "basic.output",
           "data": {
             "name": "W",
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED1",
+                "value": "96"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 696,
-            "y": 264
+            "x": 384,
+            "y": 160
           }
         },
         {
@@ -86,87 +105,28 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 288
+            "x": -168,
+            "y": 176
           }
         },
         {
-          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
-          "type": "basic.output",
+          "id": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b",
+          "type": "basic.input",
           "data": {
-            "name": "W",
+            "name": "D",
             "pins": [
               {
                 "index": "0",
-                "name": "LED1",
-                "value": "96"
+                "name": "D3",
+                "value": "116"
               }
             ],
-            "virtual": false
+            "virtual": false,
+            "clock": false
           },
           "position": {
-            "x": 696,
-            "y": 360
-          }
-        },
-        {
-          "id": "d9162604-62fd-437a-b778-759cc9e06b83",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 72
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "dc20e611-5e3d-4066-978e-49738759b9a6",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 216
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "f4460020-be0f-4cc5-9994-6de8022d257d",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 400
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
-          "position": {
-            "x": 424,
-            "y": 144
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
-          "position": {
-            "x": 552,
+            "x": -168,
             "y": 264
-          },
-          "size": {
-            "width": 96,
-            "height": 64
           }
         },
         {
@@ -177,8 +137,8 @@
             "readonly": true
           },
           "position": {
-            "x": 664,
-            "y": 432
+            "x": 352,
+            "y": 232
           },
           "size": {
             "width": 192,
@@ -186,88 +146,76 @@
           }
         },
         {
-          "id": "63620568-737e-44b2-9e9d-ef8685278683",
+          "id": "f509d437-995e-4f89-aec4-085c71e5b176",
           "type": "basic.info",
           "data": {
-            "info": "A·B",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 5.1.**</h3>\tSe ha instalado una alarma en el marco de una puerta.\r\nPara su funcionamiento, se ha habilitado un sensor en cada uno de los vértices de la puerta.\r\nPara que se active la alarma, deben activarse dos o más sensores, pero no se activará si están a la misma altura\r\no en la misma vertical. \r\n",
             "readonly": true
           },
           "position": {
-            "x": 248,
-            "y": 32
+            "x": -184,
+            "y": -176
           },
           "size": {
-            "width": 64,
-            "height": 48
+            "width": 992,
+            "height": 112
           }
         },
         {
-          "id": "e934f0b1-02c7-48ff-9fd7-5e1b71688b7b",
-          "type": "basic.info",
-          "data": {
-            "info": "A·C",
-            "readonly": true
-          },
+          "id": "ece5954c-b9b8-460d-bf33-922de4b17009",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 248,
-            "y": 184
+            "x": 56,
+            "y": 24
           },
           "size": {
-            "width": 64,
-            "height": 48
+            "width": 96,
+            "height": 64
           }
         },
         {
-          "id": "e1655e81-7451-454c-abc1-ed615b5e75d6",
-          "type": "basic.info",
-          "data": {
-            "info": "B·C",
-            "readonly": true
-          },
+          "id": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 248,
-            "y": 368
+            "x": 56,
+            "y": 208
           },
           "size": {
-            "width": 64,
-            "height": 32
+            "width": 96,
+            "height": 64
           }
         },
         {
-          "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
-          "type": "basic.info",
-          "data": {
-            "info": "EJERCICIO 4.2. La alarma de una vivienda posee tres sensores: A, B y C.\nDicha alarma debe activarse cuando por lo menos dos de los tres sensores estén activados. ",
-            "readonly": true
-          },
+          "id": "3e4f4857-952d-4809-a998-30a88dbd4409",
+          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": 152,
-            "y": -72
+            "x": 224,
+            "y": 112
           },
           "size": {
-            "width": 784,
-            "height": 96
+            "width": 96,
+            "height": 64
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
         {
           "source": {
-            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
-            "port": "out"
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
@@ -277,15 +225,9 @@
             "port": "out"
           },
           "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 168,
-              "y": 104
-            }
-          ]
+          }
         },
         {
           "source": {
@@ -293,7 +235,7 @@
             "port": "out"
           },
           "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
@@ -303,75 +245,29 @@
             "port": "out"
           },
           "target": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           },
           "vertices": [
             {
-              "x": 160,
-              "y": 376
+              "x": -16,
+              "y": 152
             }
           ]
         },
         {
           "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
+            "block": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b",
             "port": "out"
           },
           "target": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 176,
-              "y": 384
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
         {
           "source": {
-            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -381,7 +277,7 @@
         },
         {
           "source": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -393,10 +289,10 @@
     },
     "state": {
       "pan": {
-        "x": 45.76,
-        "y": 101.56
+        "x": 293.5,
+        "y": 221
       },
-      "zoom": 0.855
+      "zoom": 1
     }
   },
   "dependencies": {

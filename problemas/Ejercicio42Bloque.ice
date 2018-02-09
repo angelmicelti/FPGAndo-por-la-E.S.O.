@@ -125,7 +125,7 @@
           "id": "7b1fed84-638d-4af1-ba82-c45730db7c57",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 4.2. La alarma de una vivienda posee tres sensores: A, B y C.\nDicha alarma debe activarse cuando por lo menos dos de los tres sensores estén activados. ",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 4.2.**</h3> La alarma de una vivienda posee tres sensores: A, B y C.\nDicha alarma debe activarse cuando por lo menos dos de los tres sensores estén activados. ",
             "readonly": true
           },
           "position": {
@@ -193,10 +193,10 @@
     },
     "state": {
       "pan": {
-        "x": 76.3913,
-        "y": 300.2174
+        "x": 218.1377,
+        "y": 300.7246
       },
-      "zoom": 0.9293
+      "zoom": 0.9312
     }
   },
   "dependencies": {

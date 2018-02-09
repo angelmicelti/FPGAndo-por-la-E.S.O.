@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "package": {
-    "name": "Ejercicio 5 del Boletín 6 de Electrónica Digital",
+    "name": "Ejercicio 3 del boletín 6 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -15,7 +15,7 @@
           "id": "5ae74fb3-6113-4c94-8a56-48680104d806",
           "type": "basic.input",
           "data": {
-            "name": "A_horiz",
+            "name": "A",
             "pins": [
               {
                 "index": "0",
@@ -27,34 +27,15 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 56
-          }
-        },
-        {
-          "id": "c410b25a-140f-4bb5-877f-64066933f399",
-          "type": "basic.output",
-          "data": {
-            "name": "N",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED0",
-                "value": "95"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 608,
-            "y": 144
+            "x": -160,
+            "y": -112
           }
         },
         {
           "id": "7183741e-76a9-4e20-af38-56f17534e1da",
           "type": "basic.input",
           "data": {
-            "name": "B_horiz",
+            "name": "B",
             "pins": [
               {
                 "index": "0",
@@ -66,15 +47,34 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 176
+            "x": -160,
+            "y": -8
+          }
+        },
+        {
+          "id": "c410b25a-140f-4bb5-877f-64066933f399",
+          "type": "basic.output",
+          "data": {
+            "name": "Z",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "95"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 384,
+            "y": 24
           }
         },
         {
           "id": "1317c93f-a002-493c-b899-309a92a0019b",
           "type": "basic.input",
           "data": {
-            "name": "C_vert",
+            "name": "C",
             "pins": [
               {
                 "index": "0",
@@ -86,60 +86,112 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": 288
+            "x": -160,
+            "y": 88
           }
         },
         {
-          "id": "d9162604-62fd-437a-b778-759cc9e06b83",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
-          "position": {
-            "x": 224,
-            "y": 72
+          "id": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b",
+          "type": "basic.input",
+          "data": {
+            "name": "D",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D3",
+                "value": "116"
+              }
+            ],
+            "virtual": false,
+            "clock": false
           },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": 424,
-            "y": 144
-          },
-          "size": {
-            "width": 96,
-            "height": 64
+            "x": -160,
+            "y": 176
           }
         },
         {
-          "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
+          "id": "f509d437-995e-4f89-aec4-085c71e5b176",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 6.5.\tEn una máquina de la fábrica de piezas metálicas TODOMETAL S.L., se dispone de tres detectores\nde barrera fotoeléctrica. Dos de ellos miden la longitud de la pieza, de modo que si la pieza interrumpe\nlos haces láser que inciden sobre las células fotoeléctricas simultáneamente, la pieza es rechazada\n(por ser demasiado larga). Un tercer detector mide la altura de la pieza.\nSi se activa, la pieza también es rechazada (por ser demasiado alta).\nUn cilindro neumático N se activa cuando hay que rechazar cada pieza. ",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 6.3.**</h3> Tenemos una línea ADSL con cuatro sensores electrónicos, que controlan el tráfico de Internet.\r\nQueremos instalar una alarma (Z) que nos indique si superamos los 256 Kbits de transferencia.\r\nCada sensor atiende a una descarga, a saber:\r\n\r\n• Sensor A: consulta de correo. Se dispara al alcanzar los 32 Kbits.\r\n\r\n• Sensor B: consulta de páginas web. Se dispara a los 64 Kbits.\r\n\r\n• Sensor C: chat y webcams. Se dispara a los 100 Kbits.\r\n\r\n• Sensor D: bajar ficheros. Se dispara a los 200 Kbits.",
             "readonly": true
           },
           "position": {
-            "x": 24,
-            "y": -96
+            "x": -152,
+            "y": -352
           },
           "size": {
-            "width": 944,
-            "height": 144
+            "width": 1008,
+            "height": 160
+          }
+        },
+        {
+          "id": "ece5954c-b9b8-460d-bf33-922de4b17009",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "position": {
+            "x": 64,
+            "y": -64
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "position": {
+            "x": 64,
+            "y": 120
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "3e4f4857-952d-4809-a998-30a88dbd4409",
+          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
+          "position": {
+            "x": 232,
+            "y": 24
+          },
+          "size": {
+            "width": 96,
+            "height": 64
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "3e4f4857-952d-4809-a998-30a88dbd4409",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "c410b25a-140f-4bb5-877f-64066933f399",
+            "port": "in"
           }
         },
         {
@@ -148,18 +200,18 @@
             "port": "out"
           },
           "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
         {
           "source": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b",
+            "port": "out"
           },
           "target": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+            "block": "ece5954c-b9b8-460d-bf33-922de4b17009",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
         {
@@ -168,28 +220,28 @@
             "port": "out"
           },
           "target": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
         {
           "source": {
-            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b",
+            "port": "out"
           },
           "target": {
-            "block": "c410b25a-140f-4bb5-877f-64066933f399",
-            "port": "in"
+            "block": "1ffd316d-0f78-4a35-9cb8-a5f75898c666",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         }
       ]
     },
     "state": {
       "pan": {
-        "x": 242.5,
-        "y": 236
+        "x": 303.3514,
+        "y": 345.6216
       },
-      "zoom": 1
+      "zoom": 0.8682
     }
   },
   "dependencies": {

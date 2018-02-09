@@ -130,12 +130,12 @@
           "id": "906c2021-f0b1-42a6-b67e-6b7f78dfe34c",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 6.2.\tDiseña un circuito lógico constituido por tres pulsadores, A, B y C y una lámpara,\nque funcione de forma que ésta se encienda cuando se pulsen los tres pulsadores a la vez, o sólo uno cualquiera. ",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 6.2.**</h3>\tDiseña un circuito lógico constituido por tres pulsadores, A, B y C y una lámpara,\nque funcione de forma que ésta se encienda cuando se pulsen los tres pulsadores a la vez, o sólo uno cualquiera. ",
             "readonly": true
           },
           "position": {
-            "x": -96,
-            "y": -120
+            "x": -80,
+            "y": -160
           },
           "size": {
             "width": 1008,
@@ -414,10 +414,10 @@
     },
     "state": {
       "pan": {
-        "x": 344.7326,
-        "y": 155.814
+        "x": 300.686,
+        "y": 129.6512
       },
-      "zoom": 0.9651
+      "zoom": 0.7471
     }
   },
   "dependencies": {

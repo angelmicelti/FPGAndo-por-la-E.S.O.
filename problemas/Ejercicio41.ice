@@ -121,12 +121,12 @@
           "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 4.1.Se han instalado dos rótulos luminosos en la puerta de una consulta médica,\nuno con la leyenda “PASE”, y otro con la leyenda “ESPERE”.\nEl primero debe encenderse sólo si está el médico y no hay un paciente en el interior de la consulta.\nEl segundo, cuando haya pasado un paciente.",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 4.1.**</h3> Se han instalado dos rótulos luminosos en la puerta de una consulta médica,\nuno con la leyenda “PASE”, y otro con la leyenda “ESPERE”.\nEl primero debe encenderse sólo si está el médico y no hay un paciente en el interior de la consulta.\nEl segundo, cuando haya pasado un paciente.",
             "readonly": true
           },
           "position": {
             "x": 32,
-            "y": -80
+            "y": -104
           },
           "size": {
             "width": 912,
@@ -207,10 +207,10 @@
     },
     "state": {
       "pan": {
-        "x": 10.3158,
-        "y": 170.3421
+        "x": 117.5,
+        "y": 161
       },
-      "zoom": 0.9276
+      "zoom": 1
     }
   },
   "dependencies": {
