@@ -15,6 +15,8 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 10. [ServoBit](https://youtu.be/l1p-S1jtcP0)
 11. [Puertas AND. Habilitando circuitos](https://youtu.be/C9ZmECWfDfQ)
 12. [Interruptores y pulsadores externos](https://youtu.be/8UhAs8vLDq0)
+13. [Periféricos: ledes externos y zumbadores](https://youtu.be/AoPO-AXYeWk)
+14. [Mezclando circuitos: multiplexor](https://youtu.be/VqJVGluqPE8)
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
 **Resueltos en IceStudio para probar en IceZum Alhambra**
