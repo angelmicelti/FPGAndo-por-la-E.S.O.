@@ -226,12 +226,12 @@
           "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 8.1.\tSe dispone de una matriz de ledes 3 X 3.\r\nSe han dispuesto dos pulsadores: U (arriba), y D (abajo) formando una pequeña botonera.\r\nSe pretende que, al pulsar cada pulsador se obtenga en la matriz una flecha que apunte\r\nen la dirección correspondiente (arriba o abajo), usando siempre cinco ledes.",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 8.1.**</h3>\tSe dispone de una matriz de ledes 3 X 3.\r\nSe han dispuesto dos pulsadores: U (arriba), y D (abajo) formando una pequeña botonera.\r\nSe pretende que, al pulsar cada pulsador se obtenga en la matriz una flecha que apunte\r\nen la dirección correspondiente (arriba o abajo), usando siempre cinco ledes.",
             "readonly": true
           },
           "position": {
-            "x": 32,
-            "y": -232
+            "x": 200,
+            "y": -280
           },
           "size": {
             "width": 752,
@@ -498,8 +498,8 @@
     },
     "state": {
       "pan": {
-        "x": 218.5,
-        "y": 368
+        "x": 85.5,
+        "y": 293
       },
       "zoom": 1
     }

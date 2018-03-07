@@ -125,16 +125,16 @@
           "id": "5046eec3-ed29-45c5-a7b0-c406c03972b4",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 4.4. En una familia de tres miembros (papá, mamá e hijo), apasionados por la electrónica digital,\r\ndeciden construir un circuito que decida cuándo se ve la televisión. El circuito debe cumplir las siguientes condiciones:\r\na) La decisión la toman los padres: si papá y mamá están de acuerdo, se hace lo que digan ellos.\r\nb) Si papá y mamá no se ponen de acuerdo, decidirá el hijo.",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 4.4.**</h3> En una familia de tres miembros (papá, mamá e hijo),\r\napasionados por la electrónica digital, deciden construir un circuito que decida cuándo se ve la televisión.\r\nEl circuito debe cumplir las siguientes condiciones:\r\n\r\na) La decisión la toman los padres: si papá y mamá están de acuerdo, se hace lo que digan ellos.\r\n\r\nb) Si papá y mamá no se ponen de acuerdo, decidirá el hijo.",
             "readonly": true
           },
           "position": {
-            "x": -136,
-            "y": -272
+            "x": -80,
+            "y": -384
           },
           "size": {
             "width": 1024,
-            "height": 112
+            "height": 128
           }
         }
       ],
@@ -193,10 +193,10 @@
     },
     "state": {
       "pan": {
-        "x": 152.3594,
-        "y": 382.4219
+        "x": 229.5,
+        "y": 401
       },
-      "zoom": 0.8262
+      "zoom": 1
     }
   },
   "dependencies": {

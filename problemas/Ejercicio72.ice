@@ -150,7 +150,7 @@
           "id": "906c2021-f0b1-42a6-b67e-6b7f78dfe34c",
           "type": "basic.info",
           "data": {
-            "info": "EJERCICIO 7.2. En la empresa TODODIGITAL S.A. la selección de personal se realiza mediante\nun circuito a base de puertas lógicas. Se lo encargan a los alumnos/as de 4º de E.S.O. del\nI.E.S. Virgen de Villadiego.\nLas condiciones que debe cumplir el circuito son las siguientes:\n* No se seleccionará al candidato/a si el curriculum vitae no es adecuado.\n* Para ser seleccionado, el candidato/a deberá pasar una entrevista de trabajo o un test psicotécnico.\n* La experiencia profesional no es necesaria para ocupar el puesto de trabajo. ",
+            "info": "<h3 style=\"color:green\">**EJERCICIO 7.2.**</h3> En la empresa TODODIGITAL S.A. la selección de personal se realiza mediante\nun circuito a base de puertas lógicas. Se lo encargan a los alumnos/as de 4º de E.S.O. del\nI.E.S. Virgen de Villadiego.\nLas condiciones que debe cumplir el circuito son las siguientes:\n* No se seleccionará al candidato/a si el curriculum vitae no es adecuado.\n* Para ser seleccionado, el candidato/a deberá pasar una entrevista de trabajo o un test psicotécnico.\n* La experiencia profesional no es necesaria para ocupar el puesto de trabajo. ",
             "readonly": true
           },
           "position": {
@@ -250,10 +250,10 @@
     },
     "state": {
       "pan": {
-        "x": 394.5,
-        "y": 264
+        "x": 285.1812,
+        "y": 196.4348
       },
-      "zoom": 1
+      "zoom": 0.9312
     }
   },
   "dependencies": {
