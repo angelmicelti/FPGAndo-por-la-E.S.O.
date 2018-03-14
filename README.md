@@ -36,3 +36,5 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 [Problema 4.5. (con puertas de 3 entradas)](problemas/Ejercicio5B.ice)  |   |  |  |
 [Problema 4.6.](problemas/Ejercicio46.ice)  |   |   | [Problema 7.6.](problemas/Ejercicio76.ice) |
 [Problema 4.7.](problemas/Ejercicio47.ice)  |   |   |  |
+
+LA TEORÍA, CON LA ALHAMBRA, ES MENOS TEÓRICA
