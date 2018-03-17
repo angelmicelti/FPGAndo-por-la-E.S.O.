@@ -4,6 +4,8 @@ Para la simulación de los circuitos que traducen a visibles estos resultados, v
 - El **LED 0** de la IceZum Alhambra representará el primer término de cada igualdad.
 - El **LED 7** de la IceZum Alhambra representará el segundo término.
 
+Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad entre los miembros y, por tanto, que se cumple lo que se postula.
+
 
 ### Postulados del Álgebra de Boole
 
@@ -48,6 +50,7 @@ $$
 \mathrm{Postulado \ 10: \ } A + \overline{A} = 1
 $$
 
+
 ### Teoremas del Álgebra de Boole
 
 $$
@@ -91,10 +94,10 @@ $$
 $$
 
 ### Leyes de De Morgan
-$$
+\[
 \mathrm{Ley \ 1 \ de \ De \ Morgan: \ } \overline{A+B} = \overline{A} \cdot \overline{B}
-$$
+\]
 
-$$
+\[
 \mathrm{Ley \ 2 \ de \ De \ Morgan: \ } \overline{A·B} = \overline{A}+\overline{B}
-$$
+\]
