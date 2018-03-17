@@ -1,7 +1,4 @@
 # Con IceZum Alhambra, la teoría es más fácil
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 Para la simulación de los circuitos que traducen a visibles estos resultados, vamos a tomar el siguiente criterio:
 - El **LED 0** de la IceZum Alhambra representará el primer término de cada igualdad.
