@@ -1,8 +1,8 @@
 # Con IceZum Alhambra, la teoría es más fácil
 
 Para la simulación de los circuitos que traducen a visibles estos resultados, vamos a tomar el siguiente criterio:
-- El **LED 0** de la IceZum Alhambra representa el término de la izquierda (primero) de cada igualdad
-- El **LED 7** de la IceZum Alhambra representa el término de la derecha (segundo)
+- El **LED 0** de la IceZum Alhambra representará el primer término de cada igualdad.
+- El **LED 7** de la IceZum Alhambra representará el segundo término.
 
 
 ### Postulados del Álgebra de Boole
@@ -38,3 +38,46 @@ Para la simulación de los circuitos que traducen a visibles estos resultados, v
 \[
 \mathrm{Postulado \ 10: \ } A + \overline{A} = 1
 \]
+
+### Teoremas del Álgebra de Boole
+
+\[
+\mathrm{Teorema \ 1: \ } A+A = A
+\]
+\[
+\mathrm{Teorema \ 2: \ } A \cdot A = A
+\]
+\[
+\mathrm{Teorema \ 3: \ } A \cdot 0 = 0
+\]
+\[
+\mathrm{Teorema \ 4: \ } A+1 = 1
+\]
+\[
+\mathrm{Teorema \ 5: \ } A+A \cdot B = A
+\]
+\[
+\mathrm{Teorema \ 6: \ } A+ \overline{A} \cdot B = A+B
+\]
+\[
+\mathrm{Teorema \ 7: \ } A \cdot (A + B) = A
+\]
+\[
+\mathrm{Teorema \ 8: \ } A \cdot (\overline{A} + B) = A \cdot B
+\]
+\[
+\mathrm{Teorema \ 9: \ } \overline{A} \cdot (A + \overline{B}) = \overline{A} \cdot \overline{B}
+\]
+\[
+\mathrm{Teorema \ 10: \ } (\overline{A} + \overline{B}) \cdot (\overline{A} + B) = \overline{A}
+\]
+
+### Leyes de De Morgan
+\[
+\mathrm{Ley \ 1 \ de \ De \ Morgan: \ } \overline{A+B} = \overline{A} \cdot \overline{B}
+\]
+\[
+\mathrm{Ley \ 2 \ de \ De \ Morgan: \ } \overline{A·B} = \overline{A}+\overline{B}
+\]
+
+~~hola~~
