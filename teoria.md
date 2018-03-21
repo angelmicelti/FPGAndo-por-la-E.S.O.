@@ -13,9 +13,6 @@ $$Postulado  \ 1:  A+0 = A$$
 
 ----------
 
-
-$
-
 $$
 \\mathrm{Postulado \\ 2: \\ } A \\cdot 1 = A
 $$
@@ -104,5 +101,5 @@ $$
 \\mathrm{Ley \\ 2 \\ de \\ De \\ Morgan: \\ } \\overline{A·B} = \\overline{A}+\\overline{B}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA5MjQxMTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDc1ODkzOTddfQ==
 -->
