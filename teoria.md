@@ -9,7 +9,7 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 
 ### Postulados del Álgebra de Boole
 
-$$Postulado  1:  A+0 = A$
+$$Postulado  \ 1:  A+0 = A$$
 
 ----------
 
@@ -104,5 +104,5 @@ $$
 \\mathrm{Ley \\ 2 \\ de \\ De \\ Morgan: \\ } \\overline{A·B} = \\overline{A}+\\overline{B}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc5MjEyMTddfQ==
+eyJoaXN0b3J5IjpbLTEwMDA5MjQxMTVdfQ==
 -->
