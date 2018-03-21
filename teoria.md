@@ -15,6 +15,10 @@ $$
 
 ----------
 
+
+----------
+
+
 $$
 \\mathrm{Postulado \\ 2: \\ } A \\cdot 1 = A
 $$
@@ -103,5 +107,5 @@ $$
 \\mathrm{Ley \\ 2 \\ de \\ De \\ Morgan: \\ } \\overline{A·B} = \\overline{A}+\\overline{B}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ5NzQ0MjFdfQ==
+eyJoaXN0b3J5IjpbLTc2MzgyMTgwNV19
 -->
