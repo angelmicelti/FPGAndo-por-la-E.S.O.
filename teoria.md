@@ -9,103 +9,51 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 
 ### Postulados del Álgebra de Boole
 
-$$
-\mathrm{Postulado  \ 1:} \ A+0 = A
-$$
+![](/img/P1.png)
 
-----------
+![](/img/P2.png)
 
+![](/img/P3.png)
 
-----------
+![](/img/P4.png)
 
+![](/img/P5.png)
 
-$$
-\mathrm{Postulado \ 2:\ } A \cdot 1 = A
-$$
+![](/img/P6.png)
 
-$$
-\mathrm{Postulado \ 3: \ } A+B = B+A
-$$
+![](/img/P7.png)
 
-$$
-\mathrm{Postulado \ 4: \ } A \cdot B = B \cdot A
-$$
+![](/img/P8.png)
 
-$$
-\mathrm{Postulado \ 5: \ } (A + B) + C= A+(B+C)
-$$
+![](/img/P9.png)
 
-$$
-\mathrm{Postulado \ 6: \ } (A \cdot B) \cdot C = A \cdot (B \cdot C)
-$$
-
-$$
-\mathrm{Postulado \ 7: \ } A \cdot (B+C) = A \cdot B + A \cdot C
-$$
-
-$$
-\mathrm{Postulado \ 8: \ } A + B \cdot C = (A+B) \cdot (A+C)
-$$
-
-$$
-\mathrm{Postulado \ 9: \ } A \cdot \overline{A} = 0
-$$
-
-$$
-\mathrm{Postulado \ 10: \ } A + \overline{A} = 1
-$$
+![](/img/P10.png)
 
 ### Teoremas del Álgebra de Boole
 
-$$
-\mathrm{Teorema \ 1: \ } A+A = A
-$$
+![](/img/T1.png)
 
-$$
-\mathrm{Teorema \ 2: \ } A \cdot A = A
-$$
+![](/img/T2.png)
 
-$$
-\mathrm{Teorema \ 3: \ } A \cdot 0 = 0
-$$
+![](/img/T3.png)
 
-$$
-\mathrm{Teorema \ 4: \ } A+1 = 1
-$$
+![](/img/T4.png)
 
-$$
-\mathrm{Teorema \ 5: \ } A+A \cdot B = A
-$$
+![](/img/T5.png)
 
-$$
-\mathrm{Teorema \ 6: \ } A+ \overline{A} \cdot B = A+B
-$$
+![](/img/T6.png)
 
-$$
-\mathrm{Teorema \ 7: \ } A \cdot (A + B) = A
-$$
+![](/img/T7.png)
 
-$$
-\mathrm{Teorema \ 8: \ } A \cdot (\overline{A} + B) = A \cdot B
-$$
+![](/img/T8.png)
 
-$$
-\mathrm{Teorema \ 9: \ } \overline{A} \cdot (A + \overline{B}) = \overline{A} \cdot \overline{B}
-$$
+![](/img/T9.png)
 
-$$
-\mathrm{Teorema \ 10: \ } (\overline{A} + \overline{B}) \cdot (\overline{A} + B) = \overline{A}
-$$
+![](/img/T10.png)
+
 
 ### Leyes de De Morgan
 
-$$
-\mathrm{Ley \ 1 \ de \ De \ Morgan: \ } \overline{A+B} = \overline{A} \cdot \overline{B}
-$$
+![](/img/DM1.png)
 
-$$
-\mathrm{Ley \ 2 \ de \ De \ Morgan: \ } \overline{A·B} = \overline{A}+\overline{B}
-$$
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzgyMTgwNV19
--->
+![](/img/DM2.png)
