@@ -7,7 +7,7 @@ Para la simulación de los circuitos que traducen a visibles estos resultados, v
 
 Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad entre los miembros y, por tanto, que se cumple lo que se indica.
 
-### Postulados del Álgebra de Boole
+## **Postulados del Álgebra de Boole**
 
 ![](/img/P1.png)
 
@@ -29,7 +29,7 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 
 ![](/img/P10.png)
 
-### Teoremas del Álgebra de Boole
+## **Teoremas del Álgebra de Boole**
 
 ![](/img/T1.png)
 
@@ -52,7 +52,7 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 ![](/img/T10.png)
 
 
-### Leyes de De Morgan
+## **Leyes de De Morgan**
 
 ![](/img/DM1.png)
 
