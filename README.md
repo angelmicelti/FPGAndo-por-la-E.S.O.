@@ -18,7 +18,11 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 13. [Periféricos: ledes externos y zumbadores](https://youtu.be/AoPO-AXYeWk)
 14. [Mezclando circuitos: multiplexor](https://youtu.be/VqJVGluqPE8)
 
+$$
+A \cdot \overline{B} 
+$$
 
+---
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
 **Resueltos en IceStudio para probar en IceZum Alhambra**
@@ -36,5 +40,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 [Problema 4.5. (con puertas de 3 entradas)](problemas/Ejercicio5B.ice)  |   |  |  |
 [Problema 4.6.](problemas/Ejercicio46.ice)  |   |   | [Problema 7.6.](problemas/Ejercicio76.ice) |
 [Problema 4.7.](problemas/Ejercicio47.ice)  |   |   |  |
+
+---
 
 ### [LA TEORÍA, CON LA ICEZUM ALHAMBRA, ES MÁS FÁCIL](teoria.md)
