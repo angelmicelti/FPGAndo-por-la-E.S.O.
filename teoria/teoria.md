@@ -9,51 +9,41 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 
 ## **Postulados del Álgebra de Boole**
 
-![](P1.png)
+Postulados  | Simulación  
+--|--
+![](P1.png)  |  [simulación](P1.ice)
+![](P2.png)  |  [simulación](P2.ice)
+![](P3.png)  |  [simulación](P3.ice)
+![](P4.png)  |  [simulación](P4.ice)
+![](P5.png)  |  [simulación](P5.ice)
+![](P6.png)  |  [simulación](P6.ice)
+![](P7.png)  |  [simulación](P7.ice)
+![](P8.png)  |  [simulación](P8.ice)
+![](P9.png)  |  [simulación](P9.ice)
+![](P10.png)  |  [simulación](P10.ice)
 
-![](P2.png)
-
-![](P3.png)
-
-![](P4.png)
-
-![](P5.png)
-
-![](P6.png)
-
-![](P7.png)
-
-![](P8.png)
-
-![](P9.png)
-
-![](P10.png)
 
 ## **Teoremas del Álgebra de Boole**
 
-![](T1.png)
-
-![](T2.png)
-
-![](T3.png)
-
-![](T4.png)
-
-![](T5.png)
-
-![](T6.png)
-
-![](T7.png)
-
-![](T8.png)
-
-![](T9.png)
-
-![](T10.png)
+Teoremas  | Simulación
+--|--
+![](T1.png)  |  [simulación](T1.ice)
+![](T2.png)  |  [simulación](T2.ice)
+![](T3.png)  |  [simulación](T3.ice)
+![](T4.png)  |  [simulación](T4.ice)
+![](T5.png)  |  [simulación](T5.ice)
+![](T6.png)  |  [simulación](T6.ice)
+![](T7.png)  |  [simulación](T7.ice)
+![](T8.png)  |  [simulación](T8.ice)
+![](T9.png)  |  [simulación](T9.ice)
+![](T10.png)  |  [simulación](T10.ice)
 
 
 ## **Leyes de De Morgan**
 
-![](DM1.png)
 
-![](DM2.png)
+
+Ley  | Simulación
+--|--
+![](DM1.png)  |  [simulación](DM1.ice)
+![](DM2.png)  |  [simulación](DM2.ice)
