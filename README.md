@@ -18,9 +18,6 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 13. [Periféricos: ledes externos y zumbadores](https://youtu.be/AoPO-AXYeWk)
 14. [Mezclando circuitos: multiplexor](https://youtu.be/VqJVGluqPE8)
 
-$$
-A \cdot \overline{B} 
-$$
 
 ---
 
