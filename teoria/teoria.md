@@ -9,51 +9,51 @@ Si ambos ledes se encienden simultáneamente, entenderemos esto como igualdad en
 
 ## **Postulados del Álgebra de Boole**
 
-![](/img/P1.png)
+![](P1.png)
 
-![](/img/P2.png)
+![](P2.png)
 
-![](/img/P3.png)
+![](P3.png)
 
-![](/img/P4.png)
+![](P4.png)
 
-![](/img/P5.png)
+![](P5.png)
 
-![](/img/P6.png)
+![](P6.png)
 
-![](/img/P7.png)
+![](P7.png)
 
-![](/img/P8.png)
+![](P8.png)
 
-![](/img/P9.png)
+![](P9.png)
 
-![](/img/P10.png)
+![](P10.png)
 
 ## **Teoremas del Álgebra de Boole**
 
-![](/img/T1.png)
+![](T1.png)
 
-![](/img/T2.png)
+![](T2.png)
 
-![](/img/T3.png)
+![](T3.png)
 
-![](/img/T4.png)
+![](T4.png)
 
-![](/img/T5.png)
+![](T5.png)
 
-![](/img/T6.png)
+![](T6.png)
 
-![](/img/T7.png)
+![](T7.png)
 
-![](/img/T8.png)
+![](T8.png)
 
-![](/img/T9.png)
+![](T9.png)
 
-![](/img/T10.png)
+![](T10.png)
 
 
 ## **Leyes de De Morgan**
 
-![](/img/DM1.png)
+![](DM1.png)
 
-![](/img/DM2.png)
+![](DM2.png)

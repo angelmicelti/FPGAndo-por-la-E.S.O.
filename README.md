@@ -40,4 +40,4 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### [LA TEORÍA, CON LA ICEZUM ALHAMBRA, ES MÁS FÁCIL](teoria.md)
+### [LA TEORÍA, CON LA ICEZUM ALHAMBRA, ES MÁS FÁCIL](teoria/teoria.md)
