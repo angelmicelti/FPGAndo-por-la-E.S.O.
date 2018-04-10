@@ -17,6 +17,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 12. [Interruptores y pulsadores externos](https://youtu.be/8UhAs8vLDq0)
 13. [Periféricos: ledes externos y zumbadores](https://youtu.be/AoPO-AXYeWk)
 14. [Mezclando circuitos: multiplexor](https://youtu.be/VqJVGluqPE8)
+15. [Servos de rotación continua](https://youtu.be/UGgvU4KXs3Q)
 
 
 ---
