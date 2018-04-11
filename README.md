@@ -18,6 +18,17 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 13. [Periféricos: ledes externos y zumbadores](https://youtu.be/AoPO-AXYeWk)
 14. [Mezclando circuitos: multiplexor](https://youtu.be/VqJVGluqPE8)
 15. [Servos de rotación continua](https://youtu.be/UGgvU4KXs3Q)
+16. Sensores de infrarrojos (IR)
+17. Temporizador
+18. Puerta OR
+19. Funciones lógicas
+20	Buses
+21	Circuitos combinacionales
+22	Definiendo bloques
+23	Biestables
+24	Contando
+25	Registros
+26	Comparadores
 
 
 ---
