@@ -22,13 +22,14 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 17. Temporizador
 18. Puerta OR
 19. Funciones lógicas
-20	Buses
-21	Circuitos combinacionales
-22	Definiendo bloques
-23	Biestables
-24	Contando
-25	Registros
-26	Comparadores
+20. Buses
+21. Circuitos combinacionales
+22. Definiendo bloques
+23. Biestables
+24. Contando
+25. Registros
+26. Comparadores
+
 
 
 ---
