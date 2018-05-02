@@ -90,22 +90,6 @@
           }
         },
         {
-          "id": "f1245850-fd5c-4094-846b-50d6460f7a19",
-          "type": "basic.info",
-          "data": {
-            "info": "**TEOREMA 9**",
-            "readonly": true
-          },
-          "position": {
-            "x": -112,
-            "y": -368
-          },
-          "size": {
-            "width": 144,
-            "height": 32
-          }
-        },
-        {
           "id": "d7e88b2d-fe9d-4c2d-a84c-fcec0b909cbb",
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
@@ -163,6 +147,22 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "fdf45e3e-9fc1-4a7e-a08b-95ba62c2d9c6",
+          "type": "basic.info",
+          "data": {
+            "info": "<h2 style=\"color:green\" align=\"center\">**TEOREMA 9**</h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": -248,
+            "y": -424
+          },
+          "size": {
+            "width": 288,
+            "height": 96
           }
         }
       ],
@@ -277,8 +277,8 @@
     },
     "state": {
       "pan": {
-        "x": 767.5,
-        "y": 500.75
+        "x": 581,
+        "y": 499.5
       },
       "zoom": 1
     }
