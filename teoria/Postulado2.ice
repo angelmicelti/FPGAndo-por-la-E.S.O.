@@ -114,19 +114,19 @@
           }
         },
         {
-          "id": "f1245850-fd5c-4094-846b-50d6460f7a19",
+          "id": "e41f6540-442b-435b-92d6-a00862a7b4b3",
           "type": "basic.info",
           "data": {
-            "info": "**POSTULADO 2**",
+            "info": "<h2 style=\"color:green\" align=\"center\">**POSTULADO 2**</h2>",
             "readonly": true
           },
           "position": {
-            "x": 0,
-            "y": 16
+            "x": -160,
+            "y": -40
           },
           "size": {
-            "width": 144,
-            "height": 32
+            "width": 336,
+            "height": 96
           }
         }
       ],
@@ -176,7 +176,7 @@
     "state": {
       "pan": {
         "x": 651.5,
-        "y": 141
+        "y": 137
       },
       "zoom": 1
     }

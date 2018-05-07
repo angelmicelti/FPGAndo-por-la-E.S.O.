@@ -27,8 +27,8 @@
             "clock": false
           },
           "position": {
-            "x": -488,
-            "y": -312
+            "x": -296,
+            "y": -344
           }
         },
         {
@@ -46,8 +46,8 @@
             "virtual": false
           },
           "position": {
-            "x": 120,
-            "y": -304
+            "x": 312,
+            "y": -336
           }
         },
         {
@@ -65,8 +65,8 @@
             "virtual": false
           },
           "position": {
-            "x": 120,
-            "y": -192
+            "x": 312,
+            "y": -224
           }
         },
         {
@@ -85,32 +85,16 @@
             "clock": false
           },
           "position": {
-            "x": -488,
-            "y": -184
-          }
-        },
-        {
-          "id": "f1245850-fd5c-4094-846b-50d6460f7a19",
-          "type": "basic.info",
-          "data": {
-            "info": "**LEY 1 DE DE MORGAN**",
-            "readonly": true
-          },
-          "position": {
-            "x": -192,
-            "y": -368
-          },
-          "size": {
-            "width": 224,
-            "height": 32
+            "x": -296,
+            "y": -216
           }
         },
         {
           "id": "d7e88b2d-fe9d-4c2d-a84c-fcec0b909cbb",
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": -192,
-            "y": -304
+            "x": 0,
+            "y": -336
           },
           "size": {
             "width": 96,
@@ -121,8 +105,8 @@
           "id": "301db3c1-7207-4ab6-a4a6-226eb04c60ae",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": -104,
-            "y": -192
+            "x": 88,
+            "y": -224
           },
           "size": {
             "width": 96,
@@ -133,8 +117,8 @@
           "id": "7f2fb829-5ec8-41c8-a3af-ca39f197f44f",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": -48,
-            "y": -304
+            "x": 144,
+            "y": -336
           },
           "size": {
             "width": 96,
@@ -145,8 +129,8 @@
           "id": "5431db23-6c86-4cff-9e9f-7af17e2f256b",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": -344,
-            "y": -128
+            "x": -152,
+            "y": -160
           },
           "size": {
             "width": 96,
@@ -157,12 +141,28 @@
           "id": "cb34296f-3263-4fbf-bfff-d4687fc39ef2",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": -344,
-            "y": -256
+            "x": -152,
+            "y": -288
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "321617a1-a8a7-4b1e-a13b-d95d45d83874",
+          "type": "basic.info",
+          "data": {
+            "info": "<h2 style=\"color:green\" align=\"center\">**LEY 1 DE DE MORGAN**</h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": -288,
+            "y": -472
+          },
+          "size": {
+            "width": 480,
+            "height": 112
           }
         }
       ],
@@ -261,8 +261,8 @@
     },
     "state": {
       "pan": {
-        "x": 767.5,
-        "y": 505
+        "x": 619.5,
+        "y": 573
       },
       "zoom": 1
     }
