@@ -20,7 +20,8 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 15. [Servos de rotación continua](https://youtu.be/UGgvU4KXs3Q)
 16. [Sensores de infrarrojos (IR)](https://youtu.be/iIJkpmfZkUY)
 17. [Puerta OR](https://youtu.be/cm2mNR9b9Jc)
-18. Temporizador
+18. [Bloques con parámetros](https://youtu.be/9Ex0x2_ZZzQ)
+19. Temporizador
 18. Funciones lógicas
 20. Buses
 21. Circuitos combinacionales
