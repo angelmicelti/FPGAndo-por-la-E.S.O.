@@ -22,15 +22,16 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 17. [Puerta OR](https://youtu.be/cm2mNR9b9Jc)
 18. [Bloques con parámetros](https://youtu.be/9Ex0x2_ZZzQ)
 19. [Circuitos combinacionales](https://youtu.be/boSUklCva0A)
-19. Temporizador
-18. Funciones lógicas
-20. Buses
-21. Circuitos combinacionales
-22. Definiendo bloques
-23. Biestables
-24. Contando
-25. Registros
-26. Comparadores
+20. [Buses y números](https://youtu.be/7NsLgfqu--Q)
+21. Temporizador
+22. Funciones lógicas
+23. Buses
+24. Circuitos combinacionales
+25. Definiendo bloques
+26. Biestables
+27. Contando
+28. Registros
+29. Comparadores
 
 
 
