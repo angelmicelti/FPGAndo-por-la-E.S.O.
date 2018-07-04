@@ -23,15 +23,16 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 18. [Bloques con parámetros](https://youtu.be/9Ex0x2_ZZzQ)
 19. [Circuitos combinacionales](https://youtu.be/boSUklCva0A)
 20. [Buses y números](https://youtu.be/7NsLgfqu--Q)
-21. Temporizador
-22. Funciones lógicas
-23. Buses
-24. Circuitos combinacionales
-25. Definiendo bloques
+21. [Mi primer bloque](https://youtu.be/xRx9KC5I07w)
+22. Circuitos combinacionales con varias salidas
+25. Mi primera colección
+26. Display de 7 segmentos
 26. Biestables
+27. Temporizador
 27. Contando
 28. Registros
 29. Comparadores
+30. Funciones lógicas
 
 
 
