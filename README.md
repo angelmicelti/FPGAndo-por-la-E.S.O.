@@ -25,7 +25,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 20. [Buses y números](https://youtu.be/7NsLgfqu--Q)
 21. [Mi primer bloque](https://youtu.be/xRx9KC5I07w)
 22. [Circuitos combinacionales con varias salidas](https://youtu.be/JezVCMyrYw0)
-    - [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html) 
+    - [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)
 23. Mi primera colección
 24. Display de 7 segmentos
 25. Biestables
@@ -34,6 +34,8 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 28. Registros
 29. Comparadores
 30. Funciones lógicas
+
+
 
 
 
