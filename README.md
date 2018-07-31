@@ -3,11 +3,11 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ![](http://fpgawars.github.io/img/projects/icezum.png)
 
 ## Tabla de contenido
-[Micro-tutoriales de ObiJuan](###Micro-tutoriales-de-Obijuan:)
+[Micro-tutoriales de ObiJuan](#Micro-tutoriales-de-Obijuan:)
 
-[Circuitos correspndientes a los boletines de problemas prácticos](###Circuitos-correspondientes-a-los-problemas-prácticos)
+[Circuitos correspondientes a los boletines de problemas prácticos](#Circuitos-correspondientes-a-los-problemas-prácticos)
 
-[La teoría con la IceZum Alhambra](###LA-TEORÍA,-CON-LA-ICEZUM-ALHAMBRA,-ES-MÁS,FÁCIL)
+[La teoría con la IceZum Alhambra](#LA-TEORÍA,-CON-LA-ICEZUM-ALHAMBRA,-ES-MÁS,FÁCIL)
 
 ---
 
