@@ -2,6 +2,11 @@
 Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ![](http://fpgawars.github.io/img/projects/icezum.png)
 
+## Tabla de contenido
+[Micro-tutoriales de ObiJuan](###Micro-tutoriales)
+[Circuitos correspndientes a los boletines de problemas prácticos](###Circuitos_correspndientes_a_los_boletines_de_problemas_prácticos)
+[La teoría con la IceZum Alhambra](###LA_TEORÍA,_CON_LA_ICEZUM_ALHAMBRA,_ES_MÁS_FÁCIL)
+
 
 ### Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
 1. [Electrónica digital para todos](https://youtu.be/R59Q-MwFbM8)
