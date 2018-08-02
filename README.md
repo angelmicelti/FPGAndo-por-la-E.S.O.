@@ -2,26 +2,22 @@
 Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ![](http://fpgawars.github.io/img/projects/icezum.png)
 
-## Tabla de contenido
-[Micro-tutoriales de ObiJuan](#Micro-tutoriales-de-Obijuan:)
-
-[Circuitos correspondientes a los boletines de problemas prácticos](#Circuitos-correspondientes-a-los-problemas-prácticos)
-
-[La teoría con la IceZum Alhambra](#LA-TEORÍA,-CON-LA-ICEZUM-ALHAMBRA,-ES-MÁS,FÁCIL)
-
+---
 ---
 
 
+
+
 ### Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
-1. [Electrónica digital para todos](https://youtu.be/R59Q-MwFbM8)
-2. [Poniendo en marcha Icestudio](https://youtu.be/ELQLphztOjQ)
-3. [La Icezum Alhambra y otras placas con FPGAs libres](https://youtu.be/X0tTh7tYOZg)
-4. [Mi primer circuito. Encendiendo un led](https://youtu.be/1y5nwX6fGP4)
-5. [Colecciones en IceStudio](https://youtu.be/BK0U7Hm-HII)
-6. [Bombeando bits](https://youtu.be/3IcehX7UmIo)
-7. [Manipulando bits: Puerta NOT](https://youtu.be/xgdiBnzz4XQ)
-8. [Pines y ledes externos](https://youtu.be/aWXtGDKhGVk)
-9. [Pulsadores y entradas](https://youtu.be/7LOdYJt077M)
+1.  [Electrónica digital para todos](https://youtu.be/R59Q-MwFbM8)
+2.  [Poniendo en marcha Icestudio](https://youtu.be/ELQLphztOjQ)
+3.  [La Icezum Alhambra y otras placas con FPGAs libres](https://youtu.be/X0tTh7tYOZg)
+4.  [Mi primer circuito. Encendiendo un led](https://youtu.be/1y5nwX6fGP4)
+5.  [Colecciones en IceStudio](https://youtu.be/BK0U7Hm-HII)
+6.  [Bombeando bits](https://youtu.be/3IcehX7UmIo)
+7.  [Manipulando bits: Puerta NOT](https://youtu.be/xgdiBnzz4XQ)
+8.  [Pines y ledes externos](https://youtu.be/aWXtGDKhGVk)
+9.  [Pulsadores y entradas](https://youtu.be/7LOdYJt077M)
 10. [ServoBit](https://youtu.be/l1p-S1jtcP0)
 11. [Puertas AND. Habilitando circuitos](https://youtu.be/C9ZmECWfDfQ)
 12. [Interruptores y pulsadores externos](https://youtu.be/8UhAs8vLDq0)
@@ -35,7 +31,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 20. [Buses y números](https://youtu.be/7NsLgfqu--Q)
 21. [Mi primer bloque](https://youtu.be/xRx9KC5I07w)
 22. [Circuitos combinacionales con varias salidas](https://youtu.be/JezVCMyrYw0)
-    - [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)
+        -  [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)
 23. [Mi primera colección](https://youtu.be/R1dc2P2thhs)
 24. Display de 7 segmentos
 25. Biestables
@@ -56,7 +52,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 [Boletín 4](problemas/boletínED4.pdf)  | [Boletín 5](problemas/boletínED5.pdf)  | [Boletín 6](problemas/boletínED6.pdf)  | [Boletín 7](problemas/boletínED7.pdf) | [Boletín 8](problemas/boletínED8.pdf)
 --|---|---|--|--|
-[Problema 4.1.](problemas/Ejercicio41.ice)  | [Problema 5.1.](problemas/Ejercicio51.ice)  | [Problema 6.1.](problemas/Ejercicio61.ice)   | [Problema 7.1.](problemas/Ejercicio71.ice) | [Problema 8.1.](problemas/Ejercicio81.ice)
+ [Problema 4.1.](problemas/Ejercicio41.ice)  | [Problema 5.1.](problemas/Ejercicio51.ice)  | [Problema 6.1.](problemas/Ejercicio61.ice)   | [Problema 7.1.](problemas/Ejercicio71.ice) | [Problema 8.1.](problemas/Ejercicio81.ice)
 [Problema 4.2.](problemas/Ejercicio42.ice)  | [Problema 5.2.](problemas/Ejercicio52.ice)  | [Problema 6.2.](problemas/Ejercicio62.ice)  |  [Problema 7.2.](problemas/Ejercicio72.ice)| Problema 8.2.
 [Problema 4.2. (en bloque)](problemas/Ejercicio42Bloque.ice)  |   |   |   |
 [Problema 4.3.](problemas/Ejercicio43.ice)  | [Problema 5.3.](problemas/Ejercicio53.ice)  |[Problema 6.3.](problemas/Ejercicio63.ice)   |  [Problema 7.3.](problemas/Ejercicio73.ice)|
