@@ -1,3 +1,5 @@
+# Con mucho esfuerzo, van saliendo...
+
 - Agregador de 3 bits: [agregador3bits.ice](agregador3bits.ice)
 - Contador de 0 a 3 con visualización en display: [Cont03_Display7.ice](Cont03_Display7.ice)
 - Contador de 0 a 7 con visualización en display: [Cont07_Display7.ice](Cont07_Display7.ice)
