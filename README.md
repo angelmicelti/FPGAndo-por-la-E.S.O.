@@ -3,6 +3,12 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ![](http://fpgawars.github.io/img/projects/icezum.png)
 
 ---
+## Tabla de contenido
+Micro-tutoriales de ObiJuan
+Circuitos correspondientes a los boletines de problemas prácticos
+La teoría de Electrónica Digital, con IceZum Alhambra
+
+
 ---
 
 
