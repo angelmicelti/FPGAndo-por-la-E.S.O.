@@ -1,4 +1,4 @@
-# Con IceZum Alhambra, la teoría es más fácil
+# Con IceZum Alhambra, la teoría de la Electrónica Digital es más fácil
 
 Para la simulación de los circuitos que traducen a visibles estos resultados, vamos a tomar el siguiente criterio:
 
