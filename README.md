@@ -8,7 +8,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### [Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**](problemas/readme.md)
+### [Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**](ObiJuan/readme.md)
 
 ---
 
