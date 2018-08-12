@@ -16,7 +16,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### [La teoría, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
+### [La teoría de la Electrónica Digital, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
 
 ---
 
