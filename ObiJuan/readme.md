@@ -23,8 +23,8 @@
 22. [Circuitos combinacionales con varias salidas](https://youtu.be/JezVCMyrYw0)
         -  [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)
 23. [Mi primera colección](https://youtu.be/R1dc2P2thhs)
-24. Display de 7 segmentos
-25. Biestables
+24. [Display de 7 segmentos] (https://youtu.be/vbnDTiyDLg0)
+25. [Biestables](https://youtu.be/8A910OmjUnc)
 26. Temporizador
 27. Contando
 28. Registros
