@@ -4,7 +4,11 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### ["Enreando" con la Alhambra](Enreando/readme.md)
+### [Problemas de electrónica digital trabajados en clase en 4º de E.S.O.](problemas/readme.md)
+
+---
+
+### [La teoría de la Electrónica Digital, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
 
 ---
 
@@ -12,11 +16,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### [Problemas de electrónica digital trabajados en clase.](problemas/readme.md)
-
----
-
-### [La teoría de la Electrónica Digital, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
+### ["Enreando" con la Alhambra](Enreando/readme.md)
 
 ---
 
