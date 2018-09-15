@@ -2,13 +2,14 @@
 Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ![](http://fpgawars.github.io/img/projects/icezum.png)
 
----
-
-### [Problemas de electrónica digital trabajados en clase en 4º de E.S.O.](problemas/readme.md)
 
 ---
 
 ### [La teoría de la Electrónica Digital, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
+
+---
+
+### [Problemas de electrónica digital trabajados en clase en 4º de E.S.O.](problemas/readme.md)
 
 ---
 
