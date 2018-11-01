@@ -26,12 +26,7 @@
 24. [Display de 7 segmentos](https://youtu.be/vbnDTiyDLg0)
 25. [Biestables](https://youtu.be/8A910OmjUnc)
 26. [Tiempo, tics y temporizadores](https://youtu.be/ccw7c6lvGok)
-27. Contando eventos
-28. Biestables de dato y cambio
-29. Entradas asíncronas
-30. Comunicaciones serie
-31. Comparadores
-32. Registros
-33. Máquinas
-34. Aritmética
-35. Periféricos
+27. [Contando eventos](https://youtu.be/rPs8jIaD0C8)
+28. [Biestables de dato y cambio](https://youtu.be/_je6bkbm9qg)
+29. Registros y comparadores
+30. Comunicaciones serie asíncronas

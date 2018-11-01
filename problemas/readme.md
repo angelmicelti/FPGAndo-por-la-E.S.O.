@@ -17,3 +17,8 @@
 [Problema 4.5. (con puertas de 3 entradas)](Ejercicio5B.ice)  |   |  |  |
 [Problema 4.6.](Ejercicio46.ice)  |   |   | [Problema 7.6.](Ejercicio76.ice) |
 [Problema 4.7.](Ejercicio47.ice)  |   |   |  |
+
+---
+
+## Programando en Verilog
+Podemos resolver nuestros problemas utilizando Verilog, un lenguaje de los llamados de "descripción de hardware". Pulsa en [este enlace](verilog.md) para ver algo más.
