@@ -24,7 +24,7 @@
  20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) | [https://youtu.be/7NsLgfqu--Q](https://youtu.be/7NsLgfqu--Q)
  21 | [Mi primer bloque](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque) | [https://youtu.be/xRx9KC5I07w](https://youtu.be/xRx9KC5I07w)
  22 | [Circuitos combinacionales con varias salidas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas) | [https://youtu.be/JezVCMyrYw0](https://youtu.be/JezVCMyrYw0)
-  -  | [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)  | - 
+  Ampliación  | [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)  | No vídeo 
  23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n) | [https://youtu.be/R1dc2P2thhs](https://youtu.be/R1dc2P2thhs)
  24 | [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos) | [https://youtu.be/vbnDTiyDLg0](https://youtu.be/vbnDTiyDLg0)
  25 | [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones) | [https://youtu.be/8A910OmjUnc](https://youtu.be/8A910OmjUnc)
