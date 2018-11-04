@@ -24,7 +24,7 @@
  20 | [Buses y números](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-20:-Buses-y-n%C3%BAmeros) | [https://youtu.be/7NsLgfqu--Q](https://youtu.be/7NsLgfqu--Q)
  21 | [Mi primer bloque](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-21:-Mi-primer-bloque) | [https://youtu.be/xRx9KC5I07w](https://youtu.be/xRx9KC5I07w)
  22 | [Circuitos combinacionales con varias salidas](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-22:-Circuitos-combinacionales-con-varias-salidas) | [https://youtu.be/JezVCMyrYw0](https://youtu.be/JezVCMyrYw0)
-  Ampliación  | [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)  | No vídeo 
+  Ampliación  | [Generación de circuitos combinacionales con IceFactory](https://obijuan.github.io/iceFactory/index.html)  | No vídeo
  23 | [Mi primera colección](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-23:-Mi-primera-colecci%C3%B3n) | [https://youtu.be/R1dc2P2thhs](https://youtu.be/R1dc2P2thhs)
  24 | [Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos) | [https://youtu.be/vbnDTiyDLg0](https://youtu.be/vbnDTiyDLg0)
  25 | [Biestables y notificaciones](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-25:-Biestables-y-notificaciones) | [https://youtu.be/8A910OmjUnc](https://youtu.be/8A910OmjUnc)
@@ -32,22 +32,12 @@
  27 | [Contando eventos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-27:-Contando-eventos) | [https://youtu.be/rPs8jIaD0C8](https://youtu.be/rPs8jIaD0C8)
  28 | [Biestables de dato y cambio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-28:-Biestables-de-datos-y-cambio) | [https://youtu.be/_je6bkbm9qg](https://youtu.be/_je6bkbm9qg)
  29 |  [Registros y comparadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores) |
- | [Registros](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#registros)   | [https://youtu.be/s_1-GFj0oEw](https://youtu.be/s_1-GFj0oEw)
- | [Comparadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#comparadores)  | [https://youtu.be/s7ZKiy5Oj7E](https://youtu.be/s7ZKiy5Oj7E)
- | [Aplicación: juego de la ruleta](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-6-juego-de-la-ruleta)  | [https://youtu.be/sg2Hj5ifQys](https://youtu.be/sg2Hj5ifQys)
- | [Aplicación. Control por comandos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-7-control-por-comandos)  | [https://youtu.be/PEWEst-sNH4](https://youtu.be/PEWEst-sNH4)
- | [Aplicación. Comunicación Arduino-FPGA. Puerto de salida.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-8-implementaci%C3%B3n-de-un-puerto-de-salida-adicional-para-el-arduino)   | [https://youtu.be/b5gMDGAUClk](https://youtu.be/b5gMDGAUClk)
- | [Aplicación. Comunicación Arduino-FPGA. Puerto de entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)  | [https://youtu.be/r8D9TTOV454](https://youtu.be/r8D9TTOV454)
- | [Ejercicios propuestos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejercicios-propuestos-20-bitpoints)  | [https://youtu.be/k-ffLwt4KZU](https://youtu.be/k-ffLwt4KZU)
+ Parte I | [Registros](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#registros)   | [https://youtu.be/s_1-GFj0oEw](https://youtu.be/s_1-GFj0oEw)
+ Parte II | [Comparadores](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#comparadores)  | [https://youtu.be/s7ZKiy5Oj7E](https://youtu.be/s7ZKiy5Oj7E)
+ Parte III | [Aplicación: juego de la ruleta](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-6-juego-de-la-ruleta)  | [https://youtu.be/sg2Hj5ifQys](https://youtu.be/sg2Hj5ifQys)
+ Parte IV | [Aplicación. Control por comandos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-7-control-por-comandos)  | [https://youtu.be/PEWEst-sNH4](https://youtu.be/PEWEst-sNH4)
+ Parte V | [Aplicación. Comunicación Arduino-FPGA. Puerto de salida.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-8-implementaci%C3%B3n-de-un-puerto-de-salida-adicional-para-el-arduino)   | [https://youtu.be/b5gMDGAUClk](https://youtu.be/b5gMDGAUClk)
+ Parte VI| [Aplicación. Comunicación Arduino-FPGA. Puerto de entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)  | [https://youtu.be/r8D9TTOV454](https://youtu.be/r8D9TTOV454)
+ Parte VII| [Ejercicios propuestos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejercicios-propuestos-20-bitpoints)  | [https://youtu.be/k-ffLwt4KZU](https://youtu.be/k-ffLwt4KZU)
  30 |  |
  31 |  |
-
-
-
-
-
-
-
-
-
-30. Comunicaciones serie asíncronas
