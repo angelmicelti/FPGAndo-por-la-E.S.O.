@@ -39,7 +39,7 @@
  Parte V | [Aplicación. Comunicación Arduino-FPGA. Puerto de salida.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-8-implementaci%C3%B3n-de-un-puerto-de-salida-adicional-para-el-arduino)   | [https://youtu.be/b5gMDGAUClk](https://youtu.be/b5gMDGAUClk)
  Parte VI| [Aplicación. Comunicación Arduino-FPGA. Puerto de entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)  | [https://youtu.be/r8D9TTOV454](https://youtu.be/r8D9TTOV454)
  Parte VII| [Ejercicios propuestos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejercicios-propuestos-20-bitpoints)  | [https://youtu.be/k-ffLwt4KZU](https://youtu.be/k-ffLwt4KZU)
- 30 | Registros y comparadores |
+ 30 | Puerto serie |
 Parte I | [Puesta en marcha]()   | [https://youtu.be/OrPcbMpJr98](https://youtu.be/OrPcbMpJr98)
 Parte II | [Transmisor serie de 8 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#transmisor-serie)   | [https://youtu.be/12i3nSWOq8c](https://youtu.be/12i3nSWOq8c)
 Parte III | [Transmisor serie de múltiples caracteres]()   | [https://youtu.be/fq6HGu6CYXk](https://youtu.be/fq6HGu6CYXk)
