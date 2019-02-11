@@ -39,5 +39,17 @@
  Parte V | [Aplicación. Comunicación Arduino-FPGA. Puerto de salida.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-8-implementaci%C3%B3n-de-un-puerto-de-salida-adicional-para-el-arduino)   | [https://youtu.be/b5gMDGAUClk](https://youtu.be/b5gMDGAUClk)
  Parte VI| [Aplicación. Comunicación Arduino-FPGA. Puerto de entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)  | [https://youtu.be/r8D9TTOV454](https://youtu.be/r8D9TTOV454)
  Parte VII| [Ejercicios propuestos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejercicios-propuestos-20-bitpoints)  | [https://youtu.be/k-ffLwt4KZU](https://youtu.be/k-ffLwt4KZU)
- 30 |  |
+ 30 | Registros y comparadores |
+Parte I | []()   | []()
+Parte II | []()   | []()
+Parte III | []()   | []()
+Parte IV | []()   | []()
+Parte V | []()   | []()
+Parte VI | []()   | []()
+Parte VII | []()   | []()
+Parte VIII | []()   | []()
+Parte IX | []()   | []()
+Parte X | []()   | []()
+Parte XI | []()   | []()
+Parte XII | []()   | []()
  31 |  |
