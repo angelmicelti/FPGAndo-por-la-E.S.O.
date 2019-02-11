@@ -52,4 +52,4 @@ Parte IX | [Aplicación 1. Comunicación Arduino-FPGA](https://github.com/Obijua
 Parte X | [Aplicación 2. Comunicación de nuestros programas en el PC con la FPGA](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#comunicando-los-programas-del-pc-con-los-circuitos)   | [https://youtu.be/kxPgiWAcmLk](https://youtu.be/kxPgiWAcmLk)
 Parte XI | [Aplicación 3. Comunicación Bluetooth-serie con la FPGA](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#comunicaci%C3%B3n-bluetooth-serie)   | [https://youtu.be/_RToEyA3BRw](https://youtu.be/_RToEyA3BRw)
 Parte XII | [Ejercicios](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)   | [https://youtu.be/vY5eft-EAps](https://youtu.be/vY5eft-EAps)
- 31 |  |
+ 31 | [Despedida temporada I](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-31:-Despedida-de-la-temporada-I)  | [https://youtu.be/GZWLwvGn088](https://youtu.be/GZWLwvGn088)
