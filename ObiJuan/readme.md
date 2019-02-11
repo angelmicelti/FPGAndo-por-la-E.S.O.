@@ -40,7 +40,7 @@
  Parte VI| [Aplicación. Comunicación Arduino-FPGA. Puerto de entrada](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejemplo-9-implementaci%C3%B3n-de-un-puerto-de-entrada-adicional-para-el-arduino)  | [https://youtu.be/r8D9TTOV454](https://youtu.be/r8D9TTOV454)
  Parte VII| [Ejercicios propuestos.](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-29:-Registros-y-comparadores#ejercicios-propuestos-20-bitpoints)  | [https://youtu.be/k-ffLwt4KZU](https://youtu.be/k-ffLwt4KZU)
  30 | Puerto serie |
-Parte I | [Puesta en marcha]()   | [https://youtu.be/OrPcbMpJr98](https://youtu.be/OrPcbMpJr98)
+Parte I | [Puesta en marcha](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#puesta-en-marcha)   | [https://youtu.be/OrPcbMpJr98](https://youtu.be/OrPcbMpJr98)
 Parte II | [Transmisor serie de 8 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#transmisor-serie)   | [https://youtu.be/12i3nSWOq8c](https://youtu.be/12i3nSWOq8c)
 Parte III | [Transmisor serie de múltiples caracteres]()   | [https://youtu.be/fq6HGu6CYXk](https://youtu.be/fq6HGu6CYXk)
 Parte IV | [Funcionamiento del transmisor múltiple]()   | [https://youtu.be/oeAG3g2V_B8](https://youtu.be/oeAG3g2V_B8)
@@ -48,8 +48,8 @@ Parte V | [Funcionamiento del transmisor de 8 bits]()   | [https://youtu.be/l7bg
 Parte VI | [Receptor serie](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#receptor-serie)   | [https://youtu.be/BS6TNmp1tf8](https://youtu.be/BS6TNmp1tf8)
 Parte VII | [Funcionamiento del receptor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#funcionamiento-de-receptor)   | [https://youtu.be/WBgUZZbx0nQ](https://youtu.be/WBgUZZbx0nQ)
 Parte VIII | [Transmisor y receptor](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#combinando-transmisor-y-receptor)   | [https://youtu.be/6W2hawNVZAc](https://youtu.be/6W2hawNVZAc)
-Parte IX | [Aplicación 1. Comunicación Arduino-FPGA]()   | [https://youtu.be/_RToEyA3BRw](https://youtu.be/_RToEyA3BRw)
-Parte X | [Aplicación 2. Comunicación de nuestros programas en el PC con la FPGA]()   | [https://youtu.be/kxPgiWAcmLk](https://youtu.be/kxPgiWAcmLk)
-Parte XI | [Aplicación 3. Comunicación Bluetooth-serie con la FPGA]()   | [https://youtu.be/_RToEyA3BRw](https://youtu.be/_RToEyA3BRw)
-Parte XII | [Ejercicios]()   | [https://youtu.be/vY5eft-EAps](https://youtu.be/vY5eft-EAps)
+Parte IX | [Aplicación 1. Comunicación Arduino-FPGA](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#comunicaci%C3%B3n-con-arduino-por-puerto-serie)   | [https://youtu.be/_RToEyA3BRw](https://youtu.be/_RToEyA3BRw)
+Parte X | [Aplicación 2. Comunicación de nuestros programas en el PC con la FPGA](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#comunicando-los-programas-del-pc-con-los-circuitos)   | [https://youtu.be/kxPgiWAcmLk](https://youtu.be/kxPgiWAcmLk)
+Parte XI | [Aplicación 3. Comunicación Bluetooth-serie con la FPGA](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#comunicaci%C3%B3n-bluetooth-serie)   | [https://youtu.be/_RToEyA3BRw](https://youtu.be/_RToEyA3BRw)
+Parte XII | [Ejercicios](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#ejercicios-propuestos-25-bitpoints)   | [https://youtu.be/vY5eft-EAps](https://youtu.be/vY5eft-EAps)
  31 |  |
