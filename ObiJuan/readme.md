@@ -42,7 +42,7 @@
  30 | Puerto serie |
 Parte I | [Puesta en marcha](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#puesta-en-marcha)   | [https://youtu.be/OrPcbMpJr98](https://youtu.be/OrPcbMpJr98)
 Parte II | [Transmisor serie de 8 bits](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#transmisor-serie)   | [https://youtu.be/12i3nSWOq8c](https://youtu.be/12i3nSWOq8c)
-Parte III | [Transmisor serie de múltiples caracteres]()   | [https://youtu.be/fq6HGu6CYXk](https://youtu.be/fq6HGu6CYXk)
+Parte III | [Transmisor serie de múltiples caracteres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#funcionamiento-del-transmisor-de-cadenas)   | [https://youtu.be/fq6HGu6CYXk](https://youtu.be/fq6HGu6CYXk)
 Parte IV | [Funcionamiento del transmisor múltiple]()   | [https://youtu.be/oeAG3g2V_B8](https://youtu.be/oeAG3g2V_B8)
 Parte V | [Funcionamiento del transmisor de 8 bits]()   | [https://youtu.be/l7bgqIqjaMM](https://youtu.be/l7bgqIqjaMM)
 Parte VI | [Receptor serie](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#receptor-serie)   | [https://youtu.be/BS6TNmp1tf8](https://youtu.be/BS6TNmp1tf8)
