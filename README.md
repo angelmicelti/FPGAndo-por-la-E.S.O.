@@ -24,3 +24,5 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 ### [Mis bloques: bloques para IceStudio que he ido trabajando poco a poco](MisBloques/readme.md)
 
 ---
+
+### [Trabajos varios con IceStudio y las Alhambra I y II](Varios/readme.md)
