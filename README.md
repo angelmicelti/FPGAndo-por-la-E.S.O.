@@ -29,16 +29,3 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 
 ---
-
-
-# [Diseño digital en Verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki)
-
----
-
-
-# [Caballeros y escuderos](https://github.com/Jesus89/logic-games/wiki/Caballeros-y-escuderos%3A-introducci%C3%B3n)
-
----
-
-
-# [Viaje al interior de los chips](http://obijuan.github.io/intro-fpga.html)
