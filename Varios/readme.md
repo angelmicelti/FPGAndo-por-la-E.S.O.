@@ -1,5 +1,6 @@
 # Recursos varios para IceStudio y Alhambra I y II
 
+- [Cuadernos técnicos sobre FPGAs libres](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki)
 - [Control de un display de 7 segmentos doble](https://github.com/makerventura/FPGA-Display_2_Digitos_7segmentos), por Maker Ventura
 - [Comunicación y control por infrarrojos](https://github.com/makerventura/FPGAs_Infrarrojos-Comunicacion-y-Control), por Maker Ventura
 - [Mundo FPGA](https://github.com/makerventura/Mundo_FPGA_libre), por Maker Ventura
