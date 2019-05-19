@@ -6,12 +6,12 @@
 
 ---
 
-# [Cuadernos técnicos sobre FPGAs libres](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki)
+# [Cuadernos técnicos sobre FPGAs libres](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki), por ObiJuan.
 
-- [Unidad de PWM de frecuencia aproximada](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.1:-Unidad-de-PWM-de-frecuencia-aproximada), por ObiJuan
-- [VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED), por ObiJuan
-- [Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida), por ObiJuan
-- [Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs), por ObiJuan
+- [Unidad de PWM de frecuencia aproximada](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.1:-Unidad-de-PWM-de-frecuencia-aproximada)
+- [VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED)
+- [Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida)
+- [Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs)
 
 
 ---
