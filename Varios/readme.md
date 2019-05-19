@@ -7,3 +7,18 @@
 - [VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED), por ObiJuan
 - [Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida), por ObiJuan
 - [Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs), por ObiJuan
+
+
+---
+
+# [Diseño digital en Verilog](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki)
+
+---
+
+
+# [Caballeros y escuderos](https://github.com/Jesus89/logic-games/wiki/Caballeros-y-escuderos%3A-introducci%C3%B3n)
+
+---
+
+
+# [Viaje al interior de los chips](http://obijuan.github.io/intro-fpga.html)
