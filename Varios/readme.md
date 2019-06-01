@@ -13,6 +13,7 @@
 - [VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED)
 - [Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida)
 - [Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs)
+- [SPI esclavo](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.5:-SPI-esclavo)
 
 
 ---
