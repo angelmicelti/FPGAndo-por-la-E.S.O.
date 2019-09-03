@@ -1,4 +1,4 @@
-# ¿Programación con Verilog en la ESO? Síiiiiiiii
+# ¿Programación con Verilog en la ESO? Síííííííí
 
 Podemos resolver nuestros problemas de electrónica digital con Verilog, aunque ello requiere aprender este lenguaje de programación.
 Verilog es uno de los que se llama lenguajes HDL (Hardware Description Language o Lenguaje de Descripción de Hardware).
