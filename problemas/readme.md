@@ -6,8 +6,8 @@
 
 [Boletín 7](boletinED7.pdf)  | [Boletín 8](boletinED8.pdf)  | [Boletín 9](boletinED9.pdf)  | [Boletín 10](boletinED10.pdf) | [Boletín 11](boletinED11.pdf)
 --|---|---|--|--|
- [Problema 7.1.](Ejercicio71.ice)  | [Problema 8.1.](Ejercicio51.ice)  | [Problema 9.1.](Ejercicio91.ice)   | [Problema 10.1.](Ejercicio71.ice) | [Problema 8.1.](Ejercicio81.ice)
-[Problema 7.2.](Ejercicio72.ice)  | [Problema 8.2.](Ejercicio52.ice)  | [Problema 9.2.](Ejercicio92.ice)  |  [Problema 10.2.](Ejercicio72.ice)| Problema 8.2.
+ [Problema 7.1.](Ejercicio71.ice)  | [Problema 8.1.](Ejercicio51.ice)  | [Problema 9.1.](Ejercicio91.ice)   | [Problema 10.1.](Ejercicio71.ice) | [Problema 11.1.](Ejercicio111.ice)
+[Problema 7.2.](Ejercicio72.ice)  | [Problema 8.2.](Ejercicio52.ice)  | [Problema 9.2.](Ejercicio92.ice)  |  [Problema 10.2.](Ejercicio72.ice)| Problema 11.2.
 [Problema 7.2. (en bloque)](Ejercicio42Bloque.ice)  |   |   |   |
 [Problema 7.3.](Ejercicio73.ice)  | [Problema 8.3.](Ejercicio53.ice)  |[Problema 9.3.](Ejercicio93.ice)   |  [Problema 10.3.](Ejercicio73.ice)|
 [Problema 7.3. (con puertas de 3 entradas)](Ejercicio73B.ice)|   |   |   |
