@@ -1,10 +1,10 @@
 {
   "version": "1.1",
   "package": {
-    "name": "Ejercicio 1 del boletín 7 de Electrónica Digital",
+    "name": "Ejercicio 1 del boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
-    "author": "Ángel Millán León",
+    "author": "Ángel Millán",
     "image": ""
   },
   "design": {
@@ -15,7 +15,7 @@
           "id": "5ae74fb3-6113-4c94-8a56-48680104d806",
           "type": "basic.input",
           "data": {
-            "name": "H",
+            "name": "Medico",
             "pins": [
               {
                 "index": "0",
@@ -27,15 +27,15 @@
             "clock": false
           },
           "position": {
-            "x": 64,
-            "y": -40
+            "x": 40,
+            "y": 40
           }
         },
         {
           "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "Riego",
+            "name": "PASE",
             "pins": [
               {
                 "index": "0",
@@ -46,15 +46,15 @@
             "virtual": false
           },
           "position": {
-            "x": 536,
-            "y": 16
+            "x": 568,
+            "y": 80
           }
         },
         {
           "id": "7183741e-76a9-4e20-af38-56f17534e1da",
           "type": "basic.input",
           "data": {
-            "name": "T",
+            "name": "Paciente",
             "pins": [
               {
                 "index": "0",
@@ -66,36 +66,35 @@
             "clock": false
           },
           "position": {
-            "x": 64,
-            "y": 88
+            "x": 40,
+            "y": 200
           }
         },
         {
-          "id": "1317c93f-a002-493c-b899-309a92a0019b",
-          "type": "basic.input",
+          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
+          "type": "basic.output",
           "data": {
-            "name": "D",
+            "name": "ESPERE",
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "LED7",
+                "value": "104"
               }
             ],
-            "virtual": false,
-            "clock": false
+            "virtual": false
           },
           "position": {
-            "x": 64,
-            "y": 240
+            "x": 568,
+            "y": 288
           }
         },
         {
-          "id": "2b09599b-bf1b-4c5d-8a57-3e107422b637",
-          "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
+          "id": "d9162604-62fd-437a-b778-759cc9e06b83",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 176,
-            "y": 176
+            "x": 344,
+            "y": 80
           },
           "size": {
             "width": 96,
@@ -103,84 +102,100 @@
           }
         },
         {
-          "id": "906c2021-f0b1-42a6-b67e-6b7f78dfe34c",
+          "id": "63620568-737e-44b2-9e9d-ef8685278683",
           "type": "basic.info",
           "data": {
-            "info": "<h3 style=\"color:green\">**EJERCICIO 7.1.**</h3>\tUn sistema de riego por goteo tiene tres sensores que miden diferentes parámetros físicos.\nUn sensor H mide la humedad de la tierra, y al activarse pone en marcha el sistema.\nUn sensor de temperatura T impide el riego cuando se activa al alcanzar la temperatura un valor demasiado elevado.\nFinalmente, un sensor situado en el depósito de agua D permite el suministro de agua cuando el nivel de líquido\nactiva el sensor. ",
+            "info": "M·|P",
             "readonly": true
           },
           "position": {
-            "x": -112,
-            "y": -192
+            "x": 368,
+            "y": 40
           },
           "size": {
-            "width": 1040,
-            "height": 128
+            "width": 64,
+            "height": 48
           }
         },
         {
-          "id": "d0bac0ca-9305-4ec4-b20e-cf8ed7432a7e",
-          "type": "f8016565cffe8b1613d901b056c6fa1403ccd9e3",
+          "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
+          "type": "basic.info",
+          "data": {
+            "info": "<h3 style=\"color:green\">**EJERCICIO 4.1.**</h3> Se han instalado dos rótulos luminosos en la puerta de una consulta médica,\nuno con la leyenda “PASE”, y otro con la leyenda “ESPERE”.\nEl primero debe encenderse sólo si está el médico y no hay un paciente en el interior de la consulta.\nEl segundo, cuando haya pasado un paciente.",
+            "readonly": true
+          },
           "position": {
-            "x": 368,
-            "y": 0
+            "x": 32,
+            "y": -104
+          },
+          "size": {
+            "width": 912,
+            "height": 96
+          }
+        },
+        {
+          "id": "4f6b55b9-869c-4ef1-94b5-41b75f6f5935",
+          "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
+          "position": {
+            "x": 184,
+            "y": 280
           },
           "size": {
             "width": 96,
-            "height": 96
+            "height": 64
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
+            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
             "port": "out"
           },
           "target": {
-            "block": "2b09599b-bf1b-4c5d-8a57-3e107422b637",
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
         {
           "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
+            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
             "port": "out"
           },
           "target": {
-            "block": "d0bac0ca-9305-4ec4-b20e-cf8ed7432a7e",
-            "port": "872051ac-aac6-488c-8c0e-c266d8d80f7e"
-          }
-        },
-        {
-          "source": {
-            "block": "2b09599b-bf1b-4c5d-8a57-3e107422b637",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "d0bac0ca-9305-4ec4-b20e-cf8ed7432a7e",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+            "block": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
+            "port": "in"
           },
           "vertices": [
             {
-              "x": 312,
-              "y": 80
+              "x": 376,
+              "y": 248
             }
           ]
         },
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
+            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
             "port": "out"
           },
           "target": {
-            "block": "d0bac0ca-9305-4ec4-b20e-cf8ed7432a7e",
+            "block": "4f6b55b9-869c-4ef1-94b5-41b75f6f5935",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
         {
           "source": {
-            "block": "d0bac0ca-9305-4ec4-b20e-cf8ed7432a7e",
+            "block": "4f6b55b9-869c-4ef1-94b5-41b75f6f5935",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -192,6 +207,113 @@
     }
   },
   "dependencies": {
+    "11a6f454705778e2f00adba4e5b28dcd9411bc8f": {
+      "package": {
+        "name": "AND",
+        "version": "1.0.0",
+        "description": "AND logic gate",
+        "author": "Jesús Arroyo",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cpath%20d=%22M-252%20409.9h26v2h-26zM-252%20429.9h27v2h-27z%22/%3E%3Cpath%20d=%22M-227%20400.9v39.9h20.4c11.3%200%2020-9%2020-20s-8.7-20-20-20H-227zm2.9%202.8h17.6c9.8%200%2016.7%207.6%2016.7%2017.1%200%209.5-7.4%2017.1-17.1%2017.1H-224c-.1.1-.1-34.2-.1-34.2z%22/%3E%3Cpath%20d=%22M-187.911%20419.9H-162v2h-25.911z%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+              "type": "basic.code",
+              "data": {
+                "code": "// AND logic gate\n\nassign c = a & b;",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "a"
+                    },
+                    {
+                      "name": "b"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "c"
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 256,
+                "y": 48
+              }
+            },
+            {
+              "id": "18c2ebc7-5152-439c-9b3f-851c59bac834",
+              "type": "basic.input",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 64,
+                "y": 80
+              }
+            },
+            {
+              "id": "664caf9e-5f40-4df4-800a-b626af702e62",
+              "type": "basic.output",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 752,
+                "y": 144
+              }
+            },
+            {
+              "id": "97b51945-d716-4b6c-9db9-970d08541249",
+              "type": "basic.input",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 64,
+                "y": 208
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
+                "port": "out"
+              },
+              "target": {
+                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+                "port": "a"
+              }
+            },
+            {
+              "source": {
+                "block": "97b51945-d716-4b6c-9db9-970d08541249",
+                "port": "out"
+              },
+              "target": {
+                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+                "port": "b"
+              }
+            },
+            {
+              "source": {
+                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+                "port": "c"
+              },
+              "target": {
+                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
+                "port": "in"
+              }
+            }
+          ]
+        }
+      }
+    },
     "32200dc0915d45d6ec035bcec61c8472f0cc7b88": {
       "package": {
         "name": "NOT",
@@ -265,141 +387,6 @@
               "source": {
                 "block": "5365ed8c-e5db-4445-938f-8d689830ea5c",
                 "port": "c"
-              },
-              "target": {
-                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
-                "port": "in"
-              }
-            }
-          ]
-        }
-      }
-    },
-    "f8016565cffe8b1613d901b056c6fa1403ccd9e3": {
-      "package": {
-        "name": "AND",
-        "version": "1.0.0",
-        "description": "AND logic gate",
-        "author": "Jesús Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cpath%20d=%22M-252%20419.9h26v2h-26zM-252%20409.9h26v2h-26zm0%2020h27v2h-27z%22/%3E%3Cpath%20d=%22M-227%20400.9v39.9h20.4c11.3%200%2020-9%2020-20s-8.7-20-20-20H-227zm2.9%202.8h17.6c9.8%200%2016.7%207.6%2016.7%2017.1%200%209.5-7.4%2017.1-17.1%2017.1H-224c-.1.1-.1-34.2-.1-34.2z%22/%3E%3Cpath%20d=%22M-187.911%20419.9H-162v2h-25.911z%22/%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 56
-              }
-            },
-            {
-              "id": "664caf9e-5f40-4df4-800a-b626af702e62",
-              "type": "basic.output",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 752,
-                "y": 144
-              }
-            },
-            {
-              "id": "97b51945-d716-4b6c-9db9-970d08541249",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 144
-              }
-            },
-            {
-              "id": "872051ac-aac6-488c-8c0e-c266d8d80f7e",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 232
-              }
-            },
-            {
-              "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-              "type": "basic.code",
-              "data": {
-                "code": "// AND logic gate\n\nassign d = a & b & c;",
-                "params": [],
-                "ports": {
-                  "in": [
-                    {
-                      "name": "a"
-                    },
-                    {
-                      "name": "b"
-                    },
-                    {
-                      "name": "c"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "d"
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 256,
-                "y": 48
-              },
-              "size": {
-                "width": 384,
-                "height": 256
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-                "port": "out"
-              },
-              "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "a"
-              }
-            },
-            {
-              "source": {
-                "block": "97b51945-d716-4b6c-9db9-970d08541249",
-                "port": "out"
-              },
-              "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "b"
-              }
-            },
-            {
-              "source": {
-                "block": "872051ac-aac6-488c-8c0e-c266d8d80f7e",
-                "port": "out"
-              },
-              "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "c"
-              }
-            },
-            {
-              "source": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "d"
               },
               "target": {
                 "block": "664caf9e-5f40-4df4-800a-b626af702e62",

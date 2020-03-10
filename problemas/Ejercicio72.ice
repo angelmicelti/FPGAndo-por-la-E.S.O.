@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "package": {
-    "name": "Ejercicio 2 del boletín 7 de Electrónica Digital",
+    "name": "Ejercicio 2 del boletín 4 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -15,7 +15,7 @@
           "id": "5ae74fb3-6113-4c94-8a56-48680104d806",
           "type": "basic.input",
           "data": {
-            "name": "CV",
+            "name": "A",
             "pins": [
               {
                 "index": "0",
@@ -27,8 +27,28 @@
             "clock": false
           },
           "position": {
-            "x": -72,
+            "x": 40,
             "y": 56
+          }
+        },
+        {
+          "id": "7183741e-76a9-4e20-af38-56f17534e1da",
+          "type": "basic.input",
+          "data": {
+            "name": "B",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D1",
+                "value": "118"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 40,
+            "y": 176
           }
         },
         {
@@ -46,35 +66,15 @@
             "virtual": false
           },
           "position": {
-            "x": 528,
-            "y": 120
-          }
-        },
-        {
-          "id": "7183741e-76a9-4e20-af38-56f17534e1da",
-          "type": "basic.input",
-          "data": {
-            "name": "ENTREV",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D1",
-                "value": "118"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -72,
-            "y": 144
+            "x": 696,
+            "y": 264
           }
         },
         {
           "id": "1317c93f-a002-493c-b899-309a92a0019b",
           "type": "basic.input",
           "data": {
-            "name": "TEST",
+            "name": "C",
             "pins": [
               {
                 "index": "0",
@@ -86,36 +86,35 @@
             "clock": false
           },
           "position": {
-            "x": -72,
-            "y": 232
+            "x": 40,
+            "y": 288
           }
         },
         {
-          "id": "4cd28fb3-031a-465b-b0fb-7ca02acfdc1a",
-          "type": "basic.input",
+          "id": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
+          "type": "basic.output",
           "data": {
-            "name": "EXPER",
+            "name": "W",
             "pins": [
               {
                 "index": "0",
-                "name": "D3",
-                "value": "116"
+                "name": "LED1",
+                "value": "96"
               }
             ],
-            "virtual": false,
-            "clock": false
+            "virtual": false
           },
           "position": {
-            "x": -72,
-            "y": 320
+            "x": 696,
+            "y": 360
           }
         },
         {
           "id": "d9162604-62fd-437a-b778-759cc9e06b83",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 216,
-            "y": 56
+            "x": 224,
+            "y": 72
           },
           "size": {
             "width": 96,
@@ -126,8 +125,32 @@
           "id": "dc20e611-5e3d-4066-978e-49738759b9a6",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 216,
-            "y": 192
+            "x": 224,
+            "y": 216
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "f4460020-be0f-4cc5-9994-6de8022d257d",
+          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "position": {
+            "x": 224,
+            "y": 400
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
+          "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
+          "position": {
+            "x": 424,
+            "y": 144
           },
           "size": {
             "width": 96,
@@ -138,8 +161,8 @@
           "id": "eea63177-35b8-41d7-898d-b05fabe56dc7",
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": 360,
-            "y": 120
+            "x": 552,
+            "y": 264
           },
           "size": {
             "width": 96,
@@ -147,23 +170,205 @@
           }
         },
         {
-          "id": "906c2021-f0b1-42a6-b67e-6b7f78dfe34c",
+          "id": "ec7bbedf-a8bd-4e2c-b239-e245092a424f",
           "type": "basic.info",
           "data": {
-            "info": "<h3 style=\"color:green\">**EJERCICIO 7.2.**</h3> En la empresa TODODIGITAL S.A. la selección de personal se realiza mediante\nun circuito a base de puertas lógicas. Se lo encargan a los alumnos/as de 4º de E.S.O. del\nI.E.S. Virgen de Villadiego.\nLas condiciones que debe cumplir el circuito son las siguientes:\n* No se seleccionará al candidato/a si el curriculum vitae no es adecuado.\n* Para ser seleccionado, el candidato/a deberá pasar una entrevista de trabajo o un test psicotécnico.\n* La experiencia profesional no es necesaria para ocupar el puesto de trabajo. ",
+            "info": "Encendemos dos ledes\npara mejorar\nla visualización",
             "readonly": true
           },
           "position": {
-            "x": -128,
-            "y": -168
+            "x": 664,
+            "y": 432
           },
           "size": {
-            "width": 944,
-            "height": 160
+            "width": 192,
+            "height": 96
+          }
+        },
+        {
+          "id": "63620568-737e-44b2-9e9d-ef8685278683",
+          "type": "basic.info",
+          "data": {
+            "info": "A·B",
+            "readonly": true
+          },
+          "position": {
+            "x": 248,
+            "y": 32
+          },
+          "size": {
+            "width": 64,
+            "height": 48
+          }
+        },
+        {
+          "id": "e934f0b1-02c7-48ff-9fd7-5e1b71688b7b",
+          "type": "basic.info",
+          "data": {
+            "info": "A·C",
+            "readonly": true
+          },
+          "position": {
+            "x": 248,
+            "y": 184
+          },
+          "size": {
+            "width": 64,
+            "height": 48
+          }
+        },
+        {
+          "id": "e1655e81-7451-454c-abc1-ed615b5e75d6",
+          "type": "basic.info",
+          "data": {
+            "info": "B·C",
+            "readonly": true
+          },
+          "position": {
+            "x": 248,
+            "y": 368
+          },
+          "size": {
+            "width": 64,
+            "height": 32
+          }
+        },
+        {
+          "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
+          "type": "basic.info",
+          "data": {
+            "info": "<h3 style=\"color:green\">**EJERCICIO 4.2.**</h3> La alarma de una vivienda posee tres sensores: A, B y C.\nDicha alarma debe activarse cuando por lo menos dos de los tres sensores estén activados. ",
+            "readonly": true
+          },
+          "position": {
+            "x": 152,
+            "y": -72
+          },
+          "size": {
+            "width": 784,
+            "height": 96
           }
         }
       ],
       "wires": [
+        {
+          "source": {
+            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
+            "port": "out"
+          },
+          "target": {
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
+            "port": "out"
+          },
+          "target": {
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
+            "port": "out"
+          },
+          "target": {
+            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          },
+          "vertices": [
+            {
+              "x": 168,
+              "y": 104
+            }
+          ]
+        },
+        {
+          "source": {
+            "block": "1317c93f-a002-493c-b899-309a92a0019b",
+            "port": "out"
+          },
+          "target": {
+            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
+            "port": "out"
+          },
+          "target": {
+            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          },
+          "vertices": [
+            {
+              "x": 160,
+              "y": 376
+            }
+          ]
+        },
+        {
+          "source": {
+            "block": "1317c93f-a002-493c-b899-309a92a0019b",
+            "port": "out"
+          },
+          "target": {
+            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          },
+          "vertices": [
+            {
+              "x": 176,
+              "y": 384
+            }
+          ]
+        },
+        {
+          "source": {
+            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "f4460020-be0f-4cc5-9994-6de8022d257d",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "5f83c723-81d1-4d62-ac95-c3b95b91d73c",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
         {
           "source": {
             "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
@@ -176,74 +381,12 @@
         },
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
-          },
-          "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
-            "port": "out"
-          },
-          "target": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
-            "port": "out"
-          },
-          "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 72,
-              "y": 216
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
-          },
-          "target": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 176,
-              "y": 136
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "d9162604-62fd-437a-b778-759cc9e06b83",
+            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "dc20e611-5e3d-4066-978e-49738759b9a6",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "eea63177-35b8-41d7-898d-b05fabe56dc7",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+            "block": "2eb36d09-d081-4376-ab6f-6a081f3d5116",
+            "port": "in"
           }
         }
       ]
