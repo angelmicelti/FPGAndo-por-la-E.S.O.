@@ -7,6 +7,16 @@
 
 ---
 
+# Herramientas serie
+
+- [Web Serial Terminal](https://obijuan.github.io/FPGA-WEB-Serial/WebTerm/index.html)
+- [Toggle button](https://fpgawars.github.io/LOVE-FPGA/Software/Toggle/web/)
+- [Display bit](https://fpgawars.github.io/LOVE-FPGA/Software/Display-Bit/web/index.html)
+- [Dos ledes](https://fpgawars.github.io/LOVE-FPGA/Web-panels/Two-LEDs/panel.html)
+- [Un switch](https://fpgawars.github.io/LOVE-FPGA/Web-panels/One-Switch/panel.html)
+
+---
+
 # [Cuadernos técnicos sobre FPGAs libres](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki), por ObiJuan.
 
 - [Unidad de PWM de frecuencia aproximada](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.1:-Unidad-de-PWM-de-frecuencia-aproximada)
