@@ -3,20 +3,21 @@
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
 **Resueltos en IceStudio para probar en IceZum Alhambra**
+O, con leves modificaciones, en Alhambra II
 
-[Boletín 7](boletinED7.pdf)  | [Boletín 8](boletinED8.pdf)  | [Boletín 9](boletinED9.pdf)  | [Boletín 10](boletinED10.pdf) | [Boletín 11](boletinED11.pdf)
+[Boletín 10](Boletín ED10 - Problemas prácticos (I).pdf)  | [Boletín 11](Boletín ED11 - Problemas prácticos (II).pdf)  | [Boletín 12](Boletín ED12 - Problemas prácticos (III).pdf)  | [Boletín 13](Boletín ED13 - Problemas prácticos (IV).pdf) | [Boletín 14](Boletín ED14 - Problemas prácticos (V).pdf)
 --|---|---|--|--|
- [Problema 7.1.](Ejercicio71.ice)  | [Problema 8.1.](Ejercicio51.ice)  | [Problema 9.1.](Ejercicio91.ice)   | [Problema 10.1.](Ejercicio71.ice) | [Problema 11.1.](Ejercicio111.ice)
-[Problema 7.2.](Ejercicio72.ice)  | [Problema 8.2.](Ejercicio52.ice)  | [Problema 9.2.](Ejercicio92.ice)  |  [Problema 10.2.](Ejercicio72.ice)| Problema 11.2.
-[Problema 7.2. (en bloque)](Ejercicio42Bloque.ice)  |   |   |   |
-[Problema 7.3.](Ejercicio73.ice)  | [Problema 8.3.](Ejercicio53.ice)  |[Problema 9.3.](Ejercicio93.ice)   |  [Problema 10.3.](Ejercicio73.ice)|
-[Problema 7.3. (con puertas de 3 entradas)](Ejercicio73B.ice)|   |   |   |
-[Problema 7.4.](Ejercicio74.ice)  | [Problema 8.4.](Ejercicio84.ice)  |[Problema 9.4.](Ejercicio94.ice)   | [Problema 10.4.](Ejercicio104.ice) |
-[Problema 7.4. (en bloque)](Ejercicio74Bloque.ice)  |  |  |  |
-[Problema 7.5.](Ejercicio75.ice)  |   |  [Problema 9.5.](Ejercicio95.ice) | [Problema 10.5.](Ejercicio105.ice) |
-[Problema 7.5. (con puertas de 3 entradas)](Ejercicio75B.ice)  |   |  |  |
-[Problema 7.6.](Ejercicio76.ice)  |   |   | [Problema 10.6.](Ejercicio106.ice) |
-[Problema 7.7.](Ejercicio77.ice)  |   |   |  |
+ [Problema 10.1.](Problema101.ice)  | [Problema 11.1.](Problema111.ice)  | [Problema 12.1.](Problema121.ice)   | [Problema 13.1.](Problema131.ice) | [Problema 14.1.](Problema141.ice)
+[Problema 10.2.](Problema102.ice)  | [Problema 11.2.](Problema112.ice)  | [Problema 12.2.](Problema112.ice)  |  [Problema 13.2.](Problema132.ice)| Problema 14.2.
+[Problema 10.2. (en bloque)](Problema102Bloque.ice)  |   |   |   |
+[Problema 10.3.](Problema73.ice)  | [Problema 11.3.](Problema113.ice)  |[Problema 12.3.](Problema123.ice)   |  [Problema 13.3.](Problema133.ice)|
+[Problema 10.3. (con puertas de 3 entradas)](Problema103B.ice)|   |   |   |
+[Problema 10.4.](Problema104.ice)  | [Problema 11.4.](Problema114.ice)  |[Problema 12.4.](Problema124.ice)   | [Problema 13.4.](Problema134.ice) |
+[Problema 10.4. (en bloque)](Problema104Bloque.ice)  |  |  |  |
+[Problema 10.5.](Problema105.ice)  |   |  [Problema 12.5.](Problema125.ice) | [Problema 13.5.](Problema135.ice) |
+[Problema 10.5. (con puertas de 3 entradas)](Problema105B.ice)  |   |  |  |
+[Problema 10.6.](Problema106.ice)  |   |   | [Problema 13.6.](Problema136.ice) |
+[Problema 10.7.](Problema107.ice)  |   |   |  |
 
 ---
 
