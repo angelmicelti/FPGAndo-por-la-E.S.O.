@@ -5,7 +5,7 @@
 **Resueltos en IceStudio para probar en IceZum Alhambra**
 O, con leves modificaciones, en Alhambra II
 
-[Boletín 10](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED10%20-%20Problemas%20pr%C3%A1cticos%20(I).pdf)  | [Boletín 11](Boletín-ED11---Problemas-prácticos-(II).pdf)  | [Boletín 12](Boletín ED12 - Problemas prácticos (III).pdf)  | [Boletín 13](Boletín ED13 - Problemas prácticos (IV).pdf) | [Boletín 14](Boletín ED14 - Problemas prácticos (V).pdf)
+[Boletín 10](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED10%20-%20Problemas%20pr%C3%A1cticos%20(I).pdf)  | [Boletín 11](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED11%20-%20Problemas%20pr%C3%A1cticos%20(II).pdf)  | [Boletín 12](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED12%20-%20Problemas%20pr%C3%A1cticos%20(III).pdf)  | [Boletín 13](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf) | [Boletín 14](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED14%20-%20Problemas%20pr%C3%A1cticos%20(V).pdf)
 --|---|---|--|--|
  [Problema 10.1.](Problema101.ice)  | [Problema 11.1.](Problema111.ice)  | [Problema 12.1.](Problema121.ice)   | [Problema 13.1.](Problema131.ice) | [Problema 14.1.](Problema141.ice)
 [Problema 10.2.](Problema102.ice)  | [Problema 11.2.](Problema112.ice)  | [Problema 12.2.](Problema112.ice)  |  [Problema 13.2.](Problema132.ice)| Problema 14.2.
