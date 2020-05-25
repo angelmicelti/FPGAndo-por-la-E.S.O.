@@ -5,7 +5,7 @@
 **Resueltos en IceStudio para probar en IceZum Alhambra**
 O, con leves modificaciones, en Alhambra II
 
-[Boletín 10](Boletín ED10 - Problemas prácticos (I).pdf)  | [Boletín 11](Boletín ED11 - Problemas prácticos (II).pdf)  | [Boletín 12](Boletín ED12 - Problemas prácticos (III).pdf)  | [Boletín 13](Boletín ED13 - Problemas prácticos (IV).pdf) | [Boletín 14](Boletín ED14 - Problemas prácticos (V).pdf)
+[Boletín 10](problemas/Boletín ED10 - Problemas prácticos (I).pdf)  | [Boletín 11](Boletín ED11 - Problemas prácticos (II).pdf)  | [Boletín 12](Boletín ED12 - Problemas prácticos (III).pdf)  | [Boletín 13](Boletín ED13 - Problemas prácticos (IV).pdf) | [Boletín 14](Boletín ED14 - Problemas prácticos (V).pdf)
 --|---|---|--|--|
  [Problema 10.1.](Problema101.ice)  | [Problema 11.1.](Problema111.ice)  | [Problema 12.1.](Problema121.ice)   | [Problema 13.1.](Problema131.ice) | [Problema 14.1.](Problema141.ice)
 [Problema 10.2.](Problema102.ice)  | [Problema 11.2.](Problema112.ice)  | [Problema 12.2.](Problema112.ice)  |  [Problema 13.2.](Problema132.ice)| Problema 14.2.
