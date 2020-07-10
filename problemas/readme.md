@@ -20,7 +20,7 @@ O, con leves modificaciones, en Alhambra II
 [Problema 10.7.](Problema107.ice)  |   |   |  |
 
 
-PANELES WEB
+PANELES WEB    
 [Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html)   
 [Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html)   
 [Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html)    
