@@ -21,13 +21,13 @@ O, con leves modificaciones, en Alhambra II
 
 
 PANELES WEB
-[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html)
-[Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html)
-[Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html)
-[Ejercicio 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html)
-[Ejercicio 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html)
-[Ejercicio 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html)
-[Ejercicio 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html)
+[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html)   
+[Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html)   
+[Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html)    
+[Ejercicio 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html)    
+[Ejercicio 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html)    
+[Ejercicio 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html)    
+[Ejercicio 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html)    
 
 ---
 
