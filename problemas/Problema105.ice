@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -97,8 +97,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,

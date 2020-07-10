@@ -1,11 +1,11 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 7 del Boletín 4 de Electrónica Digital",
+    "name": "Ejercicio 7 del Boletín 10 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
-    "image": ""
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2063.894856%2030.472465%22%20height=%22115.172%22%20width=%22241.492%22%3E%3Ctext%20y=%22139.408%22%20x=%22101.223%22%20style=%22line-height:1.25%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20stroke-width=%22.265%22%20transform=%22translate(-69.725%20-126.859)%22%3E%3Ctspan%20style=%22text-align:center%22%20y=%22139.408%22%20x=%22101.223%22%20text-anchor=%22middle%22%3EPROBLEMA%3C/tspan%3E%3Ctspan%20style=%22text-align:center%22%20y=%22152.637%22%20x=%22101.223%22%20text-anchor=%22middle%22%3E10.7%3C/tspan%3E%3C/text%3E%3Cpath%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%22.777%22%20d=%22M.388.388h63.118v29.696H.388z%22/%3E%3C/svg%3E"
   },
   "design": {
     "board": "alhambra-ii",
@@ -23,7 +23,7 @@
                 "value": "3"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -43,7 +43,7 @@
                 "value": "4"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -63,7 +63,7 @@
                 "value": "1"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -83,7 +83,7 @@
                 "value": "45"
               }
             ],
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 568,
@@ -102,7 +102,7 @@
                 "value": "2"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
