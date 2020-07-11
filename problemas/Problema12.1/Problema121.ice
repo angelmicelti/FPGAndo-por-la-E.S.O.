@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D3",
+                "value": "116"
               }
             ],
             "virtual": false,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D1",
-                "value": "118"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -78,8 +78,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D1",
+                "value": "118"
               }
             ],
             "virtual": false,
@@ -98,8 +98,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D3",
-                "value": "116"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,
@@ -108,22 +108,6 @@
           "position": {
             "x": -176,
             "y": 232
-          }
-        },
-        {
-          "id": "ec7bbedf-a8bd-4e2c-b239-e245092a424f",
-          "type": "basic.info",
-          "data": {
-            "info": "Encendemos dos ledes\npara mejorar\nla visualización",
-            "readonly": true
-          },
-          "position": {
-            "x": 1272,
-            "y": 72
-          },
-          "size": {
-            "width": 192,
-            "height": 96
           }
         },
         {

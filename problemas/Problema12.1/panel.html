@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <title>PROBLEMA 12.1</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="media/favicon.ico" type="image/ico"/>
+    <link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon"/>
+
+    <!-- Hojas de estilo de los diferentes componentes -->
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/led.css">
+    <link rel="stylesheet" href="css/switch.css">
+    <link rel="stylesheet" href="css/pushbutton.css">
+    <link rel="stylesheet" href="css/label-on-off.css">
+
+    <!-- Código de los componentes -->
+    <script src="js/SerialPanel.js"></script>
+    <script src="js/led.js"></script>
+    <script src="js/switch.js"></script>
+    <script src="js/pushbutton.js"></script>
+    <script src="panel.js" defer> </script>
+  </head>
+
+  <body>
+
+    <!--  RECURSO: Audio del click del switch -->
+    <audio id="click" src="media/click.mp3">
+    </audio>
+
+    <!-- Mensaje de error que se muestra si el navegador
+         no tiene web-serial
+     -->
+    <div class="w3-panel w3-red w3-round-xlarge w3-border w3-margin-left w3-margin-right" id="msg_serial">
+      <h3>Warning!</h3>
+      <p>Este navegador NO soporta <b>Web Serial</b></p>
+      <p>Asegúrate que estás usando
+      Chrome/Chromium 78 o superior
+        y que está habilitado el flag
+      <code>#enable-experimental-web-platform-features</code> en
+      <code>chrome://flags</code></p>
+      <p>Para habilitarlo en Chrome/Chromium copia esta URL en una nueva pestaña:
+      <a href="chrome://flags/#enable-experimental-web-platform-features">chrome://flags/#enable-experimental-web-platform-features</a>
+      y pincha en ENABLE</p>
+    </div>
+
+    <!-- Panel de control LOVE -->
+    <div class="w3-card-4 w3-margin w3-round-large">
+
+      <header class="w3-container w3-grey w3-text-white">
+        <h5>Controles del panel</h5>
+      </header>
+
+      <!-- Botones de gestion del panel -->
+      <div class="w3-container">
+          <p>
+          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Connect</button>
+          <button class="w3-button w3-yellow w3-round-large " id="butReset" disabled>↪ Reset</button>
+          <button class="w3-bar-item w3-button w3-yellow w3-round-large " id="butSync" disabled>⤵ Sync</button>
+          </p>
+      </div>
+    </div>
+
+   <!-- ENTRADAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-blue w3-text-white">
+       <h5><b>ENTRADAS</b></h5>
+     </header>
+
+      <!-- Switches -->
+      <div class="w3-container">
+        <div class="w3-row">
+
+          <!-- Grupo: Datos -->
+          <div class="w3-col w3-center" style="width:300px">
+            <p class="w3-margin-top w3-text-blue" style="margin:0px">Puertas</p>
+            <div class="w3-container">
+              <div class="w3-row">
+
+                <!-- Label on/off -->
+                <div class="w3-col w3-center" style="width:30px">
+                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+                  <div class="Label-on-off"></div>
+                </div>
+
+                <!-- First switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swA"></div>
+                </div>
+
+                <!-- Second switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swB"></div>
+                </div>
+
+                <!-- Third switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swC"></div>
+                </div>
+				
+				<!-- Fourth switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swD"></div>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+
+ 
+
+          </div>
+
+          <div class="w3-rest"></div>
+        </div>
+       </div>
+
+   </div>
+
+   <!-- SALIDAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-green w3-text-white">
+       <h5><b>SALIDAS</b></h5>
+     </header>
+
+    <!-- LEDs -->
+     <div class="w3-container">
+       <div class="w3-row">
+
+        <!-- Grupo: Leds -->
+        <div class="w3-col w3-center" style="width:200px">
+          <p class="w3-margin-top w3-text-green" style="margin:0px">Puerta E</p>
+          <div class="w3-container">
+            <div class="w3-row">
+
+              <!-- LED 7 -->
+              <div class="w3-col w3-center" style="width:160px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledE"></div>
+              </div>
+              
+
+            </div>
+          </div>
+        </div>
+
+         <div class="w3-rest"></div>
+       </div>
+      </div>
+   </div>
+
+   
+  </body>
+</html>
