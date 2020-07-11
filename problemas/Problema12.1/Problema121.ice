@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 1 del boletín 6 de electrónica digital",
+    "name": "Problema 1 del boletín 12 de electrónica digital",
     "version": "1.0",
     "description": "",
     "author": "Ángel Millán León",
