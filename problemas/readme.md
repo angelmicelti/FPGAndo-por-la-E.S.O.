@@ -13,12 +13,13 @@ O, con leves modificaciones, en Alhambra II
 [Problema 10.3.](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103.ice)  | [Problema 11.3.](Problema113.ice)  |[Problema 12.3.](Problema123.ice)   |  [Problema 13.3.](Problema133.ice)|
 [Problema 10.3. (con puertas de 3 entradas)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103B.ice)|   |   |   |
 [Problema 10.3. (en bloque)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103Bloque.ice)|   |   |   |
-[Problema 10.4.](Problema104.ice)  | [Problema 11.4.](Problema114.ice)  |[Problema 12.4.](Problema124.ice)   | [Problema 13.4.](Problema134.ice) |
-[Problema 10.4. (en bloque)](Problema104Bloque.ice)  |  |  |  |
-[Problema 10.5.](Problema105.ice)  |   |  [Problema 12.5.](Problema125.ice) | [Problema 13.5.](Problema135.ice) |
-[Problema 10.5. (con puertas de 3 entradas)](Problema105B.ice)  |   |  |  |
-[Problema 10.6.](Problema106.ice)  |   |   | [Problema 13.6.](Problema136.ice) |
-[Problema 10.7.](Problema107.ice)  |   |   |  |
+[Problema 10.4.](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104.ice)  | [Problema 11.4.](Problema114.ice)  |[Problema 12.4.](Problema124.ice)   | [Problema 13.4.](Problema134.ice) |
+[Problema 10.4. (en bloque)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104Bloque.ice)  |  |  |  |
+[Problema 10.5.](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105.ice)  |   |  [Problema 12.5.](Problema125.ice) | [Problema 13.5.](Problema135.ice) |
+[Problema 10.5. (con puertas de 3 entradas)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105B.ice)  |   |  |  |
+[Problema 10.6.](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106.ice)  |   |   | [Problema 13.6.](Problema136.ice) |
+[Problema 10.6. (en bloque)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106Bloque.ice)  |   |   |  |
+[Problema 10.7.](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107.ice)  |   |   |  |
 
 
 ### PANELES WEB    
