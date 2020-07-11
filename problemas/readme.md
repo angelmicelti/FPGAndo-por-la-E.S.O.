@@ -21,7 +21,7 @@ O, con leves modificaciones, en Alhambra II
 
 
 PANELES WEB    
-[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html)   
+[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html);  [Archivo IceStudio](https://raw.githubusercontent.com/angelmicelti/FPGAndo-por-la-E.S.O./master/problemas/Problema10.1/Problema101PanelWeb.ice)   
 [Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html)   
 [Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html)    
 [Ejercicio 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html)    
