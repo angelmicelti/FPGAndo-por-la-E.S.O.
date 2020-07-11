@@ -36,7 +36,11 @@ module PuertaAND(
   assign SALIDA = ~A;
 endmodule
 ```
-NOTA: el carácter "virgulilla" o "~" se obtiene pulsando la tecla ALT y, sin soltar, la combinación numérica 126. Libera entonces ALT y obtendrás el carácter.
+NOTA: el carácter "virgulilla" o "~" se obtiene del siguiente modo:. 
+
+ 1. Pulsa la tecla ALT
+ 2. Sin soltar, teclea la combinación numérica 126.  
+ 3. Libera entonces ALT y obtendrás el carácter.
 
 Como ves, cogerle el tranquillo es fácil: ya conoces el código para las tres operaciones binarias, así que puedes crear el código Verilog de cualquier circuito en el que hayas **simplificado** su función lógica: es muy importante **simplificar** para obtener la expresión lógica más pequeña posible.
 
