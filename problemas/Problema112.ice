@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -46,7 +46,7 @@
             "virtual": false
           },
           "position": {
-            "x": 600,
+            "x": 688,
             "y": 168
           }
         },
@@ -78,8 +78,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,
@@ -94,7 +94,7 @@
           "id": "d9162604-62fd-437a-b778-759cc9e06b83",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 296,
+            "x": 384,
             "y": 72
           },
           "size": {
@@ -106,7 +106,7 @@
           "id": "dc20e611-5e3d-4066-978e-49738759b9a6",
           "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
           "position": {
-            "x": 296,
+            "x": 384,
             "y": 272
           },
           "size": {
@@ -118,7 +118,7 @@
           "id": "eea63177-35b8-41d7-898d-b05fabe56dc7",
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
-            "x": 440,
+            "x": 528,
             "y": 168
           },
           "size": {
@@ -130,23 +130,23 @@
           "id": "d91cc298-d9af-472f-a6ff-e0e190f70c84",
           "type": "basic.info",
           "data": {
-            "info": "<h3 style=\"color:green\">**PROBLEMA 11.2.**</h3>\tEn una fábrica hay tres depósitos de agua, con sensores de nivel A, B y C. \nEn los depósitos A y B hay una bomba hidráulica en cada uno (que llamaremos S y T, respectivamente).\nS envía el agua al depósito B, y T al C.\nUna bomba se pone en marcha cuando su correspondiente depósito está lleno,\ny el depósito de destino no lo esté.",
+            "info": "<h3 style=\"color:green\">**PROBLEMA 11.2.**</h3>\tEn una fábrica hay tres depósitos de agua, con sensores de nivel A, B y C. \nEn los depósitos A y B hay una bomba hidráulica en cada uno (que llamaremos S y T, respectivamente).\nS envía el agua al depósito B, y T al C.\nUna bomba se pone en marcha cuando su correspondiente depósito está lleno,\ny el depósito de destino no lo esté.  \nUn LED indicador nos marca el estado de cualquiera de las bombas",
             "readonly": true
           },
           "position": {
-            "x": 40,
-            "y": -120
+            "x": -16,
+            "y": -136
           },
           "size": {
-            "width": 864,
-            "height": 112
+            "width": 896,
+            "height": 128
           }
         },
         {
           "id": "6204a591-385e-4e0c-be3b-3b2a37c4cf47",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 152,
+            "x": 176,
             "y": 248
           },
           "size": {
@@ -158,7 +158,7 @@
           "id": "3ab05666-ec6c-4b3c-b017-aa1c0a7fe477",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 152,
+            "x": 168,
             "y": 440
           },
           "size": {
@@ -174,8 +174,24 @@
             "readonly": true
           },
           "position": {
-            "x": 328,
+            "x": 416,
             "y": 40
+          },
+          "size": {
+            "width": 64,
+            "height": 48
+          }
+        },
+        {
+          "id": "8fd9e2a3-1c7e-495c-ab51-60c2b7b6e3c6",
+          "type": "basic.info",
+          "data": {
+            "info": "T",
+            "readonly": true
+          },
+          "position": {
+            "x": 416,
+            "y": 240
           },
           "size": {
             "width": 64,
@@ -235,7 +251,7 @@
           },
           "vertices": [
             {
-              "x": 280,
+              "x": 368,
               "y": 192
             }
           ]

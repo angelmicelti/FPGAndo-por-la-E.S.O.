@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 1 del boletín 4 de Electrónica Digital",
+    "name": "Bloque que resuelve el problema 10.1",
     "version": "",
     "description": "",
     "author": "Ángel Millán",

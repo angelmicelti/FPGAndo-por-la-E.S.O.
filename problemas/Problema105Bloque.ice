@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 5 del Boletín 10 de Electrónica Digital",
+    "name": "Bloque que resuelve el problema 10.5",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",

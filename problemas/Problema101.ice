@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 1 del boletín 4 de Electrónica Digital",
+    "name": "Problema 1 del boletín 10 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán",

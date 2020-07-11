@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 5 del Boletín 4 de Electrónica Digital",
+    "name": "Problema 5 del Boletín 10 de Electrónica Digital",
     "version": "",
     "description": "Resuelto con puertas lógicas de 3 entradas",
     "author": "Ángel Millán León",

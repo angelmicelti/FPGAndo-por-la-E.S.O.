@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Bloque solución del problema 10.6",
+    "name": "Bloque que resuelve el problema 10.6",
     "version": "1.0",
     "description": "Bloque solución del problema 10.6",
     "author": "Ángel Millán León",

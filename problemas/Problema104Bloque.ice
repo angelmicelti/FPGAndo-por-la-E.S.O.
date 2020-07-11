@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 4 del Boletín 4 de Electrónica Digital",
+    "name": "Bloque que resuelve el problema 10.4",
     "version": "",
     "description": "Resuelto con un bloque ",
     "author": "Ángel Millán León",
