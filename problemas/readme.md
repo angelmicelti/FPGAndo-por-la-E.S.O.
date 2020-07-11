@@ -2,7 +2,7 @@
 
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
-Resueltos en **[IceStudio](https://github.com/fpgawars/icestudio)** para probar en **[IceZum Alhambra](https://github.com/fpgawars/icezum/wiki)** o, con leves modificaciones, en **[Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)**
+Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alhambra](https://github.com/fpgawars/icezum/wiki)** o, con leves modificaciones, en **[Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)**
 
 [Boletín 10](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED10%20-%20Problemas%20pr%C3%A1cticos%20(I).pdf)  | [Boletín 11](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED11%20-%20Problemas%20pr%C3%A1cticos%20(II).pdf)  | [Boletín 12](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED12%20-%20Problemas%20pr%C3%A1cticos%20(III).pdf)  | [Boletín 13](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf) | [Boletín 14](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED14%20-%20Problemas%20pr%C3%A1cticos%20(V).pdf)
 ---|---|---|---|---|
