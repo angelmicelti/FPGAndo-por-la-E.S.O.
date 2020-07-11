@@ -20,14 +20,16 @@ O, con leves modificaciones, en Alhambra II
 [Problema 10.7.](Problema107.ice)  |   |   |  |
 
 
-PANELES WEB    
-[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice)   
-[Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102PanelWeb.ice)      
-[Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103PanelWeb.ice)       
-[Ejercicio 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104PanelWeb.ice)       
-[Ejercicio 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105PanelWeb.ice)       
-[Ejercicio 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106PanelWeb.ice)       
-[Ejercicio 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html);  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107PanelWeb.ice)       
+### PANELES WEB    
+EJERCICIO | CIRCUITO FPGA |
+--|---|
+[Ejercicio 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
+[Ejercicio 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102PanelWeb.ice) |     
+[Ejercicio 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103PanelWeb.ice) |      
+[Ejercicio 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104PanelWeb.ice) |       
+[Ejercicio 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105PanelWeb.ice) |       
+[Ejercicio 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106PanelWeb.ice) |      
+[Ejercicio 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107PanelWeb.ice) |      
 
 ---
 
