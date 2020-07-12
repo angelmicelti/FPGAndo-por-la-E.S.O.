@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Solución al problema 3 del Boletín 12",
+    "name": "Solución al problema 3 del Boletín 12 con puertas NAND",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
