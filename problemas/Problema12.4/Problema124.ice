@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 4 del boletín 6 de electrónica digital",
+    "name": "Problema 4 del boletín 12 de electrónica digital",
     "version": "1.0",
     "description": "",
     "author": "Ángel Millán León",
@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D3",
+                "value": "116"
               }
             ],
             "virtual": false,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D1",
-                "value": "118"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -78,8 +78,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D1",
+                "value": "118"
               }
             ],
             "virtual": false,
@@ -98,8 +98,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D3",
-                "value": "116"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,
