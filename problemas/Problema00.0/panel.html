@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <title>PROBLEMA 00.0</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="media/favicon.ico" type="image/ico"/>
+    <link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon"/>
+
+    <!-- Hojas de estilo de los diferentes componentes -->
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/led.css">
+    <link rel="stylesheet" href="css/switch.css">
+    <link rel="stylesheet" href="css/pushbutton.css">
+    <link rel="stylesheet" href="css/label-on-off.css">
+
+    <!-- Código de los componentes -->
+    <script src="js/SerialPanel.js"></script>
+    <script src="js/led.js"></script>
+    <script src="js/switch.js"></script>
+    <script src="js/pushbutton.js"></script>
+    <script src="panel.js" defer> </script>
+  </head>
+
+  <body>
+
+    <!--  RECURSO: Audio del click del switch -->
+    <audio id="click" src="media/click.mp3">
+    </audio>
+
+    <!-- Mensaje de error que se muestra si el navegador
+         no tiene web-serial
+     -->
+    <div class="w3-panel w3-red w3-round-xlarge w3-border w3-margin-left w3-margin-right" id="msg_serial">
+      <h3>Warning!</h3>
+      <p>Este navegador NO soporta <b>Web Serial</b></p>
+      <p>Asegúrate que estás usando
+      Chrome/Chromium 78 o superior
+        y que está habilitado el flag
+      <code>#enable-experimental-web-platform-features</code> en
+      <code>chrome://flags</code></p>
+      <p>Para habilitarlo en Chrome/Chromium copia esta URL en una nueva pestaña:
+      <a href="chrome://flags/#enable-experimental-web-platform-features">chrome://flags/#enable-experimental-web-platform-features</a>
+      y pincha en ENABLE</p>
+    </div>
+
+    <!-- Panel de control LOVE -->
+    <div class="w3-card-4 w3-margin w3-round-large">
+
+      <header class="w3-container w3-grey w3-text-white">
+        <h5>CONTROLES DEL PANEL</h5>
+      </header>
+
+      <!-- Botones de gestion del panel -->
+      <div class="w3-container">
+          <p>
+          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Connect</button>
+          <button class="w3-button w3-yellow w3-round-large " id="butReset" disabled>↪ Reset</button>
+          <button class="w3-bar-item w3-button w3-yellow w3-round-large " id="butSync" disabled>⤵ Sync</button>
+          </p>
+      </div>
+    </div>
+
+   <!-- Rótulo -->
+   <div class="w3-card-4 w3-center w3-round-large">
+     <header class="w3-container w3-cyan w3-text-white">
+       <h3><b>PROBLEMA 10.1</b></h3>
+     </header>
+	 </div>
+
+
+
+
+   <!-- Enunciado -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-cyan w3-text-white">
+       <h5><b><i>ENUNCIADO DEL PROBLEMA</b></i></h5>
+     </header>
+
+
+      <!-- Enunciado2 -->
+      <div class="w3-container">
+        <div class="w3-row">
+
+          <!-- Grupo: Enunciado3 -->
+          <div class="w3-col w3-margin" style="width:auto">
+            <p class="w3-margin-top w3-text-black" style="margin:0px">Se han instalado dos rótulos luminosos en la puerta de una consulta médica, uno con la leyenda “PASE”, y otro con la leyenda “ESPERE”. El primero debe encenderse solo si está el médico y no hay un paciente en el interior de la consulta. El segundo, cuando haya pasado un paciente. Se pide: a) tabla de verdad de la función “P”, que nos indica el estado del cartel de “PASE”; b) ídem para el rótulo “ESPERE”; c) expresión algebraica de la función “P”; d) ídem para la función “E”.</p>
+            <div class="w3-container">
+              <div class="w3-row">
+
+                
+              </div>
+            </div>
+          </div>
+
+ 
+
+          </div>
+
+          <div class="w3-rest"></div>
+        </div>
+       </div>
+
+
+
+	 
+   <!-- ENTRADAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-blue w3-text-white">
+       <h5><b>ENTRADAS</b></h5>
+     </header>
+
+
+      <!-- Switches -->
+      <div class="w3-container">
+        <div class="w3-row">
+
+          <!-- Grupo: Datos -->
+          <div class="w3-col w3-center" style="width:250px">
+            <p class="w3-margin-top w3-text-blue" style="margin:0px">Indicación de médico y paciente dentro de la consulta</p>
+            <div class="w3-container">
+              <div class="w3-row">
+
+                <!-- Label on/off -->
+                <div class="w3-col w3-center" style="width:30px">
+                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+                  <div class="Label-on-off"></div>
+                </div>
+
+                <!-- First switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swM"></div>
+                </div>
+
+                <!-- Second switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swP"></div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+
+ 
+
+          </div>
+
+          <div class="w3-rest"></div>
+        </div>
+       </div>
+
+
+   <!-- SALIDAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-green w3-text-white">
+       <h5><b>SALIDAS</b></h5>
+     </header>
+
+    <!-- LEDs -->
+     <div class="w3-container">
+       <div class="w3-row">
+
+        <!-- Grupo: Leds -->
+        <div class="w3-col w3-center" style="width:200px">
+          <p class="w3-margin-top w3-text-green" style="margin:0px">Rótulos ESPERE / PASE</p>
+          <div class="w3-container">
+            <div class="w3-row">
+
+              <!-- LED 7 -->
+              <div class="w3-col w3-center" style="width:80px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledP"></div>
+              </div>
+
+              <!-- LED 6 -->
+              <div class="w3-col w3-center" style="width:80px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledE"></div>
+              </div>
+              
+
+            </div>
+          </div>
+        </div>
+
+         <div class="w3-rest"></div>
+       </div>
+      </div>
+   </div>
+
+<!-- Parte inferior: Enlaces -->
+   <div class="w3-container w3-margin-top">
+     <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101.ice" download type="application/octet-stream" target="_blank">
+       <b>Solución al problema</b>
+    </a>
+
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101Bloque.ice" target="_blank"><b>Solución al problema (bloque)</b></a>
+	
+	
+    <a class="w3-btn w3-sand" href="https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/readme.md" target="_blank"><b>Todos los problemas</b></a>
+	
+	<a class="w3-btn w3-sand" href="https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED10%20-%20Problemas%20pr%C3%A1cticos%20(I).pdf" target="_blank"><b>BOLETÍN 10</b></a>
+   </div>
+
+   
+  </body>
+</html>
