@@ -116,7 +116,7 @@
           "data": {
             "name": "Tabla",
             "list": "0\n0\n0\n1\n0\n1\n1\n0\n0\n1\n1\n0\n1\n0\n0\n0",
-            "local": false,
+            "local": true,
             "format": 10
           },
           "position": {
