@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Problema12.svg"
+   sodipodi:docname="Problema123NAND.svg"
    id="svg10"
    version="1.1"
    viewBox="0 0 63.894856 30.472465"
@@ -51,26 +51,26 @@
      inkscape:document-rotation="0" />
   <text
      id="text6"
-     transform="translate(-69.725,-126.859)"
-     stroke-width="0.265"
+     transform="scale(0.95474744,1.0473974)"
+     stroke-width="0.236219"
      word-spacing="0"
      letter-spacing="0"
      font-family="sans-serif"
-     font-size="10.583px"
+     font-size="9.43361px"
      font-weight="400"
-     y="139.408"
-     x="101.223"
+     y="11.864779"
+     x="34.134644"
      style="line-height:1.25"><tspan
        id="tspan2"
        text-anchor="middle"
-       style="text-align:center"
-       y="139.408"
-       x="101.223">PROBLEMA</tspan><tspan
+       style="text-align:center;stroke-width:0.210564"
+       y="11.864779"
+       x="34.134644">PROBLEMA</tspan><tspan
        id="tspan4"
        text-anchor="middle"
-       style="text-align:center"
-       y="152.63699"
-       x="101.223">12.2</tspan></text>
+       style="text-align:center;stroke-width:0.210564"
+       y="23.657007"
+       x="34.134644">12.3 (NAND)</tspan></text>
   <path
      id="path8"
      d="M.388.388h63.118v29.696H.388z"
