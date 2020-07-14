@@ -35,7 +35,7 @@
           "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "Lampara",
+            "name": "L",
             "pins": [
               {
                 "index": "0",

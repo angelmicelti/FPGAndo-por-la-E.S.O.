@@ -281,8 +281,8 @@
           }
         },
         {
-          "id": "5d008266-80da-46b4-95a7-41add01f43a1",
-          "type": "8769fef3b8b9d7fbc8ad20531144361cfd474785",
+          "id": "f02422cc-6dce-4dc3-b15a-7bff46f7a8bf",
+          "type": "76eee813a6da40a098d0d20cd5cf5976f62a559b",
           "position": {
             "x": 944,
             "y": 192
@@ -340,7 +340,7 @@
         },
         {
           "source": {
-            "block": "5d008266-80da-46b4-95a7-41add01f43a1",
+            "block": "f02422cc-6dce-4dc3-b15a-7bff46f7a8bf",
             "port": "c410b25a-140f-4bb5-877f-64066933f399"
           },
           "target": {
@@ -422,7 +422,7 @@
             "port": "fb1d7b83-faa8-43b5-84c8-655a4f7a4b4e"
           },
           "target": {
-            "block": "5d008266-80da-46b4-95a7-41add01f43a1",
+            "block": "f02422cc-6dce-4dc3-b15a-7bff46f7a8bf",
             "port": "5ae74fb3-6113-4c94-8a56-48680104d806"
           },
           "vertices": [
@@ -442,7 +442,7 @@
             "port": "7f8dcdff-0453-4d52-9536-ee26651255f7"
           },
           "target": {
-            "block": "5d008266-80da-46b4-95a7-41add01f43a1",
+            "block": "f02422cc-6dce-4dc3-b15a-7bff46f7a8bf",
             "port": "7183741e-76a9-4e20-af38-56f17534e1da"
           },
           "vertices": [
@@ -462,7 +462,7 @@
             "port": "7f8dcdff-0453-4d52-9536-ee26651255f7"
           },
           "target": {
-            "block": "5d008266-80da-46b4-95a7-41add01f43a1",
+            "block": "f02422cc-6dce-4dc3-b15a-7bff46f7a8bf",
             "port": "1317c93f-a002-493c-b899-309a92a0019b"
           },
           "vertices": [
@@ -20611,7 +20611,7 @@
         }
       }
     },
-    "8769fef3b8b9d7fbc8ad20531144361cfd474785": {
+    "76eee813a6da40a098d0d20cd5cf5976f62a559b": {
       "package": {
         "name": "Bloque solución al problema 2 del boletín 12",
         "version": "1.0",
@@ -20638,7 +20638,7 @@
               "id": "c410b25a-140f-4bb5-877f-64066933f399",
               "type": "basic.output",
               "data": {
-                "name": "Lampara"
+                "name": "L"
               },
               "position": {
                 "x": 632,
