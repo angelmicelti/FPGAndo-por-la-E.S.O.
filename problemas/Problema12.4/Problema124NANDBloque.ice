@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "",
     "author": "Ángel Millán León",
-    "image": ""
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2063.894856%2030.472465%22%20height=%22115.172%22%20width=%22241.492%22%3E%3Ctext%20transform=%22scale(1.00558%20.99445)%22%20stroke-width=%22.238%22%20word-spacing=%220%22%20letter-spacing=%220%22%20font-family=%22sans-serif%22%20font-size=%229.491%22%20font-weight=%22400%22%20y=%2211.363%22%20x=%2231.801%22%20style=%22line-height:1.25%22%3E%3Ctspan%20text-anchor=%22middle%22%20style=%22text-align:center%22%20y=%2211.363%22%20x=%2231.801%22%20stroke-width=%22.215%22%3EPROBLEMA%3C/tspan%3E%3Ctspan%20text-anchor=%22middle%22%20style=%22text-align:center%22%20y=%2223.228%22%20x=%2231.801%22%20stroke-width=%22.215%22%3E12.4%20(NAND)%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M.388.388h63.118v29.696H.388z%22%20stroke-width=%22.777%22%20stroke=%22#000%22%20fill=%22none%22/%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
