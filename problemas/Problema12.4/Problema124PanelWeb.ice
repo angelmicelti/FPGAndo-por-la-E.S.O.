@@ -282,8 +282,8 @@
           }
         },
         {
-          "id": "2f375221-d78b-45e9-a2d2-6912b81938b5",
-          "type": "66259f5fad36002238a740d5ca7901ae3e84aba9",
+          "id": "66b37c6c-15cd-420b-bc45-03ac70771659",
+          "type": "d103054b18dee051562cd802420abe606c04fa39",
           "position": {
             "x": 728,
             "y": 232
@@ -410,7 +410,7 @@
             "port": "fc93f7da-b784-422c-9baa-ecab73eef82c"
           },
           "target": {
-            "block": "2f375221-d78b-45e9-a2d2-6912b81938b5",
+            "block": "66b37c6c-15cd-420b-bc45-03ac70771659",
             "port": "5ae74fb3-6113-4c94-8a56-48680104d806"
           },
           "vertices": []
@@ -421,7 +421,7 @@
             "port": "08c61ec5-2f8c-477a-a659-55b2197436c3"
           },
           "target": {
-            "block": "2f375221-d78b-45e9-a2d2-6912b81938b5",
+            "block": "66b37c6c-15cd-420b-bc45-03ac70771659",
             "port": "7183741e-76a9-4e20-af38-56f17534e1da"
           },
           "vertices": []
@@ -432,7 +432,7 @@
             "port": "d912538b-1b79-4d87-9a1b-2a960500bad1"
           },
           "target": {
-            "block": "2f375221-d78b-45e9-a2d2-6912b81938b5",
+            "block": "66b37c6c-15cd-420b-bc45-03ac70771659",
             "port": "1317c93f-a002-493c-b899-309a92a0019b"
           },
           "vertices": []
@@ -443,7 +443,7 @@
             "port": "a340150e-2b8c-4e1e-a501-79ac40f5cd48"
           },
           "target": {
-            "block": "2f375221-d78b-45e9-a2d2-6912b81938b5",
+            "block": "66b37c6c-15cd-420b-bc45-03ac70771659",
             "port": "9e9e8f7e-9633-4ce1-9b65-7ec97e108f4b"
           },
           "vertices": []
@@ -461,7 +461,7 @@
         },
         {
           "source": {
-            "block": "2f375221-d78b-45e9-a2d2-6912b81938b5",
+            "block": "66b37c6c-15cd-420b-bc45-03ac70771659",
             "port": "c410b25a-140f-4bb5-877f-64066933f399"
           },
           "target": {
@@ -25390,7 +25390,7 @@
         }
       }
     },
-    "66259f5fad36002238a740d5ca7901ae3e84aba9": {
+    "d103054b18dee051562cd802420abe606c04fa39": {
       "package": {
         "name": "Problema 4 del boletín 12 de electrónica digital",
         "version": "1.0",
@@ -25540,7 +25540,7 @@
               "id": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
               "type": "28434d709e93f609b5978cf6f1fc594f6d83d489",
               "position": {
-                "x": 240,
+                "x": 272,
                 "y": -24
               },
               "size": {
@@ -25732,16 +25732,6 @@
               "target": {
                 "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
                 "port": "c894b704-f912-407d-be9d-175e04189cdc"
-              }
-            },
-            {
-              "source": {
-                "block": "1317c93f-a002-493c-b899-309a92a0019b",
-                "port": "out"
-              },
-              "target": {
-                "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
-                "port": "97b51945-d716-4b6c-9db9-970d08541249"
               }
             },
             {
@@ -26002,6 +25992,16 @@
               "target": {
                 "block": "c410b25a-140f-4bb5-877f-64066933f399",
                 "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "8d12dbb8-a115-40fe-9cdf-ac58973ea614",
+                "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+              },
+              "target": {
+                "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
+                "port": "97b51945-d716-4b6c-9db9-970d08541249"
               }
             }
           ]

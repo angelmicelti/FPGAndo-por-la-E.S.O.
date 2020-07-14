@@ -190,7 +190,7 @@
           "id": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
           "type": "28434d709e93f609b5978cf6f1fc594f6d83d489",
           "position": {
-            "x": 240,
+            "x": 272,
             "y": -24
           },
           "size": {
@@ -382,16 +382,6 @@
           "target": {
             "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
             "port": "c894b704-f912-407d-be9d-175e04189cdc"
-          }
-        },
-        {
-          "source": {
-            "block": "1317c93f-a002-493c-b899-309a92a0019b",
-            "port": "out"
-          },
-          "target": {
-            "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
         {
@@ -652,6 +642,16 @@
           "target": {
             "block": "c410b25a-140f-4bb5-877f-64066933f399",
             "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "8d12dbb8-a115-40fe-9cdf-ac58973ea614",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "b3fb285c-1de9-48d3-8f51-f49ba61a8d2f",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         }
       ]
