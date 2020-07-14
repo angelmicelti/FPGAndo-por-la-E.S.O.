@@ -67,7 +67,7 @@
           },
           "position": {
             "x": 1296,
-            "y": 0
+            "y": 16
           }
         },
         {
@@ -275,7 +275,7 @@
           "type": "2fa1b5e2ab379d4aa2f25ff2ff5a6874c24d3cab",
           "position": {
             "x": 1136,
-            "y": 0
+            "y": 16
           },
           "size": {
             "width": 96,
