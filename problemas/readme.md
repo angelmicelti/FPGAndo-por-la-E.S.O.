@@ -34,6 +34,10 @@ PROBLEMA | CIRCUITO FPGA |
 [Problema 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105PanelWeb.ice) |       
 [Problema 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106PanelWeb.ice) |      
 [Problema 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107PanelWeb.ice) |      
+[Problema 11.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/Problema111PanelWeb.ice) |  
+[Problema 11.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/Problema112PanelWeb.ice) |     
+[Problema 11.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/Problema113PanelWeb.ice) |      
+[Problema 11.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/Problema114PanelWeb.ice) |  
 
 ---
 
