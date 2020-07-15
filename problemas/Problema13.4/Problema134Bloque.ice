@@ -1,11 +1,11 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 3 del Boletín 7 de Electrónica Digital",
+    "name": "Bloque solución al problema 3 del Boletín 13 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
-    "image": ""
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22241.492%22%20height=%22115.172%22%20viewBox=%220%200%2063.894856%2030.472465%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22101.223%22%20y=%22139.408%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20stroke-width=%22.265%22%20transform=%22translate(-69.725%20-126.859)%22%3E%3Ctspan%20x=%22101.223%22%20y=%22139.408%22%20style=%22text-align:center%22%20text-anchor=%22middle%22%3EPROBLEMA%3C/tspan%3E%3Ctspan%20x=%22101.223%22%20y=%22152.637%22%20style=%22text-align:center%22%20text-anchor=%22middle%22%3E13.4%3C/tspan%3E%3C/text%3E%3Cpath%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%22.777%22%20d=%22M.388.388h63.118v29.696H.388z%22/%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
@@ -19,11 +19,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D3",
+                "value": "116"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -39,11 +39,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D1",
-                "value": "118"
+                "name": "D2",
+                "value": "117"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -55,15 +55,15 @@
           "id": "c410b25a-140f-4bb5-877f-64066933f399",
           "type": "basic.output",
           "data": {
-            "name": "W",
+            "name": "Z",
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED7",
+                "value": "104"
               }
             ],
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 488,
@@ -78,11 +78,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D1",
+                "value": "118"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -98,11 +98,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D3",
-                "value": "116"
+                "name": "D0",
+                "value": "119"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
