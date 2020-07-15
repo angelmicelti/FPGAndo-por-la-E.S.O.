@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 1 del boletín 7 de Electrónica Digital",
+    "name": "Problema 1 del boletín 13 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -19,11 +19,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D2",
+                "value": "117"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -43,7 +43,7 @@
                 "value": "95"
               }
             ],
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 536,
@@ -62,7 +62,7 @@
                 "value": "118"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
@@ -78,11 +78,11 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D0",
+                "value": "119"
               }
             ],
-            "virtual": false,
+            "virtual": true,
             "clock": false
           },
           "position": {
