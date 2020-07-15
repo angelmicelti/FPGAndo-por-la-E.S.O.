@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
-    <title>PROBLEMA 12.1</title>
+    <title>PROBLEMA 13.3</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="media/favicon.ico" type="image/ico"/>
@@ -64,7 +64,7 @@
    <!-- Rótulo -->
    <div class="w3-card-4 w3-center w3-round-large">
      <header class="w3-container w3-cyan w3-text-white">
-       <h3><b>PROBLEMA 12.1</b></h3>
+       <h3><b>PROBLEMA 13.3</b></h3>
      </header>
 	 </div>
 
@@ -82,7 +82,7 @@
 
           <!-- Grupo: Enunciado3 -->
           <div class="w3-col w3-margin" style="width:auto">
-            <p class="w3-margin-top w3-text-black" style="margin:0px">Una sala tiene 5 puertas: A, B, C, D y E. La puerta E está automatizada, de modo que permanece abierta únicamente si hay un número impar de puertas abiertas. Diseña un circuito lógico, con puertas de cualquier tipo, que permita el control de E. Calcula el coste de dicho circuito.</p>
+            <p class="w3-margin-top w3-text-black" style="margin:0px">En la empresa PIECERÍO S.L. se realiza un control de calidad sobre las piezas fabricadas. Este control de calidad se realiza en dos etapas, que hay que superar para que se acepte la pieza. En la primera etapa tenemos dos detectores, que miden la longitud de la pieza, y que deben activarse simultáneamente para aceptar la pieza. En la segunda etapa, hay otros dos detectores, pero basta con que uno de ellos se active para que se acepte la pieza. Se pide:  a) obtén la tabla de verdad de la función P que nos indica si la pieza se acepta o rechaza; b) obtén la expresión de P; c) implementa P con puertas lógicas.</p>
             
           </div>
         </div>
@@ -105,8 +105,24 @@
 
           <!-- Grupo: Datos -->
           <div class="w3-col w3-center" style="width:300px">
-            <p class="w3-margin-top w3-text-blue" style="margin:0px">Puertas</p>
-            <div class="w3-container">
+            <p class="w3-margin-top w3-text-blue" style="margin:0px"><b>Detectores</b></p>
+							
+				<div class="w3-container">
+
+					<div class="w3-col w3-center" style="width:25px">
+					  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+					</div>
+
+					<div class="w3-col w3-center" style="width:120px">
+						<p class="w3-margin-top" style="margin:20px"><i><u><b>1ª ETAPA</b></u></i></p>
+					</div>
+					<div class="w3-col w3-center" style="width:110px">
+						<p class="w3-margin-top" style="margin:5px"><i><u><b>2ª ETAPA</b></u></i></p>
+					</div>
+				</div>
+            
+			<div class="w3-container">
+							
               <div class="w3-row">
 
                 <!-- Label on/off -->
@@ -166,14 +182,14 @@
 
         <!-- Grupo: Leds -->
         <div class="w3-col w3-center" style="width:300px">
-          <p class="w3-margin-top w3-text-green" style="margin:0px">Puerta E</p>
+          <p class="w3-margin-top w3-text-green" style="margin:0px"><b>Pieza</b></p>
           <div class="w3-container">
             <div class="w3-row">
 
               <!-- LED 7 -->
               <div class="w3-col w3-center" style="width:260px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledE"></div>
+                <div class="Led led_disabled" id="ledP"></div>
               </div>
               
 
@@ -189,20 +205,20 @@
 <!-- Parte inferior: Enlaces -->
    <div class="w3-container w3-margin-top">
      
-	  <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121PanelWeb.ice" download type="application/octet-stream" target="_blank">
+	  <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133PanelWeb.ice" download type="application/octet-stream" target="_blank">
        <b>Hardware (.ice)</b>
     </a>
 	 
-	 <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121.ice" download type="application/octet-stream" target="_blank">
+	 <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133.ice" download type="application/octet-stream" target="_blank">
        <b>Solución al problema</b>
     </a>
 
-    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
 	
 	
     <a class="w3-btn w3-sand" href="https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/readme.md" target="_blank"><b>Todos los problemas</b></a>
 	
-	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Bolet%C3%ADn%20ED12%20-%20Problemas%20pr%C3%A1cticos%20(III).pdf" download type="application/octet-stream" target="_blank"><b>BOLETÍN 12</b></a>
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf" download type="application/octet-stream" target="_blank"><b>BOLETÍN 13</b></a>
    </div>
 
    
