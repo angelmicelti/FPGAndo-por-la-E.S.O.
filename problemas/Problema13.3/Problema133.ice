@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D3",
+                "value": "116"
               }
             ],
             "virtual": false,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D1",
-                "value": "118"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -59,8 +59,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED7",
+                "value": "104"
               }
             ],
             "virtual": false
@@ -78,8 +78,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D1",
+                "value": "118"
               }
             ],
             "virtual": false,
@@ -98,8 +98,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D3",
-                "value": "116"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,
