@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Ejercicio 2 del boletín 7 de Electrónica Digital",
+    "name": "Problema 2 del boletín 13 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "D2",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED7",
+                "value": "104"
               }
             ],
             "virtual": false
@@ -74,12 +74,12 @@
           "id": "1317c93f-a002-493c-b899-309a92a0019b",
           "type": "basic.input",
           "data": {
-            "name": "TEST",
+            "name": "PSICOTEST",
             "pins": [
               {
                 "index": "0",
-                "name": "D2",
-                "value": "117"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false,
@@ -88,26 +88,6 @@
           "position": {
             "x": -72,
             "y": 232
-          }
-        },
-        {
-          "id": "4cd28fb3-031a-465b-b0fb-7ca02acfdc1a",
-          "type": "basic.input",
-          "data": {
-            "name": "EXPER",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D3",
-                "value": "116"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -72,
-            "y": 320
           }
         },
         {
@@ -160,6 +140,22 @@
           "size": {
             "width": 944,
             "height": 160
+          }
+        },
+        {
+          "id": "2ab06995-bd2a-407c-b7f3-7051a28ca1f5",
+          "type": "basic.info",
+          "data": {
+            "info": "No incluimos la variable EXPERIENCIA porque nos dicen que no es necesaria",
+            "readonly": true
+          },
+          "position": {
+            "x": -192,
+            "y": 328
+          },
+          "size": {
+            "width": 280,
+            "height": 96
           }
         }
       ],

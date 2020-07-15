@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <title>PROBLEMA 13.2</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="media/favicon.ico" type="image/ico"/>
+    <link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon"/>
+
+    <!-- Hojas de estilo de los diferentes componentes -->
+    <link rel="stylesheet" href="css/w3.css">
+    <link rel="stylesheet" href="css/led.css">
+    <link rel="stylesheet" href="css/switch.css">
+    <link rel="stylesheet" href="css/pushbutton.css">
+    <link rel="stylesheet" href="css/label-on-off.css">
+
+    <!-- Código de los componentes -->
+    <script src="js/SerialPanel.js"></script>
+    <script src="js/led.js"></script>
+    <script src="js/switch.js"></script>
+    <script src="js/pushbutton.js"></script>
+    <script src="panel.js" defer> </script>
+  </head>
+
+  <body>
+
+    <!--  RECURSO: Audio del click del switch -->
+    <audio id="click" src="media/click.mp3">
+    </audio>
+
+    <!-- Mensaje de error que se muestra si el navegador
+         no tiene web-serial
+     -->
+    <div class="w3-panel w3-red w3-round-xlarge w3-border w3-margin-left w3-margin-right" id="msg_serial">
+      <h3>Warning!</h3>
+      <p>Este navegador NO soporta <b>Web Serial</b></p>
+      <p>Asegúrate que estás usando
+      Chrome/Chromium 78 o superior
+        y que está habilitado el flag
+      <code>#enable-experimental-web-platform-features</code> en
+      <code>chrome://flags</code></p>
+      <p>Para habilitarlo en Chrome/Chromium copia esta URL en una nueva pestaña:
+      <a href="chrome://flags/#enable-experimental-web-platform-features">chrome://flags/#enable-experimental-web-platform-features</a>
+      y pincha en ENABLE</p>
+    </div>
+
+    <!-- Panel de control LOVE -->
+    <div class="w3-card-4 w3-margin w3-round-large">
+
+      <header class="w3-container w3-grey w3-text-white">
+        <h5>CONTROLES DEL PANEL</h5>
+      </header>
+
+      <!-- Botones de gestion del panel -->
+      <div class="w3-container">
+          <p>
+          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Connect</button>
+          <button class="w3-button w3-yellow w3-round-large " id="butReset" disabled>↪ Reset</button>
+          <button class="w3-bar-item w3-button w3-yellow w3-round-large " id="butSync" disabled>⤵ Sync</button>
+          </p>
+      </div>
+    </div>
+
+   <!-- Rótulo -->
+   <div class="w3-card-4 w3-center w3-round-large">
+     <header class="w3-container w3-cyan w3-text-white">
+       <h3><b>PROBLEMA 13.2</b></h3>
+     </header>
+	 </div>
+
+
+   <!-- Enunciado -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-cyan w3-text-white">
+       <h5><b><i>ENUNCIADO DEL PROBLEMA</b></i></h5>
+     </header>
+
+
+      <!-- Enunciado2 -->
+      <div class="w3-container">
+        <div class="w3-row">
+
+          <!-- Grupo: Enunciado3 -->
+          <div class="w3-col w3-margin" style="width:auto">
+            <p class="w3-margin-top w3-text-black" style="margin:0px">En la empresa TODODIGITAL S.A. la selección de personal se realiza mediante un circuito a base de puertas lógicas. Se lo encargan a los alumnos/as de 4º de E.S.O. del I.E.S. Virgen de Villadiego. Las condiciones que debe cumplir el circuito son las siguientes: no se seleccionará al candidato/a si el curriculum vitae no es adecuado. Para ser seleccionado, el candidato/a deberá pasar una entrevista de trabajo o un test psicotécnico. La experiencia profesional no es necesaria para ocupar el puesto de trabajo. Se pide: a) obtén la tabla de verdad de la función W que nos indica cuándo será seleccionado el/la candidato/a; b) escribe los términos de la función W; c) simplifica la función W, empleando el método que quieras; d) implementa W empleando puertas lógicas cualesquiera; e) implementa W sólo con puertas NAND.</p>
+            
+          </div>
+        </div>
+
+          <div class="w3-rest"></div>
+      </div>
+   </div>
+
+
+   <!-- ENTRADAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-blue w3-text-white">
+       <h5><b>ENTRADAS</b></h5>
+     </header>
+
+      <!-- Switches -->
+      <div class="w3-container">
+        <div class="w3-row">
+
+          <!-- Grupo: Datos -->
+          <div class="w3-col w3-center" style="width:250px">
+            <p class="w3-margin-top w3-text-blue" style="margin:0px">Sensores de parámetros físicos</p>
+            <div class="w3-container">
+              <div class="w3-row">
+
+                <!-- Label on/off -->
+                <div class="w3-col w3-center" style="width:30px">
+                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+                  <div class="Label-on-off"></div>
+                </div>
+
+                <!-- First switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swC"></div>
+                </div>
+
+                <!-- Second switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swE"></div>
+                </div>
+
+                <!-- Third switch -->
+                <div class="w3-col w3-center" style="width:54px">
+                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                  <div class="Switch switch_disabled" id="swP"></div>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+
+ 
+
+          </div>
+
+          <div class="w3-rest"></div>
+        </div>
+       </div>
+
+   </div>
+
+   <!-- SALIDAS del circuito -->
+   <div class="w3-card-4 w3-margin w3-round-large">
+     <header class="w3-container w3-green w3-text-white">
+       <h5><b>SALIDA</b></h5>
+     </header>
+
+    <!-- LEDs -->
+     <div class="w3-container">
+       <div class="w3-row">
+
+        <!-- Grupo: Leds -->
+        <div class="w3-col w3-center" style="width:250px">
+          <p class="w3-margin-top w3-text-green" style="margin:0px">Sistema de riego</p>
+          <div class="w3-container">
+            <div class="w3-row">
+
+              <!-- LED 7 -->
+              <div class="w3-col w3-center" style="width:210px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledW"></div>
+              </div>
+
+              
+
+            </div>
+          </div>
+        </div>
+
+         <div class="w3-rest"></div>
+       </div>
+      </div>
+   </div>
+
+<!-- Parte inferior: Enlaces -->
+   <div class="w3-container w3-margin-top">
+     
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132PanelWeb.ice" download type="application/octet-stream" target="_blank">
+       <b>Hardware (.ice)</b>
+    </a>
+	 
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132.ice" download type="application/octet-stream" target="_blank">
+       <b>Solución al problema</b>
+    </a>
+
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
+	
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132PanelWebNAND.ice" download type="application/octet-stream" target="_blank">
+       <b>Hardware solo NAND(.ice)</b></a>
+	 
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132NAND.ice" download type="application/octet-stream" target="_blank">
+       <b>Solución con solo NAND</b>
+    </a>
+
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132NANDBloque.ice" download type="application/octet-stream" target="_blank"><b>Bloque con solo NAND</b></a>
+		
+    <a class="w3-btn w3-sand" href="https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/readme.md" target="_blank"><b>Todos los problemas</b></a>
+	
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf" download type="application/octet-stream" target="_blank"><b>BOLETÍN 13</b></a>
+   </div>
+
+   
+  </body>
+</html>
