@@ -43,6 +43,12 @@ PROBLEMA | CIRCUITO FPGA |
 [Problema 12.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/Problema123PanelWeb.ice) |      
 [Problema 12.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/Problema124PanelWeb.ice) |       
 [Problema 12.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/Problema125PanelWeb.ice) |       
+[Problema 13.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/Problema131PanelWeb.ice) |  
+[Problema 13.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/panel.html)  |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132PanelWeb.ice) |     
+[Problema 13.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133PanelWeb.ice) |      
+[Problema 13.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/Problema134PanelWeb.ice) |       
+[Problema 13.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/Problema135PanelWeb.ice) |       
+[Problema 13.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136PanelWeb.ice) |      
 
 
 ---
