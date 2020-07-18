@@ -10,11 +10,12 @@
     <!-- Hojas de estilo de los diferentes componentes -->
     <link rel="stylesheet" href="css/w3.css">
     <link rel="stylesheet" href="css/led.css">
-
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/pushbutton.css">
     <link rel="stylesheet" href="css/label-on-off.css">
     <link rel="stylesheet" href="css/ledmatrix.css">
+	<link rel="stylesheet" href="css/pulsadores.css">
+	
     <!-- Código de los componentes -->
     <script src="js/SerialPanel.js"></script>
     <script src="js/led.js"></script>
@@ -86,14 +87,20 @@
           <div class="w3-row">
 
 
-                <!-- Imagen -->
+			<!-- Imagen_Pulsadores -->
+            <div class="w3-col w3-center" style="width:10%">
+                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+                  <div class="Pulsadores"></div>
+            </div>
+
+                <!-- Imagen_matriz -->
             <div class="w3-col w3-center" style="width:20%">
                   <p class="w3-margin-top" style="margin:0px">&nbsp</p>
                   <div class="Ledmatrix"></div>
             </div>
 
                 <!-- Enunciado -->
-            <div class="w3-col w3-center" style="width:80%">
+            <div class="w3-col w3-center" style="width:70%">
                   <p class="w3-margin-top" style="margin:10px">Se dispone de una matriz de ledes de tamaño 3x3, tal y como se ve en la figura.
 				Se han dispuesto dos pulsadores: U (arriba), y D (abajo) formando una pequeña botonera, como se puede ver en la figura número 2.
 				Se pretende que, al pulsar cada pulsador se obtenga en la matriz una flecha que apunte en la dirección correspondiente, usando siempre cinco ledes. Se pide: a)	Construir la tabla de verdad para cada uno de los segmentos de la matriz de ledes; b) Minimizar las expresiones de las funciones obtenidas mediante el diagrama de Karnaugh; c)	Implementar el circuito lógico necesario con puertas lógicas de cualquier tipo; d)	Realizar el montaje del circuito en Simulador Digital o en la web <a href="https://www.tinkercad.com" target="_blank">www.tinkercad.com</a></div></p>
@@ -171,57 +178,57 @@
             <div class="w3-row">
 
 			  <!-- LED 8 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="leda"></div>
               </div>
 
 
               <!-- LED 7 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledb"></div>
               </div>
 
               <!-- LED 6 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledc"></div>
               </div>
 			  
 			   <!-- LED 5 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledd"></div>
               </div>
 
               <!-- LED 4 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="lede"></div>
               </div>
 
               <!-- LED 3 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledf"></div>
               </div>
 			  
 			  
 			     <!-- LED 2 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledg"></div>
               </div>
 
               <!-- LED 1 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledh"></div>
               </div>
 
               <!-- LED 0 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledi"></div>
               </div>

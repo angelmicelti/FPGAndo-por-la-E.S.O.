@@ -10,11 +10,13 @@
     <!-- Hojas de estilo de los diferentes componentes -->
     <link rel="stylesheet" href="css/w3.css">
     <link rel="stylesheet" href="css/led.css">
-
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/pushbutton.css">
     <link rel="stylesheet" href="css/label-on-off.css">
     <link rel="stylesheet" href="css/ledmatrix.css">
+    <link rel="stylesheet" href="css/pulsadores.css">
+
+
     <!-- Código de los componentes -->
     <script src="js/SerialPanel.js"></script>
     <script src="js/led.js"></script>
@@ -66,7 +68,7 @@
    <!-- Rótulo -->
    <div class="w3-card-4 w3-center w3-round-large">
      <header class="w3-container w3-cyan w3-text-white">
-       <h3><b>PROBLEMA 14.1</b></h3>
+       <h3><b>PROBLEMA 14.2</b></h3>
      </header>
 	 </div>
 
@@ -85,18 +87,30 @@
           <!-- Grupo: Enunciado3 -->
           <div class="w3-row">
 
+			<!-- Imagen_Pulsadores -->
+            <div class="w3-col w3-center" style="width:20%">
+                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
+                  <div class="Pulsadores"></div>
+            </div>
 
-                <!-- Imagen -->
+
+                <!-- Imagen_Matriz -->
             <div class="w3-col w3-center" style="width:20%">
                   <p class="w3-margin-top" style="margin:0px">&nbsp</p>
                   <div class="Ledmatrix"></div>
             </div>
 
                 <!-- Enunciado -->
-            <div class="w3-col w3-center" style="width:80%">
-                  <p class="w3-margin-top" style="margin:10px">Se dispone de una matriz de ledes de tamaño 3x3, tal y como se ve en la figura.
-				Se han dispuesto dos pulsadores: U (arriba), y D (abajo) formando una pequeña botonera, como se puede ver en la figura número 2.
-				Se pretende que, al pulsar cada pulsador se obtenga en la matriz una flecha que apunte en la dirección correspondiente, usando siempre cinco ledes. Se pide: a)	Construir la tabla de verdad para cada uno de los segmentos de la matriz de ledes; b) Minimizar las expresiones de las funciones obtenidas mediante el diagrama de Karnaugh; c)	Implementar el circuito lógico necesario con puertas lógicas de cualquier tipo; d)	Realizar el montaje del circuito en Simulador Digital o en la web <a href="https://www.tinkercad.com" target="_blank">www.tinkercad.com</a></div></p>
+            <div class="w3-col w3-center" style="width:60%">
+                  <p class="w3-margin-top" style="margin:10px">Se dispone de una matriz de ledes de tamaño 3 X 3, igual a la del ejercicio anterior.
+					Se han dispuesto cuatro pulsadores: U (arriba), L (izquierda), R (derecha), y D (abajo) formando una cruz, como se puede ver en la figura de la izquierda.
+					Se pretende que, al pulsar cada uno de los pulsadores, se obtenga en la matriz una flecha que apunte en la dirección correspondiente, usando siempre tres o cinco ledes.
+					Se permite la “composición de botones”, es decir, pulsar dos o más a la vez, entendiendo lo siguiente:
+a)	Si se pulsa, por ejemplo, U y L, se verá una flecha que apunte hacia arriba y a la izquierda.
+b)	Si se pulsan dos botones contradictorios (por ejemplo, U y D), no se encenderá nada en la matriz.
+c)	Lógicamente, la pulsación de los cuatro botones provoca que no se encienda nada.
+
+			</div></p>
                   
             </div>
 		  </div>
@@ -177,63 +191,63 @@
        <div class="w3-row">
 
         <!-- Grupo: Matriz -->
-        <div class="w3-col w3-center" style="width:250px">
+        <div class="w3-col w3-center" style="width:300px">
           <p class="w3-margin-top w3-text-green" style="margin:0px">MATRIZ</p>
           <div class="w3-container">
             <div class="w3-row">
 
 			  <!-- LED 8 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="leda"></div>
               </div>
 
 
               <!-- LED 7 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledb"></div>
               </div>
 
               <!-- LED 6 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledc"></div>
               </div>
 			  
 			   <!-- LED 5 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledd"></div>
               </div>
 
               <!-- LED 4 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="lede"></div>
               </div>
 
               <!-- LED 3 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledf"></div>
               </div>
 			  
 			  
 			     <!-- LED 2 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledg"></div>
               </div>
 
               <!-- LED 1 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledh"></div>
               </div>
 
               <!-- LED 0 -->
-              <div class="w3-col w3-center" style="width:70px">
+              <div class="w3-col w3-center" style="width:80px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledi"></div>
               </div>
@@ -255,15 +269,15 @@
 <!-- Parte inferior: Enlaces -->
    <div class="w3-container w3-margin-top">
      
-	  <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141PanelWeb.ice" download type="application/octet-stream" target="_blank">
+	  <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/Problema142PanelWeb.ice" download type="application/octet-stream" target="_blank">
        <b>Hardware (.ice)</b>
     </a>
 	 
-	 <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141.ice" download type="application/octet-stream" target="_blank">
+	 <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/Problema142.ice" download type="application/octet-stream" target="_blank">
        <b>Solución al problema</b>
     </a>
 
-    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/Problema142Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
 	
 	
     <a class="w3-btn w3-sand" href="https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/readme.md" target="_blank"><b>Todos los problemas</b></a>

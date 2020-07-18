@@ -1,9 +1,9 @@
-.Ledmatrix {
+.Pulsadores {
   display:inline-block;
-  width: 160px;
+  width: 70px;
   height: 160px;
   cursor: pointer;
-  background-image: url(img/ledmatrix.png);
+  background-image: url(img/pulsadores.png);
   background-repeat: no-repeat;
 
   /* Avoid the activation of the selection when the
