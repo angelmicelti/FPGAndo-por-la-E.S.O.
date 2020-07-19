@@ -394,24 +394,18 @@
         },
         {
           "source": {
-            "block": "5e4ff60e-f9b7-4782-abdc-1ac1f594bf53",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
+            "port": "out"
           },
           "target": {
             "block": "fb94f908-be2c-4f9d-823f-7b73974bd805",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 272,
-              "y": -32
-            }
-          ]
+          }
         },
         {
           "source": {
-            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
-            "port": "out"
+            "block": "64162727-02a5-45af-bbba-b18c0ad8376e",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
             "block": "fb94f908-be2c-4f9d-823f-7b73974bd805",
@@ -419,8 +413,8 @@
           },
           "vertices": [
             {
-              "x": 288,
-              "y": -8
+              "x": 304,
+              "y": 64
             }
           ]
         },
@@ -445,15 +439,15 @@
           },
           "vertices": [
             {
-              "x": 312,
-              "y": 120
+              "x": 304,
+              "y": 160
             }
           ]
         },
         {
           "source": {
-            "block": "5ae74fb3-6113-4c94-8a56-48680104d806",
-            "port": "out"
+            "block": "5e4ff60e-f9b7-4782-abdc-1ac1f594bf53",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
             "block": "366ae1f1-e28d-4a03-818f-bc0d047c4529",
@@ -461,26 +455,20 @@
           },
           "vertices": [
             {
-              "x": 264,
-              "y": 8
+              "x": 272,
+              "y": 64
             }
           ]
         },
         {
           "source": {
-            "block": "64162727-02a5-45af-bbba-b18c0ad8376e",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "7183741e-76a9-4e20-af38-56f17534e1da",
+            "port": "out"
           },
           "target": {
             "block": "366ae1f1-e28d-4a03-818f-bc0d047c4529",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 312,
-              "y": 176
-            }
-          ]
+          }
         },
         {
           "source": {
@@ -494,7 +482,7 @@
           "vertices": [
             {
               "x": 264,
-              "y": 184
+              "y": 168
             }
           ]
         },
@@ -509,8 +497,8 @@
           },
           "vertices": [
             {
-              "x": 128,
-              "y": 224
+              "x": 280,
+              "y": 200
             }
           ]
         }
