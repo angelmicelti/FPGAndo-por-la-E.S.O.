@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Solución al problema 6 del boletín 13 de Electrónica Digital",
+    "name": "Bloque solución al problema 6 del boletín 13 de Electrónica Digital",
     "version": "",
     "description": "",
     "author": "Ángel Millán León",
@@ -276,7 +276,7 @@
           "id": "0953c0ff-c439-4371-a4ac-842302cb8652",
           "type": "725b7e2cb9666b5ed3183537d9c898f096dab82a",
           "position": {
-            "x": 576,
+            "x": 528,
             "y": 176
           },
           "size": {
