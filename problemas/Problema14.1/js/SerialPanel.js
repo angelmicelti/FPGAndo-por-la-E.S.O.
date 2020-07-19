@@ -81,7 +81,7 @@ class SerialPanel {
       await this.disconnect();
 
       //-- Cambiar el estado de la interfaz
-      this.butSerial.textContent = '🔌Connect';
+      this.butSerial.textContent = '🔌Conectar';
 
       return;
     }
@@ -90,7 +90,7 @@ class SerialPanel {
     await this.connect();
 
     //-- Activar la interfaz
-    this.butSerial.textContent = '🔌Disconnect';
+    this.butSerial.textContent = '🔌Desconectar';
 
     //-- Llamar a la funcion de retrollamada de puerto abierto
     //-- (si estaba definida)
