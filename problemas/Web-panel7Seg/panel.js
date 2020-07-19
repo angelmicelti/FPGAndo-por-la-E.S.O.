@@ -13,8 +13,12 @@ const switches_el = document.getElementsByClassName("Switch");
 //-- Obtener todos los pulsadores
 const pushbtns_el = document.getElementsByClassName("Pushbutton");
 
-//-- Obtener todos los LEDs
-const leds_el = document.getElementsByClassName("Led");
+//-- Obtener todos los LEDs H
+const ledsH_el = document.getElementsByClassName("LedH");
+
+//-- Obtener todos los LEDs V
+const ledsV_el = document.getElementsByClassName("LedV");
+
 
 //-- Dispositivos de entrada: Switches y pulsadores
 let inputbits = [];
@@ -22,11 +26,18 @@ let inputbits = [];
 //-- Dispositivos de salida: LEDs
 let outputbits = [];
 
-//-- Añadir los LEDs
-for (let item of leds_el) {
-  let led = new Led(item);
-  outputbits.push(led);
+//-- Añadir los LEDs H
+for (let item of ledsH_el) {
+  let ledH = new LedH(item);
+  outputbits.push(ledH);
 }
+
+//-- Añadir los LEDs V
+for (let item of ledsV_el) {
+  let ledV = new LedV(item);
+  outputbits.push(ledV);
+}
+
 
 //-- Añadir los switches
 for (let item of switches_el) {
@@ -73,13 +84,22 @@ sp.onconnect = () => {
     }
 
   //-- Cambiar el estado de los elementos de salida a enable
-  for (let led of outputbits) {
+  for (let ledH of outputbits) {
 
-    led.enable()
+    ledH.enable()
 
     //-- Al arrancar enviamos el estado 0 a todos
-    led.off();
+    ledH.off();
   }
+
+  for (let ledV of outputbits) {
+
+    ledV.enable()
+
+    //-- Al arrancar enviamos el estado 0 a todos
+    ledV.off();
+  }
+
 
   //-- Llevar el foco al boton de reset
   butReset.focus();

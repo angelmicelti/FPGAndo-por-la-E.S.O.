@@ -1,0 +1,19 @@
+.LedV {
+  display:inline-block;
+  width: 20px;
+  height: 100px;
+  background-image: url(img/ledVoff.png);
+  background-repeat: no-repeat;
+}
+
+.ledVon {
+  background: url(img/ledVon.png);
+  background-repeat: no-repeat;
+}
+
+.ledV_disabled {
+  background: url(img/ledVoff.png);
+  background-repeat: no-repeat;
+  cursor: not-allowed;
+  opacity: 0.4;
+}

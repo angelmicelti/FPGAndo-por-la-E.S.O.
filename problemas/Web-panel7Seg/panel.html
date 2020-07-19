@@ -9,14 +9,18 @@
 
     <!-- Hojas de estilo de los diferentes componentes -->
     <link rel="stylesheet" href="css/w3.css">
-    <link rel="stylesheet" href="css/led.css">
+	
+    <link rel="stylesheet" href="css/ledH.css">
+    <link rel="stylesheet" href="css/ledV.css">	
     <link rel="stylesheet" href="css/switch.css">
     <link rel="stylesheet" href="css/pushbutton.css">
     <link rel="stylesheet" href="css/label-on-off.css">
 
     <!-- Código de los componentes -->
     <script src="js/SerialPanel.js"></script>
-    <script src="js/led.js"></script>
+
+    <script src="js/ledH.js"></script>	
+    <script src="js/ledV.js"></script>	
     <script src="js/switch.js"></script>
     <script src="js/pushbutton.js"></script>
     <script src="panel.js" defer> </script>
@@ -48,13 +52,13 @@
     <div class="w3-card-4 w3-margin w3-round-large">
 
       <header class="w3-container w3-grey w3-text-white">
-        <h5>LOVE Controls</h5>
+        <h5>Controles del panel</h5>
       </header>
 
       <!-- Botones de gestion del panel -->
       <div class="w3-container">
           <p>
-          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Connect</button>
+          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Conectar</button>
           <button class="w3-button w3-yellow w3-round-large " id="butReset" disabled>↪ Reset</button>
           <button class="w3-bar-item w3-button w3-yellow w3-round-large " id="butSync" disabled>⤵ Sync</button>
           </p>
@@ -135,20 +139,21 @@
           <div class="w3-container">
             <div class="w3-row">
 
-              <!-- LED 7 -->
+              <!-- Segmento a -->
               <div class="w3-col w3-center" style="width:300px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="leda"></div>
+                <div class="LedH ledH_disabled" id="ledHa"></div>
               </div>
             </div>
           </div>
 		  
 		  <div class="w3-container">
 		  
-		    <!-- LED 2 -->
+		    <!-- Segmento f -->
               <div class="w3-col w3-center" style="width:100px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledf"></div>
+                <div class="LedV ledV_disabled" id="ledVf"></div>
+
               </div>
 
 			<div class="w3-col w3-center" style="width:100px">
@@ -156,27 +161,27 @@
             </div>
 
 						
-			<!-- LED 6 -->
+			<!-- Segmento b -->
               <div class="w3-col w3-center" style="width:100px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledb"></div>
+                <div class="LedV ledV_disabled" id="ledVb"></div>
               </div>
 		  </div>
 		  
 		  <div class="w3-container">
 
-              <!-- LED 1 -->
+              <!-- Segmento g -->
               <div class="w3-col w3-center" style="width:300px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledg"></div>
+                <div class="LedH ledH_disabled" id="ledHg"></div>
               </div>		  
 		  </div>
 		  
 		  <div class="w3-container">
-              <!-- LED 3 -->
+              <!-- Segmento e -->
               <div class="w3-col w3-center" style="width:100px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="lede"></div>
+                <div class="LedV ledV_disabled" id="ledVe"></div>
               </div>
 			  
 			  
@@ -185,18 +190,18 @@
             </div>
 
 
-		  <!-- LED 5 -->
+		  <!-- Segmento c -->
               <div class="w3-col w3-center" style="width:100px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledc"></div>
+                <div class="LedV ledV_disabled" id="ledVc"></div>
               </div>
 		  </div>
 
 		  <div class="w3-container">
-              <!-- LED 4 -->
+              <!-- Segmento d -->
               <div class="w3-col w3-center" style="width:300px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledd"></div>
+                <div class="LedH ledH_disabled" id="ledHd"></div>
               </div>		  
 		  </div>
 		  
