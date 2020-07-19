@@ -46,8 +46,8 @@
             "clock": false
           },
           "position": {
-            "x": 40,
-            "y": -88
+            "x": 16,
+            "y": -96
           }
         },
         {
@@ -89,26 +89,6 @@
           }
         },
         {
-          "id": "7183741e-76a9-4e20-af38-56f17534e1da",
-          "type": "basic.input",
-          "data": {
-            "name": "B",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW2",
-                "value": "11"
-              }
-            ],
-            "virtual": true,
-            "clock": false
-          },
-          "position": {
-            "x": 32,
-            "y": 104
-          }
-        },
-        {
           "id": "37846a9b-09ad-4544-af5e-ffa4924c4c51",
           "type": "basic.output",
           "data": {
@@ -125,6 +105,26 @@
           "position": {
             "x": 744,
             "y": 104
+          }
+        },
+        {
+          "id": "7183741e-76a9-4e20-af38-56f17534e1da",
+          "type": "basic.input",
+          "data": {
+            "name": "B",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW2",
+                "value": "11"
+              }
+            ],
+            "virtual": true,
+            "clock": false
+          },
+          "position": {
+            "x": 16,
+            "y": 112
           }
         },
         {
