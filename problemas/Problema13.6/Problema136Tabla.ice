@@ -92,7 +92,7 @@
           "type": "basic.memory",
           "data": {
             "name": "",
-            "list": "7E\n77\n1F\n6D",
+            "list": "7E\n1F\n77\n6D",
             "local": true,
             "format": 10
           },
