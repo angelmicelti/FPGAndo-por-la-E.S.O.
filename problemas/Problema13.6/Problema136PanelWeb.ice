@@ -258,8 +258,8 @@
             "clock": false
           },
           "position": {
-            "x": 80,
-            "y": 312
+            "x": 88,
+            "y": 248
           }
         },
         {
@@ -383,11 +383,11 @@
           "id": "e247487f-19e3-40e9-b116-24d9782d811b",
           "type": "basic.info",
           "data": {
-            "info": "**Cuatro Interruptores virtuales**",
+            "info": "**Dos Interruptores virtuales**",
             "readonly": true
           },
           "position": {
-            "x": 192,
+            "x": 224,
             "y": 88
           },
           "size": {
@@ -471,7 +471,7 @@
           "id": "98f7c17b-f5d9-40f5-8e45-9cbafe0346de",
           "type": "d4bd0427fb21ebb734fc9a18df1fcc2006219425",
           "position": {
-            "x": 736,
+            "x": 944,
             "y": 328
           },
           "size": {
