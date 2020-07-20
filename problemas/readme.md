@@ -27,7 +27,7 @@ Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alh
 
 ## PANELES WEB    
 PROBLEMA | CIRCUITO FPGA |
-|---|---|
+---|---|
 [Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
 [Problema 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102PanelWeb.ice) |     
 [Problema 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103PanelWeb.ice) |      
