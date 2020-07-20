@@ -31,7 +31,7 @@ Con los paneles web podemos simular nuestros circuitos en el navegador (Chrome, 
 Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 
 
-| BOLETÍN 10|      |
+| BOLETÍN 10      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
