@@ -1,11 +1,8 @@
 # PROBLEMAS DE ELECTRÓNICA DIGITAL PARA 4º DE E.S.O.
 
-## [I.E.S. Virgen de Villadiego](https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/), Peñaflor (Sevilla)
+### [I.E.S. Virgen de Villadiego](https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/), Peñaflor (Sevilla)
 
-<a href="https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/" target="_blank">ENLACE</a>
-
-
-### Circuitos correspondientes a los boletines de problemas prácticos
+## Circuitos correspondientes a los boletines de problemas prácticos
 Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alhambra](https://github.com/fpgawars/icezum/wiki)** o, con leves modificaciones, en **[Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)**
 
 [Boletín 10](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED10%20-%20Problemas%20pr%C3%A1cticos%20(I).pdf)  | [Boletín 11](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED11%20-%20Problemas%20pr%C3%A1cticos%20(II).pdf)  | [Boletín 12](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED12%20-%20Problemas%20pr%C3%A1cticos%20(III).pdf)  | [Boletín 13](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf) | [Boletín 14](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O./blob/master/problemas/Bolet%C3%ADn%20ED14%20-%20Problemas%20pr%C3%A1cticos%20(V).pdf)
@@ -28,7 +25,7 @@ Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alh
 [Problema 10.7. (bloque)](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107Bloque.ice)  |   |   |   |
 
 
-### PANELES WEB    
+## PANELES WEB    
 PROBLEMA | CIRCUITO FPGA |
 |---|---|
 [Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
