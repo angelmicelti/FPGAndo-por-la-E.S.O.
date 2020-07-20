@@ -1,5 +1,7 @@
 # PROBLEMAS DE ELECTRÓNICA DIGITAL PARA 4º DE E.S.O.
 
+## [I.E.S. Virgen de Villadiego](https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/), Peñaflor (Sevilla)
+
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
 Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alhambra](https://github.com/fpgawars/icezum/wiki)** o, con leves modificaciones, en **[Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)**
