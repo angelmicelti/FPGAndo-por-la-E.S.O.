@@ -2,6 +2,8 @@
 
 ## [I.E.S. Virgen de Villadiego](https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/), Peñaflor (Sevilla)
 
+<a href="https://blogsaverroes.juntadeandalucia.es/iesvirgendevilladiego/" target="_blank">ENLACE</a>
+
 
 ### Circuitos correspondientes a los boletines de problemas prácticos
 Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alhambra](https://github.com/fpgawars/icezum/wiki)** o, con leves modificaciones, en **[Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki)**
