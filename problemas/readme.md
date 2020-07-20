@@ -31,7 +31,7 @@ Con los paneles web podemos simular nuestros circuitos en el navegador (Chrome, 
 Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 
 
-| ### BOLETÍN 10      |
+| **BOLETÍN 10**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
@@ -43,7 +43,7 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 |[Problema 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107PanelWeb.ice) |      
 
 
-| <h3>BOLETÍN 11</h3>      |
+| **BOLETÍN 11**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 11.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/Problema111PanelWeb.ice) |  
@@ -51,7 +51,7 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 |[Problema 11.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/Problema113PanelWeb.ice) |      
 |[Problema 11.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/Problema114PanelWeb.ice) |  
 
-| BOLETÍN 12      |
+| **BOLETÍN 12**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 12.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121PanelWeb.ice) |  
@@ -60,7 +60,7 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 |[Problema 12.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/Problema124PanelWeb.ice) |       
 |[Problema 12.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/Problema125PanelWeb.ice) |       
 
-| BOLETÍN 13      |
+| **BOLETÍN 13**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 13.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/Problema131PanelWeb.ice) |  
@@ -70,7 +70,7 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 |[Problema 13.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/Problema135PanelWeb.ice) |       
 |[Problema 13.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136PanelWeb.ice) |      
 
-| BOLETÍN 14      |
+| **BOLETÍN 14**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
 |[Problema 14.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/panel.html) |  [Archivo IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141PanelWeb.ice) |       
