@@ -34,47 +34,47 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 | **BOLETÍN 10**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
-|[Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101PanelWeb.ice) |  
-|[Problema 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102PanelWeb.ice) |     
-|[Problema 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103PanelWeb.ice) |      
-|[Problema 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104PanelWeb.ice) |       
-|[Problema 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105PanelWeb.ice) |       
-|[Problema 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106PanelWeb.ice) |      
-|[Problema 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107PanelWeb.ice) |      
+|[Panel Web para el Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101CircuitoLOVE.ice) |  
+|[Panel Web para el Problema 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102CircuitoLOVE.ice) |     
+|[Panel Web para el Problema 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103CircuitoLOVE.ice) |      
+|[Panel Web para el Problema 10.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.4/Problema104CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 10.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.5/Problema105CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 10.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.6/Problema106CircuitoLOVE.ice) |      
+|[Panel Web para el Problema 10.7](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.7/Problema107CircuitoLOVE.ice) |      
 
 
 | **BOLETÍN 11**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
-|[Problema 11.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/Problema111PanelWeb.ice) |  
-|[Problema 11.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/Problema112PanelWeb.ice) |     
-|[Problema 11.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/Problema113PanelWeb.ice) |      
-|[Problema 11.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/Problema114PanelWeb.ice) |  
+|[Panel Web para el Problema 11.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.1/Problema111CircuitoLOVE.ice) |  
+|[Panel Web para el Problema 11.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.2/Problema112CircuitoLOVE.ice) |     
+|[Panel Web para el Problema 11.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.3/Problema113CircuitoLOVE.ice) |      
+|[Panel Web para el Problema 11.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema11.4/Problema114CircuitoLOVE.ice) |  
 
 | **BOLETÍN 12**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
-|[Problema 12.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121PanelWeb.ice) |  
-|[Problema 12.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.2/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.2/Problema122PanelWeb.ice) |     
-|[Problema 12.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/Problema123PanelWeb.ice) |      
-|[Problema 12.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/Problema124PanelWeb.ice) |       
-|[Problema 12.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/Problema125PanelWeb.ice) |       
+|[Panel Web para el Problema 12.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.1/Problema121CircuitoLOVE.ice) |  
+|[Panel Web para el Problema 12.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.2/Problema122CircuitoLOVE.ice) |     
+|[Panel Web para el Problema 12.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.3/Problema123CircuitoLOVE.ice) |      
+|[Panel Web para el Problema 12.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.4/Problema124CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 12.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema12.5/Problema125CircuitoLOVE.ice) |       
 
 | **BOLETÍN 13**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
-|[Problema 13.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/Problema131PanelWeb.ice) |  
-|[Problema 13.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132PanelWeb.ice) |     
-|[Problema 13.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133PanelWeb.ice) |      
-|[Problema 13.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/Problema134PanelWeb.ice) |       
-|[Problema 13.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/Problema135PanelWeb.ice) |       
-|[Problema 13.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136PanelWeb.ice) |      
+|[Panel Web para el Problema 13.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.1/Problema131CircuitoLOVE.ice) |  
+|[Panel Web para el Problema 13.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.2/Problema132CircuitoLOVE.ice) |     
+|[Panel Web para el Problema 13.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.3/Problema133CircuitoLOVE.ice) |      
+|[Panel Web para el Problema 13.4](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.4/Problema134CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 13.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/Problema135CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 13.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136CircuitoLOVE.ice) |      
 
 | **BOLETÍN 14**      |
 | PROBLEMA | CIRCUITO FPGA |  
 |---|---|  
-|[Problema 14.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141PanelWeb.ice) |       
-|[Problema 14.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/panel.html) |  [Panel Web en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/Problema142PanelWeb.ice) |      
+|[Panel Web para el Problema 14.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141CircuitoLOVE.ice) |       
+|[Panel Web para el Problema 14.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.2/Problema142CircuitoLOVE.ice) |      
 
 
 ---
