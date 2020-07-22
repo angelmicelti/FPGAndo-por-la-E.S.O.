@@ -1,0 +1,19 @@
+.LedH {
+  display:inline-block;
+  width: 100px;
+  height: 20px;
+  background-image: url(img/ledHoff.png);
+  background-repeat: no-repeat;
+}
+
+.ledHon {
+  background: url(img/ledHon.png);
+  background-repeat: no-repeat;
+}
+
+.ledH_disabled {
+  background: url(img/ledHoff.png);
+  background-repeat: no-repeat;
+  cursor: not-allowed;
+  opacity: 0.4;
+}
