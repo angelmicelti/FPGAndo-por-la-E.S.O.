@@ -70,7 +70,7 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 |[Panel Web para el Problema 13.5](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.5/Problema135CircuitoLOVE.ice) |       
 |[Panel Web para el Problema 13.6](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136CircuitoLOVE.ice) |      
 
-| **BOLETÍN 14**      |  
+| **BOLETÍN 14**    |  |  
 |---|---|  
 | PANEL WEB | CIRCUITO FPGA |  
 |[Panel Web para el Problema 14.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema14.1/Problema141CircuitoLOVE.ice) |       
