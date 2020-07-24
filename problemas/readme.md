@@ -31,9 +31,9 @@ Con los paneles web podemos simular nuestros circuitos en el navegador (Chrome, 
 Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 
 
-| **BOLETÍN 10**      | |
-| PANEL WEB | CIRCUITO FPGA |  
+| **BOLETÍN 10**      | | 
 |---|---|  
+| PANEL WEB | CIRCUITO FPGA |  
 |[Panel Web para el Problema 10.1](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.1/Problema101CircuitoLOVE.ice) |  
 |[Panel Web para el Problema 10.2](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.2/Problema102CircuitoLOVE.ice) |     
 |[Panel Web para el Problema 10.3](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/panel.html) |  [Circuito LOVE en IceStudio](https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema10.3/Problema103CircuitoLOVE.ice) |      
