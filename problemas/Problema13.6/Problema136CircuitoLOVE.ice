@@ -26,7 +26,7 @@
             "virtual": false
           },
           "position": {
-            "x": 1856,
+            "x": 1776,
             "y": 64
           }
         },
@@ -238,7 +238,7 @@
             "virtual": true
           },
           "position": {
-            "x": 1904,
+            "x": 1824,
             "y": 168
           }
         },
@@ -375,7 +375,7 @@
             "local": false
           },
           "position": {
-            "x": 1688,
+            "x": 1608,
             "y": 24
           }
         },
@@ -459,7 +459,7 @@
           "id": "0de31e5d-63ea-496f-b4a5-a78815f0a16a",
           "type": "686f5864499bf0607d3aabd35d9fb05463b10e2e",
           "position": {
-            "x": 1688,
+            "x": 1608,
             "y": 152
           },
           "size": {
