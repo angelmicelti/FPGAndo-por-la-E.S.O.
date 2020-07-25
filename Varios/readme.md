@@ -19,12 +19,15 @@
 
 # [Cuadernos técnicos sobre FPGAs libres](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki), por ObiJuan.
 
-- [Unidad de PWM de frecuencia aproximada](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.1:-Unidad-de-PWM-de-frecuencia-aproximada)
-- [VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED)
-- [Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida)
-- [Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs)
-- [SPI esclavo](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.5:-SPI-esclavo)
-
+- [CT1: Unidad de PWM de frecuencia aproximada](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.1:-Unidad-de-PWM-de-frecuencia-aproximada)
+- [CT2: VGA-Retro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.2:-VGA-Retro:-Puesta-en-marcha.-MonsterLED)
+- [CT3: Pines de entrada-salida](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.3:-Pines-de-Entrada-Salida)
+- [CT4: Control de ledes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.4:-Control-de-LEDs)
+- [CT5: SPI esclavo](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.5:-SPI-esclavo)
+- [CT6: SPI maestro](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.6:-SPI-maestro)
+- [CT7: display SPI de cuatro dígitos de 7 segmentos](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.7:-Display-SPI-de-4-d%C3%ADgitos-de-7-segmentos)
+- [CT8: entrada y salida de bits con componentes virtuales](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.8:-Entrada-y-Salida-de-bits-con-componentes-virtuales)
+- [CT9: memorias](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.9:-Memorias)
 
 ---
 
