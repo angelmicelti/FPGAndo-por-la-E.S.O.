@@ -42,7 +42,7 @@
             "virtual": true
           },
           "position": {
-            "x": 488,
+            "x": 448,
             "y": -16
           }
         },
@@ -169,8 +169,8 @@
             "clock": false
           },
           "position": {
-            "x": -208,
-            "y": 184
+            "x": -256,
+            "y": 120
           }
         },
         {
@@ -197,24 +197,6 @@
           "position": {
             "x": 8,
             "y": -48
-          }
-        },
-        {
-          "id": "5daea4a5-7599-48ad-ab8c-9159f7053bb5",
-          "type": "basic.memory",
-          "data": {
-            "name": "",
-            "list": "7E\n1F\n77\n6D",
-            "local": false,
-            "format": 10
-          },
-          "position": {
-            "x": 312,
-            "y": 16
-          },
-          "size": {
-            "width": 136,
-            "height": 112
           }
         },
         {
@@ -370,16 +352,6 @@
         }
       ],
       "wires": [
-        {
-          "source": {
-            "block": "5daea4a5-7599-48ad-ab8c-9159f7053bb5",
-            "port": "memory-out"
-          },
-          "target": {
-            "block": "ad202c72-f861-4d17-bd68-5ed07176d127",
-            "port": "6c17c03c-4f34-4620-a622-2622b51a1444"
-          }
-        },
         {
           "source": {
             "block": "995c0835-fe61-427b-b7b6-4a66950602fb",
@@ -10765,7 +10737,7 @@
               "data": {
                 "name": "",
                 "list": "7E\n1F\n77\n6D",
-                "local": false,
+                "local": true,
                 "format": 10
               },
               "position": {
@@ -11073,7 +11045,7 @@
                 "ports": {
                   "in": [
                     {
-                      "name": "i",
+                      "name": "j",
                       "range": "[6:0]",
                       "size": 7
                     }
@@ -11108,17 +11080,6 @@
           "wires": [
             {
               "source": {
-                "block": "ed51f1e1-1ad4-450c-979d-e13167ff05ad",
-                "port": "out"
-              },
-              "target": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "i"
-              },
-              "size": 7
-            },
-            {
-              "source": {
                 "block": "16e78204-213e-4833-9096-89d735307ec2",
                 "port": "o"
               },
@@ -11148,6 +11109,17 @@
                 "block": "886a9f6f-afec-4482-929b-e7fbf05ab1e2",
                 "port": "in"
               }
+            },
+            {
+              "source": {
+                "block": "ed51f1e1-1ad4-450c-979d-e13167ff05ad",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "j"
+              },
+              "size": 7
             }
           ]
         }
