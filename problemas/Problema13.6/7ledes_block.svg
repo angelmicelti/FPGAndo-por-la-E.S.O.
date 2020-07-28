@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="7ledes_block.svg"
+   id="svg20"
+   version="1.1"
+   viewBox="0 0 120.04438 116.71561"
+   height="441.12979"
+   width="453.71149">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg20"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="220.69806"
+     inkscape:cx="234.50057"
+     inkscape:zoom="2.286409"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="1411"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <text
+     id="text4"
+     stroke-width="2.483"
+     fill="#0000ff"
+     word-spacing="0"
+     letter-spacing="0"
+     font-family="ubuntu"
+     font-size="28.049px"
+     font-weight="400"
+     y="19.913694"
+     x="-1.4381158"
+     style="line-height:1.25;-inkscape-font-specification:ubuntu"><tspan
+       id="tspan2"
+       font-weight="500"
+       style="-inkscape-font-specification:'ubuntu Medium'"
+       y="19.913694"
+       x="-1.4381158">7 LEDs</tspan></text>
+  <g
+     id="g14"
+     stroke-width="1.366"
+     transform="matrix(1.40068,0,0,1.40068,-282.90679,-93.132869)">
+    <circle
+       id="circle6"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke="#524647"
+       fill="#524647"
+       cy="122.493"
+       cx="245.188"
+       r="26.643" />
+    <circle
+       id="circle8"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke="#a70000"
+       fill="#a70000"
+       cx="245.22099"
+       cy="122.494"
+       r="21.437" />
+    <path
+       id="path10"
+       stroke="#ff0000"
+       fill="#ff0000"
+       d="m 241.23,106.226 c -5.163,1.317 -11.549,6.305 -12.002,14.528 -0.454,8.222 4.08,13.896 9.427,17.187 5.347,3.29 16.598,0.577 20.232,-5.412 4.233,-6.977 3.82,-14.75 -1.139,-20.53 -4.958,-5.778 -11.355,-7.09 -16.518,-5.773 z" />
+    <ellipse
+       id="ellipse12"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke="#ffffff"
+       fill="#ffffff"
+       cx="245.243"
+       cy="126.315"
+       rx="1.903"
+       ry="1.513" />
+  </g>
+  <text
+     id="text18"
+     stroke-width="2.483"
+     fill="#008000"
+     word-spacing="0"
+     letter-spacing="0"
+     font-family="ubuntu"
+     font-size="28.049px"
+     font-weight="400"
+     style="line-height:1.25;-inkscape-font-specification:ubuntu"
+     x="89.98217"
+     y="20.016413"><tspan
+       id="tspan16"
+       font-weight="500"
+       x="89.98217"
+       y="20.016413"
+       style="-inkscape-font-specification:'ubuntu Medium'">TX</tspan></text>
+</svg>
