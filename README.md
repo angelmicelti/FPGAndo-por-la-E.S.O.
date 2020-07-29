@@ -5,7 +5,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### [La teoría de la Electrónica Digital, con la IceZum Alhambra, es más fácil](teoria/teoria.md)
+### [La teoría de la Electrónica Digital, con la IceZum Alhambra o con la Alhambra II, es más fácil](teoria/teoria.md)
 
 ---
 
