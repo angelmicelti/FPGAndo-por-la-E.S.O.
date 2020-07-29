@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
-    <title>Memory</title>
+    <title>PROBLEMA 13.6</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="media/favicon.ico" type="image/ico"/>
@@ -45,16 +45,16 @@
     </div>
 
     <!-- Panel de control LOVE -->
-    <div class="w3-card-4 w3-margin w3-round-large ">
+    <div class="w3-card-4 w3-margin w3-round-large">
 
       <header class="w3-container w3-grey w3-text-white">
-        <h5>LOVE Controls</h5>
+        <h5>Controles del panel</h5>
       </header>
 
       <!-- Botones de gestion del panel -->
-      <div class="w3-container w3-dark-grey">
+      <div class="w3-container">
           <p>
-          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Connect</button>
+          <button class="w3-button w3-pale-green w3-round-large" type="button" id="butSerial" disabled>🔌Conectar</button>
           <button class="w3-button w3-yellow w3-round-large " id="butReset" disabled>↪ Reset</button>
           <button class="w3-bar-item w3-button w3-yellow w3-round-large " id="butSync" disabled>⤵ Sync</button>
           </p>
@@ -62,169 +62,18 @@
     </div>
 
    <!-- ENTRADAS del circuito -->
-   <div class="w3-card-4 w3-margin w3-round-large w3-dark-grey">
+   <div class="w3-card-4 w3-margin w3-round-large">
      <header class="w3-container w3-blue w3-text-white">
-       <h5><b>INPUTS</b></h5>
+       <h5><b>ENTRADAS</b></h5>
      </header>
-
-     <!-- Switches -->
-     <div class="w3-container">
-       <div class="w3-row">
-
-         <!-- Group: Address -->
-         <div class="w3-col w3-center" style="width:500px">
-           <p class="w3-margin-top w3-text-light-blue" style="margin:0px">Address</p>
-           <div class="w3-container">
-             <div class="w3-row">
-
-               <!-- Label on/off -->
-               <div class="w3-col w3-center" style="width:30px">
-                 <p class="w3-margin-top" style="margin:0px">&nbsp</p>
-                 <div class="Label-on-off"></div>
-               </div>
-
-               <!-- Switch 7 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swa"></div>
-               </div>
-
-               <!-- Switch 6 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swb"></div>
-               </div>
-
-               <!-- Switch 5 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swc"></div>
-               </div>
-
-               <!-- Switch 4 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swd"></div>
-               </div>
-
-               <!-- Switch 3 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swe"></div>
-               </div>
-
-               <!-- Switch 2 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swf"></div>
-               </div>
-
-               <!-- Switch 1 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swg"></div>
-               </div>
-
-               <!-- Switch 0 -->
-               <div class="w3-col w3-center" style="width:54px">
-                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                 <div class="Switch switch_disabled" id="swh"></div>
-               </div>
-
-             </div>
-           </div>
-         </div>
-
-         <!-- Group: Pulsadores -->
-         <!-- Vacio: para meter otro -->
-
-         <div class="w3-rest"></div>
-       </div>
-      </div>
 
       <!-- Switches -->
       <div class="w3-container">
         <div class="w3-row">
 
-          <!-- Group: Data -->
-          <div class="w3-col w3-center" style="width:500px">
-            <p class="w3-margin-top w3-text-light-blue" style="margin:0px">Data</p>
-            <div class="w3-container">
-              <div class="w3-row">
-
-                <!-- Label on/off -->
-                <div class="w3-col w3-center" style="width:30px">
-                  <p class="w3-margin-top" style="margin:0px">&nbsp</p>
-                  <div class="Label-on-off"></div>
-                </div>
-
-                <!-- Switch 7 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swA"></div>
-                </div>
-
-                <!-- Switch 6 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swB"></div>
-                </div>
-
-                <!-- Switch 5 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swC"></div>
-                </div>
-
-                <!-- Switch 4 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swD"></div>
-                </div>
-
-                <!-- Switch 3 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swE"></div>
-                </div>
-
-                <!-- Switch 2 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swF"></div>
-                </div>
-
-                <!-- Switch 1 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swG"></div>
-                </div>
-
-                <!-- Switch 0 -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swH"></div>
-                </div>
-
-
-              </div>
-            </div>
-          </div>
-
-          <!-- Grupo: Pulsadores -->
-          <!-- Vacio: para meter otro -->
-
-          <div class="w3-rest"></div>
-        </div>
-       </div>
-
-      <!-- Switches & pushbuttons -->
-      <div class="w3-container">
-        <div class="w3-row">
-
-          <!-- Group: Control switches -->
-          <div class="w3-col w3-center" style="width:300px">
-            <p class="w3-margin-top w3-text-light-blue" style="margin:0px">Control switches</p>
+          <!-- Grupo: Datos -->
+          <div class="w3-col w3-center" style="width:230px">
+            <p class="w3-margin-top w3-text-blue" style="margin:0px"><b>Interruptores</b></p>
             <div class="w3-container">
               <div class="w3-row">
 
@@ -237,60 +86,20 @@
                 <!-- First switch -->
                 <div class="w3-col w3-center" style="width:54px">
                   <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swq"></div>
+                  <div class="Switch switch_disabled" id="swA"></div>
                 </div>
 
                 <!-- Second switch -->
                 <div class="w3-col w3-center" style="width:54px">
                   <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swr"></div>
-                </div>
-
-                <!-- Third switch -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="sws"></div>
-                </div>
-
-                <!-- Fourth switch -->
-                <div class="w3-col w3-center" style="width:54px">
-                  <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                  <div class="Switch switch_disabled" id="swt"></div>
+                  <div class="Switch switch_disabled" id="swB"></div>
                 </div>
 
               </div>
             </div>
           </div>
 
-          <!-- Group: Control pushbuttons -->
-          <div class="w3-col w3-center" style="width:220px">
-            <p class="w3-margin-top w3-text-light-blue" style="margin:0px">Control Buttons</p>
 
-            <!-- First pushbuton -->
-            <div class="w3-col w3-center" style="width:54px">
-              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-              <div class="Pushbutton pushbutton_disabled" id="pbQ"></div>
-            </div>
-
-            <!-- Second pushbuton -->
-            <div class="w3-col w3-center" style="width:54px">
-              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-              <div class="Pushbutton pushbutton_disabled" id="pbR"></div>
-            </div>
-
-            <!-- Third pushbuton -->
-            <div class="w3-col w3-center" style="width:54px">
-              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-              <div class="Pushbutton pushbutton_disabled" id="pbS"></div>
-            </div>
-
-            <!-- Forth pushbuton -->
-            <div class="w3-col w3-center" style="width:54px">
-              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-              <div class="Pushbutton pushbutton_disabled" id="pbT"></div>
-            </div>
-
-          </div>
 
           <div class="w3-rest"></div>
         </div>
@@ -299,135 +108,93 @@
    </div>
 
    <!-- SALIDAS del circuito -->
-   <div class="w3-card-4 w3-margin w3-round-large w3-dark-grey">
+   <div class="w3-card-4 w3-margin w3-round-large">
      <header class="w3-container w3-green w3-text-white">
-       <h5><b>OUTPUTS</b></h5>
+       <h5><b>SALIDA</b></h5>
      </header>
 
     <!-- LEDs -->
      <div class="w3-container">
        <div class="w3-row">
 
-        <!-- Group: Leds -->
-        <div class="w3-col w3-center" style="width:500px">
-          <p class="w3-margin-top w3-text-light-green" style="margin:0px">Address</p>
+        <!-- Grupo: Leds -->
+        <div class="w3-col w3-center" style="width:360px">
+          <p class="w3-margin-top w3-text-green" style="margin:0px"><b>Display de 7 segmentos</b></p>
           <div class="w3-container">
-            <div class="w3-row">
-
-              <!-- LED 7 -->
-              <div class="w3-col w3-center" style="width:54px">
+            
+            <!-- LED 6 -->
+              <div class="w3-col w3-center" style="width:332px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="leda"></div>
               </div>
-
-              <!-- LED 6 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledb"></div>
-              </div>
-
-              <!-- LED 5 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledc"></div>
-              </div>
-
-              <!-- LED 4 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledd"></div>
-              </div>
-
-              <!-- LED 3 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="lede"></div>
-              </div>
-
-              <!-- LED 2 -->
-              <div class="w3-col w3-center" style="width:54px">
+          		  
+		    <!-- LED 5 -->
+              <div class="w3-col w3-left" style="width:150px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledf"></div>
               </div>
 
-              <!-- LED 1 -->
-              <div class="w3-col w3-center" style="width:54px">
+									
+			<!-- LED 4 -->
+              <div class="w3-col w3-right" style="width:150px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledg"></div>
+                <div class="Led led_disabled" id="ledb"></div>
               </div>
-
-              <!-- LED 0 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledh"></div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-
-        <!-- Grupo: Leds -->
-        <div class="w3-col w3-center" style="width:500px">
-          <p class="w3-margin-top w3-text-light-green" style="margin:0px">Data</p>
-          <div class="w3-container">
-            <div class="w3-row">
-
-              <!-- LED 7 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledA"></div>
-              </div>
-
-              <!-- LED 6 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledB"></div>
-              </div>
-
-              <!-- LED 5 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledC"></div>
-              </div>
-
-              <!-- LED 4 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledD"></div>
-              </div>
+		  
 
               <!-- LED 3 -->
-              <div class="w3-col w3-center" style="width:54px">
+              <div class="w3-col w3-center" style="width:332px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledE"></div>
+                <div class="Led led_disabled" id="ledg"></div>
+              </div>		  
+		  
+              <!-- LED 2			  -->
+              <div class="w3-col w3-left" style="width:150px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="lede"></div>
+              </div>
+			 
+			  
+			
+			<!-- LED 1 -->
+              <div class="w3-col w3-right" style="width:150px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledc"></div>
               </div>
 
-              <!-- LED 2 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledF"></div>
-              </div>
 
-              <!-- LED 1 -->
-              <div class="w3-col w3-center" style="width:54px">
+			<!-- LED 0 -->
+              <div class="w3-col w3-center" style="width:332px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledG"></div>
-              </div>
-
-              <!-- LED 0 -->
-              <div class="w3-col w3-center" style="width:54px">
-                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledH"></div>
-              </div>
-
-            </div>
-          </div>
+                <div class="Led led_disabled" id="ledd"></div>
+              </div>		  
+		  
         </div>
 
          <div class="w3-rest"></div>
        </div>
       </div>
    </div>
+
+<!-- Parte inferior: Enlaces -->
+   <div class="w3-container w3-margin-top">
+     
+	  <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136CircuitoLOVE.ice" download type="application/octet-stream" target="_blank">
+       <b>Hardware (.ice)</b>
+    </a>
+	 
+	 <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136.ice" download type="application/octet-stream" target="_blank">
+       <b>Solución al problema</b>
+    </a>
+
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Problema13.6/Problema136Bloque.ice" download type="application/octet-stream" target="_blank"><b>Solución al problema (bloque)</b></a>
+	
+	
+    <a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/" target="_blank"><b>Todos los problemas</b></a>
+	
+	<a class="w3-btn w3-sand" href="https://angelmicelti.github.io/FPGAndo-por-la-E.S.O./problemas/Bolet%C3%ADn%20ED13%20-%20Problemas%20pr%C3%A1cticos%20(IV).pdf" download type="application/octet-stream" target="_blank"><b>BOLETÍN 13</b></a>
+   </div>
+
 
   </body>
 </html>
