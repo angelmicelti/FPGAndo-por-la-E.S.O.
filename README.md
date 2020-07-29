@@ -17,7 +17,7 @@ Trabajando con la IceZum Alhambra en 4º de E.S.O.
 
 ---
 
-### ["Enreando" con la Alhambra](Enreando/readme.md)
+### ["Enreando" con las Alhambras](Enreando/readme.md)
 
 ---
 
