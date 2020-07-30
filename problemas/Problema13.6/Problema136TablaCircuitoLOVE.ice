@@ -248,8 +248,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1440,
-            "y": 384
+            "x": 1344,
+            "y": 584
           }
         },
         {
@@ -267,8 +267,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1568,
-            "y": 416
+            "x": 1472,
+            "y": 616
           }
         },
         {
@@ -286,8 +286,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1704,
-            "y": 448
+            "x": 1608,
+            "y": 648
           }
         },
         {
@@ -305,8 +305,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1832,
-            "y": 456
+            "x": 1736,
+            "y": 656
           }
         },
         {
@@ -361,8 +361,8 @@
             "blockColor": "fuchsia"
           },
           "position": {
-            "x": 1080,
-            "y": 520
+            "x": 984,
+            "y": 720
           }
         },
         {
@@ -380,8 +380,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1832,
-            "y": 536
+            "x": 1736,
+            "y": 736
           }
         },
         {
@@ -399,8 +399,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1712,
-            "y": 592
+            "x": 1616,
+            "y": 792
           }
         },
         {
@@ -418,8 +418,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1576,
-            "y": 616
+            "x": 1480,
+            "y": 816
           }
         },
         {
@@ -437,8 +437,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1448,
-            "y": 648
+            "x": 1352,
+            "y": 848
           }
         },
         {
@@ -667,12 +667,44 @@
           "id": "346b06a4-a3eb-4752-9a2e-1301282834a0",
           "type": "bc6704f8d5503fbc85950929fcb953df0dc45951",
           "position": {
-            "x": 1224,
-            "y": 424
+            "x": 1128,
+            "y": 624
           },
           "size": {
             "width": 96,
             "height": 256
+          }
+        },
+        {
+          "id": "5b691028-55c2-4755-b310-6321991c469a",
+          "type": "basic.info",
+          "data": {
+            "info": "<h2>SALIDA POR EL DISPLAY VIRTUAL</h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": 1184,
+            "y": -104
+          },
+          "size": {
+            "width": 352,
+            "height": 40
+          }
+        },
+        {
+          "id": "b9a8cb0f-53ee-4009-80a9-626201416e3c",
+          "type": "basic.info",
+          "data": {
+            "info": "<h2>SALIDA POR EL DISPLAY REAL</h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": 1248,
+            "y": 496
+          },
+          "size": {
+            "width": 352,
+            "height": 40
           }
         }
       ],
