@@ -80,4 +80,4 @@ Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
 ---
 
 ## Programando en Verilog
-Podemos resolver nuestros problemas utilizando Verilog, un lenguaje de los llamados de "descripción de hardware". Pulsa en [este enlace](verilog.md) para ver algo más.
+Podemos resolver nuestros problemas utilizando Verilog, un lenguaje de los llamados de "descripción de hardware". Pulsa en [este enlace](verilog.md) para aprender algo más.
