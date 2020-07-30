@@ -1,10 +1,8 @@
-# FPGAndo por la E.S.O.
+# FPGAndo por la E.S.O
 
-## Trabajando con la IceZum Alhambra y la Alhambra II en 4º de E.S.O.
+## Trabajando con la IceZum Alhambra y la Alhambra II en 4º de E.S.O
 
-
-![](http://fpgawars.github.io/img/projects/icezum.png)
-
+![Icezum Alhambra](http://fpgawars.github.io/img/projects/icezum.png)
 
 ---
 
@@ -29,6 +27,5 @@
 ---
 
 ### [Recursos varios para IceStudio y las placas Alhambra I y II](Varios/readme.md)
-
 
 ---
