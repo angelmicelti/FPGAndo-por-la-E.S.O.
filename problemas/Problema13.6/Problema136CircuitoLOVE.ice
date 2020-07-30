@@ -343,7 +343,7 @@
           "id": "821be8fe-360b-4193-ab24-66920d332dee",
           "type": "fc9dacc62ad25cd2832c3442bf277af9b708249b",
           "position": {
-            "x": 424,
+            "x": 464,
             "y": 280
           },
           "size": {
