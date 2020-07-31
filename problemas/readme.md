@@ -28,7 +28,7 @@ Resueltos en **[IceStudio](https://icestudio.io/)** para probar en **[IceZum Alh
 ## PANELES WEB    
 
 Con los paneles web podemos simular nuestros circuitos en el navegador (Chrome, preferiblemente), sin tener necesidad de conectar ningún periférico a nuestra placa. Eso sí, ésta tendrá que estar conectada al PC en el que estemos visualizando el panel.
-Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki)
+Más información en [esta página](https://github.com/FPGAwars/LOVE-FPGA/wiki) y [en este Cuaderno Técnico de Obijuan](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.8:-Entrada-y-Salida-de-bits-con-componentes-virtuales).
 
 
 | **BOLETÍN 10**      | | 
