@@ -7,8 +7,8 @@ Aquí iré depositando mis "experimentos" y mis modestos avances:
 
 ## Pruebas con display de 7 segmentos
 
-He soldado un display de 7 segmentos sobre una placa de circuito impreso, quedando del siguiente modo. Indico también el pin-out, para que se puedan reproducir las conexiones fácilmente.
-![Pinout del display de 7 segmentos](/img/Pinout7segmentos.jpg)
+He soldado un display de 7 segmentos sobre una placa de circuito impreso, quedando del siguiente modo. Indico también el pin-out, para que se puedan reproducir las conexiones fácilmente.  
+![Pinout del display de 7 segmentos](img/Pinout7segmentos.jpg)
 
 ### Prueba de displayBit en IceZum Alhambra
 [![Haz clic para ir al vídeo](http://img.youtube.com/vi/P1rI5nyq5xo/0.jpg)](https://youtu.be/P1rI5nyq5xo "Pulsa para ver el vídeo")
