@@ -77,4 +77,31 @@ He soldado un display de 7 segmentos sobre una placa de circuito impreso, quedan
 
 **Ejercicio 4**
 
-[![Haz clic para ir al vídeo](http://img.youtube.com/vi/94IiGUz9bmI/0.jpg)](https://youtu.be/94IiGUz9bmI "Ejercicio 4")
+[![Haz clic para ir al vídeo](http://img.youtube.com/vi/94IiGUz9bmI/0.jpg)](https://youtu.be/94IiGUz9bmI "Ejercicio 4")  
+
+### **Vídeos del Tutorial 9**
+### **Vídeos del Tutorial 10**
+### **Vídeos del Tutorial 11**
+### **Vídeos del Tutorial 12**
+### **Vídeos del Tutorial 13**
+### **Vídeos del Tutorial 14**
+### **Vídeos del Tutorial 15**
+### **Vídeos del Tutorial 16**
+### **Vídeos del Tutorial 17**
+### **Vídeos del Tutorial 18**
+### **Vídeos del Tutorial 19**
+### **Vídeos del Tutorial 20**
+### **Vídeos del Tutorial 21**
+### **Vídeos del Tutorial 22**
+### **Vídeos del Tutorial 23**
+### **Vídeos del Tutorial 24**
+### **Vídeos del Tutorial 25**
+### **Vídeos del Tutorial 26**
+### **Vídeos del Tutorial 27**
+### **Vídeos del Tutorial 28**
+### **Vídeos del Tutorial 29**
+
+
+
+
+
