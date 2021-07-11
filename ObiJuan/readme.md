@@ -1,7 +1,7 @@
 ### Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
 
  NÚMERO | DOCUMENTACIÓN  | VÍDEO
---|--|--
+:-:|--|--
  1 | [Electrónica digital para todos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/Video-1:-Electr%C3%B3nica-digital-para-todos)  | [https://youtu.be/R59Q-MwFbM8](https://youtu.be/R59Q-MwFbM8)
  2 | [Poniendo en marcha Icestudio](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-2:-%C2%A1Poniendo-en-marcha-Icestudio)  | [https://youtu.be/ELQLphztOjQ](https://youtu.be/ELQLphztOjQ)
  3 |[La Icezum Alhambra y otras placas con FPGAs libres](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-3:-La-Icezum-Alhambra-y-otras-placas-con-FPGAs-libres)  |  [https://youtu.be/X0tTh7tYOZg](https://youtu.be/X0tTh7tYOZg)
