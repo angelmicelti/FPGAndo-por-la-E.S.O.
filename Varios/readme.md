@@ -28,6 +28,7 @@
 - [CT7: display SPI de cuatro dígitos de 7 segmentos](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.7:-Display-SPI-de-4-d%C3%ADgitos-de-7-segmentos)
 - [CT8: entrada y salida de bits con componentes virtuales](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.8:-Entrada-y-Salida-de-bits-con-componentes-virtuales)
 - [CT9: memorias](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.9:-Memorias)
+- [CT10: entradas y pulsadores](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.10:-Entradas-y-pulsadores#enlaces)
 
 ---
 
